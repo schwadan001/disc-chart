@@ -1,15 +1,24 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <title>Frisbee Dan</title>
-    <meta name="description" content="Frisbee Dan">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta name="description" content="Frisbee Dan">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
     <link rel="stylesheet" href="common.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
 
 <body>
@@ -46,14 +55,35 @@
         A side-by-side comparison of disc attributes, using data from Infinite Discs.
     </div>
 
-    <!-- Content -->
-    <div class="flex-vert">
 
+    <div class="container-fluid">
+        <div id='table-container'></div>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.csv.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 
+    <script type="text/javascript">
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else
+                return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: 'discs.csv',
+            element: 'table-container',
+            allow_download: true,
+            csv_options: { separator: ',', delimiter: '"' },
+            datatables_options: { "paging": true },
+            custom_formatting: [[16, format_link]]
+        });
+    </script>
 </body>
 
 </html>

@@ -98,7 +98,7 @@ disc_attrs = {
 html = urlopen(url).read()
 soup = BeautifulSoup(html, features="html.parser")
 
-menu = soup.find("div", { "id": "main-menu" })
+menu = soup.find("div", {"id": "main-menu"})
 menu_items = [li for li in flatten_li(menu.findAll("li")) if li != None]
 mfgs = [itm for itm in menu_items if "/category/" in itm["href"]][:-1]
 
@@ -113,11 +113,15 @@ for mfg in mfgs:
     html = urlopen(url + mfg["href"]).read()
     soup = BeautifulSoup(html, features="html.parser")
 
-    dd_refs = get_disc_refs(soup.find("div", { "id": "ContentPlaceHolder1_pnlDD" }))
-    cd_refs = get_disc_refs(soup.find("div", { "id": "ContentPlaceHolder1_pnlCD" }))
-    mr_refs = get_disc_refs(soup.find("div", { "id": "ContentPlaceHolder1_pnlMR" }))
-    pt_refs = get_disc_refs(soup.find("div", { "id": "ContentPlaceHolder1_pnlPT" }))
-    
+    dd_refs = get_disc_refs(
+        soup.find("div", {"id": "ContentPlaceHolder1_pnlDD"}))
+    cd_refs = get_disc_refs(
+        soup.find("div", {"id": "ContentPlaceHolder1_pnlCD"}))
+    mr_refs = get_disc_refs(
+        soup.find("div", {"id": "ContentPlaceHolder1_pnlMR"}))
+    pt_refs = get_disc_refs(
+        soup.find("div", {"id": "ContentPlaceHolder1_pnlPT"}))
+
     disc_refs = dd_refs + cd_refs + mr_refs + pt_refs
 
     disc_counter = 0
@@ -128,11 +132,13 @@ for mfg in mfgs:
 
         disc = {}
         disc["manufacturer"] = mfg.text
-        disc["img"] = url + soup.find("a", { "id": "ContentPlaceHolder1_lnkDiscImage" })["href"]
+        disc["img"] = url + \
+            soup.find("a", {"id": "ContentPlaceHolder1_lnkDiscImage"})["href"]
         for key in disc_attrs:
             attr = disc_attrs[key]
             try:
-                disc[key] = attr["f"](soup.find(attr["type"], {"id": attr["id"]}).text.strip())
+                disc[key] = attr["f"](
+                    soup.find(attr["type"], {"id": attr["id"]}).text.strip())
             except Exception:
                 disc[key] = None
 
@@ -146,6 +152,23 @@ for mfg in mfgs:
 
 # write disc info to csv file
 df = pd.DataFrame.from_dict(discs)
-df.to_csv(output_file)
+df = df[[
+    "manufacturer",
+    "name",
+    "speed",
+    "glide",
+    "turn",
+    "fade",
+    "diameter",
+    "height",
+    "rim_depth",
+    "rim_width",
+    "max_weight",
+    "bead",
+    "stability",
+    "price",
+    "img"
+]]
+df.to_csv(output_file, index=False)
 
 input("Data load complete")
