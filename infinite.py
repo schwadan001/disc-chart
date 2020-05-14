@@ -18,10 +18,13 @@ def flatten_li(arr):
 
 
 def get_disc_refs(category):
-    return [
-        itm.findAll("button")[-1]["onclick"].split("=")[1].strip("'")
-        for itm in category.findAll("div", {"class": "thumbnail"})
-    ]
+    try:
+        return [
+            itm.findAll("button")[-1]["onclick"].split("=")[1].strip("'")
+            for itm in category.findAll("div", {"class": "thumbnail"})
+        ]
+    except Exception:
+        return []
 
 
 disc_attrs = {
