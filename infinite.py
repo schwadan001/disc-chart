@@ -31,67 +31,72 @@ disc_attrs = {
     "name": {
         "id": "ContentPlaceHolder1_lblDiscName",
         "type": "h1",
-        "f": lambda x: x
+        "f": lambda x: x.text
     },
     "price": {
         "id": "ContentPlaceHolder1_lblOurPrice",
         "type": "td",
-        "f": lambda x: x
+        "f": lambda x: x.text
     },
     "diameter": {
         "id": "ContentPlaceHolder1_lblDiameter",
         "type": "li",
-        "f": lambda x: float(x.strip("Diameter:").strip("cm").strip())
+        "f": lambda x: x.text.strip("Diameter:").strip()
     },
     "height": {
         "id": "ContentPlaceHolder1_lblHeight",
         "type": "li",
-        "f": lambda x: float(x.strip("Height:").strip("cm").strip())
+        "f": lambda x: x.text.strip("Height:").strip()
     },
     "rim_depth": {
         "id": "ContentPlaceHolder1_lblRimDepth",
         "type": "li",
-        "f": lambda x: float(x.strip("Rim Depth:").strip("cm").strip())
+        "f": lambda x: x.text.strip("Rim Depth:").strip()
     },
     "rim_width": {
         "id": "ContentPlaceHolder1_lblRimWidth",
         "type": "li",
-        "f": lambda x: float(x.strip("Rim Width:").strip("cm").strip())
+        "f": lambda x: x.text.strip("Rim Width:").strip()
     },
     "max_weight": {
         "id": "ContentPlaceHolder1_lblMaxWeight",
         "type": "li",
-        "f": lambda x: float(x.strip("Max Weight:").strip("cm").strip())
+        "f": lambda x: x.text.strip("Max Weight:").strip()
     },
     "speed": {
         "id": "ContentPlaceHolder1_lblSpeed",
         "type": "li",
-        "f": lambda x: float(x.strip("Speed:").strip())
+        "f": lambda x: float(x.text.strip("Speed:").strip())
     },
     "glide": {
         "id": "ContentPlaceHolder1_lblGlide",
         "type": "li",
-        "f": lambda x: float(x.strip("Glide:").strip())
+        "f": lambda x: float(x.text.strip("Glide:").strip())
     },
     "turn": {
         "id": "ContentPlaceHolder1_lblTurn",
         "type": "li",
-        "f": lambda x: float(x.strip("Turn:").strip())
+        "f": lambda x: float(x.text.strip("Turn:").strip())
     },
     "fade": {
         "id": "ContentPlaceHolder1_lblFade",
         "type": "li",
-        "f": lambda x: float(x.strip("Fade:").strip())
+        "f": lambda x: float(x.text.strip("Fade:").strip())
     },
     "stability": {
         "id": "ContentPlaceHolder1_lblStability",
         "type": "li",
-        "f": lambda x: x.strip("Stability:").strip()
+        "f": lambda x: x.text.strip("Stability:").strip()
     },
     "bead": {
         "id": "ContentPlaceHolder1_lblBeadless",
         "type": "li",
-        "f": lambda x: x
+        "f": lambda x: x.text
+    },
+    "img": {
+        "id": "ContentPlaceHolder1_lnkDiscImage",
+        "type": "a",
+        "f": lambda x: x["href"]
     }
 }
 
@@ -113,16 +118,11 @@ for mfg in mfgs:
     html = urlopen(url + mfg["href"]).read()
     soup = BeautifulSoup(html, features="html.parser")
 
-    dd_refs = get_disc_refs(
-        soup.find("div", {"id": "ContentPlaceHolder1_pnlDD"}))
-    cd_refs = get_disc_refs(
-        soup.find("div", {"id": "ContentPlaceHolder1_pnlCD"}))
-    mr_refs = get_disc_refs(
-        soup.find("div", {"id": "ContentPlaceHolder1_pnlMR"}))
-    pt_refs = get_disc_refs(
-        soup.find("div", {"id": "ContentPlaceHolder1_pnlPT"}))
-
-    disc_refs = dd_refs + cd_refs + mr_refs + pt_refs
+    disc_refs = []
+    for id in ["DD", "CD", "MR", "PT"]:
+        disc_refs += get_disc_refs(
+            soup.find("div", {"id": "ContentPlaceHolder1_pnl" + id})
+        )
 
     disc_counter = 0
     for disc_ref in disc_refs:
@@ -130,15 +130,15 @@ for mfg in mfgs:
         html = urlopen(url + disc_ref).read()
         soup = BeautifulSoup(html, features="html.parser")
 
-        disc = {}
-        disc["manufacturer"] = mfg.text
-        disc["img"] = url + \
-            soup.find("a", {"id": "ContentPlaceHolder1_lnkDiscImage"})["href"]
+        disc = {
+            "manufacturer": mfg.text,
+            "link": url + disc_ref
+        }
         for key in disc_attrs:
             attr = disc_attrs[key]
             try:
                 disc[key] = attr["f"](
-                    soup.find(attr["type"], {"id": attr["id"]}).text.strip())
+                    soup.find(attr["type"], {"id": attr["id"]}))
             except Exception:
                 disc[key] = None
 
@@ -167,8 +167,9 @@ df = df[[
     "bead",
     "stability",
     "price",
+    "link",
     "img"
 ]]
 df.to_csv(output_file, index=False)
 
-input("Data load complete")
+input("\nData load complete\n")

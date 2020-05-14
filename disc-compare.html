@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Frisbee Dan">
-    
+
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -56,6 +56,7 @@
     <!-- Page Header -->
     <div id="info">
         A side-by-side comparison of disc attributes, using data from Infinite Discs.
+        Please be patient, as this may take a while to load.
     </div>
 
 
@@ -71,11 +72,12 @@
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 
     <script type="text/javascript">
+        function format_link(link) {
+            return (link) ? "<a href='" + link + "' target='_blank'>Link</a>" : "";
+        }
+
         function format_img_link(link) {
-            if (link)
-                return "<a href='" + link + "' target='_blank'>Image</a>";
-            else
-                return "";
+            return (link) ? "<a href='" + link + "' target='_blank'>Image</a>" : "";
         }
 
         CsvToHtmlTable.init({
@@ -83,8 +85,11 @@
             element: 'table-container',
             allow_download: true,
             csv_options: { separator: ',', delimiter: '"' },
-            datatables_options: { "paging": false },
-            custom_formatting: [[14, format_img_link]]
+            datatables_options: { "paging": true },
+            custom_formatting: [
+                [14, format_link],
+                [15, format_img_link]
+            ]
         });
     </script>
 </body>
