@@ -68,9 +68,9 @@
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 
     <script type="text/javascript">
-        function format_link(link) {
+        function format_img_link(link) {
             if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+                return "<a href='" + link + "' target='_blank'>Image</a>";
             else
                 return "";
         }
@@ -81,7 +81,7 @@
             allow_download: true,
             csv_options: { separator: ',', delimiter: '"' },
             datatables_options: { "paging": true },
-            custom_formatting: [[15, format_link]]
+            custom_formatting: [[14, format_img_link]]
         });
     </script>
 </body>
