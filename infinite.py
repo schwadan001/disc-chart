@@ -1,31 +1,14 @@
 from bs4 import BeautifulSoup
+from datetime import datetime
+from functools import reduce
+from itertools import chain
+from multiprocessing import Pool
 import pandas as pd
 import re
 from urllib.request import urlopen
 
 url = "https://infinitediscs.com"
 output_file = "discs.csv"
-
-
-def flatten_li(arr):
-    flat_arr = []
-    for li in arr:
-        if li.find("li") == None:
-            flat_arr.append(li.find("a"))
-        else:
-            [flat_arr.append(sub_li.find("a")) for sub_li in li.findAll("li")]
-    return flat_arr
-
-
-def get_disc_refs(category):
-    try:
-        return [
-            itm.findAll("button")[-1]["onclick"].split("=")[1].strip("'")
-            for itm in category.findAll("div", {"class": "thumbnail"})
-        ]
-    except Exception:
-        return []
-
 
 disc_attrs = {
     "name": {
@@ -85,74 +68,101 @@ disc_attrs = {
     }
 }
 
-html = urlopen(url).read()
-soup = BeautifulSoup(html, features="html.parser")
 
-menu = soup.find("div", {"id": "main-menu"})
-menu_items = [li for li in flatten_li(menu.findAll("li")) if li != None]
-mfgs = [itm for itm in menu_items if "/category/" in itm["href"]][:-1]
+def flatten_li(arr):
+    flat_arr = []
+    for li in arr:
+        if li.find("li") == None:
+            flat_arr.append(li.find("a"))
+        else:
+            [flat_arr.append(sub_li.find("a")) for sub_li in li.findAll("li")]
+    return flat_arr
 
-discs = []
 
-mfg_counter = 0
-for mfg in mfgs:
-    mfg_counter += 1
-    print("Researching manufacturer: {} - ({}/{})".format(
-        mfg.text, str(mfg_counter), str(len(mfgs))
-    ))
+def get_manufacturer_discs(mfg):
+    print("Researching manufacturer: {}".format(mfg["text"]))
     html = urlopen(url + mfg["href"]).read()
     soup = BeautifulSoup(html, features="html.parser")
 
-    disc_refs = []
-    for id in ["DD", "CD", "MR", "PT"]:
-        disc_refs += get_disc_refs(
-            soup.find("div", {"id": "ContentPlaceHolder1_pnl" + id})
+    mfg_discs = []
+    for disc_type in ["DD", "CD", "MR", "PT"]:
+        disc_refs = get_disc_refs(
+            soup.find("div", {"id": "ContentPlaceHolder1_pnl" + disc_type})
         )
+        for disc_ref in disc_refs:
+            mfg_discs.append(
+                {"manufacturer": mfg["text"], "link": url + disc_ref}
+            )
+    return mfg_discs
 
-    disc_counter = 0
-    for disc_ref in disc_refs:
-        disc_counter += 1
-        html = urlopen(url + disc_ref).read()
-        soup = BeautifulSoup(html, features="html.parser")
 
-        disc = {
-            "manufacturer": mfg.text,
-            "link": url + disc_ref
-        }
-        for key in disc_attrs:
-            attr = disc_attrs[key]
-            try:
-                disc[key] = attr["f"](
-                    soup.find(attr["type"], {"id": attr["id"]}))
-            except Exception:
-                disc[key] = None
+def get_disc_refs(category):
+    try:
+        return [
+            itm.findAll("button")[-1]["onclick"].split("=")[1].strip("'")
+            for itm in category.findAll("div", {"class": "thumbnail"})
+        ]
+    except Exception:
+        return []
 
-        discs.append(disc)
-        print("\t({}/{}) {} - {}".format(
-            str(disc_counter).zfill(len(str(len(disc_refs)))),
-            str(len(disc_refs)),
-            mfg.text,
-            disc["name"]
-        ))
 
-# write disc info to csv file
-df = pd.DataFrame.from_dict(discs)
-df = df[[
-    "manufacturer",
-    "name",
-    "speed",
-    "glide",
-    "turn",
-    "fade",
-    "diameter",
-    "height",
-    "rim_depth",
-    "rim_width",
-    "bead",
-    "stability",
-    "link"
-]]
+def get_disc_info(disc):
+    html = urlopen(disc["link"]).read()
+    soup = BeautifulSoup(html, features="html.parser")
 
-df.to_csv(output_file, index=False)
+    for key in disc_attrs:
+        attr = disc_attrs[key]
+        try:
+            disc[key] = attr["f"](
+                soup.find(attr["type"], {"id": attr["id"]}))
+        except Exception:
+            disc[key] = None
 
-input("\nData load complete\n")
+    print("{} - {}".format(disc["manufacturer"], disc["name"]))
+    return disc
+
+
+if __name__ == "__main__":
+    start_time = datetime.now()
+
+    html = urlopen(url).read()
+    soup = BeautifulSoup(html, features="html.parser")
+
+    pool = Pool(processes=8)
+
+    menu = soup.find("div", {"id": "main-menu"})
+    menu_items = [li for li in flatten_li(menu.findAll("li")) if li != None]
+    mfgs = [{"text": itm.text, "href": itm["href"]}
+            for itm in menu_items if "/category/" in itm["href"]]
+    mfgs_dedupe = [dict(t) for t in {tuple(d.items()) for d in mfgs}]
+
+    mfg_discs_grouped = pool.map(get_manufacturer_discs, mfgs_dedupe)
+    mfg_discs = [d for d in reduce(chain, mfg_discs_grouped)]
+
+    print("\nResearching discs...")
+    discs = pool.map(get_disc_info, mfg_discs)
+
+    # write disc info to csv file
+    df = pd.DataFrame(discs).sort_values(by="manufacturer")
+    df = df[[
+        "manufacturer",
+        "name",
+        "speed",
+        "glide",
+        "turn",
+        "fade",
+        "diameter",
+        "height",
+        "rim_depth",
+        "rim_width",
+        "bead",
+        "stability",
+        "link"
+    ]]
+
+    df.to_csv(output_file, index=False)
+
+    print("\nData load complete. Took {} minute(s)".format(
+        int((datetime.now() - start_time).seconds / 60)
+    ))
+    input()
