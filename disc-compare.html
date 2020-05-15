@@ -22,6 +22,12 @@
       <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <style>
+        .col-sm-12 {
+            overflow: auto;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -61,7 +67,7 @@
 
 
     <div class="container-fluid">
-        <div id='table-container'></div>
+        <div id="table-container"></div>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -77,10 +83,10 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: 'discs.csv',
-            element: 'table-container',
+            csv_path: "discs.csv",
+            element: "table-container",
             allow_download: true,
-            csv_options: { separator: ',', delimiter: '"' },
+            csv_options: { separator: ",", delimiter: '"' },
             datatables_options: { "paging": true },
             custom_formatting: [[12, format_link]]
         });
