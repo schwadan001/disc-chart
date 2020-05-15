@@ -124,7 +124,7 @@ def get_disc_info(disc):
 
 if __name__ == "__main__":
     start_time = datetime.now()
-
+    
     html = urlopen(url).read()
     soup = BeautifulSoup(html, features="html.parser")
 
@@ -143,7 +143,9 @@ if __name__ == "__main__":
     discs = pool.map(get_disc_info, mfg_discs)
 
     # write disc info to csv file
-    df = pd.DataFrame(discs).sort_values(by="manufacturer")
+    df = pd.DataFrame(discs).sort_values(
+        by=["manufacturer", "speed", "turn", "fade", "name"]
+    )
     df = df[[
         "manufacturer",
         "name",

@@ -1,809 +1,809 @@
 manufacturer,name,speed,glide,turn,fade,diameter,height,rim_depth,rim_width,bead,stability,link
+ABC,Money Putter,2.0,3.0,0.0,2.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/ABC-Money-Putter
 ABC,Mission,4.0,5.0,-1.0,2.0,21.8 cm,2.0 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/ABC-Mission
 ABC,Flying Squirrel,6.0,5.0,-3.0,2.0,21.9 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/ABC-Flying-Squirrel
-ABC,Bee Line,14.0,5.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/ABC-Bee-Line
-ABC,Money Putter,2.0,3.0,0.0,2.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/ABC-Money-Putter
 ABC,Gamma Ray,9.0,4.0,-2.0,2.0,21.0 cm,2.0 cm,1.3 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/ABC-Gamma-Ray
 ABC,Secret Weapon,10.0,5.0,-3.0,2.0,21.1 cm,2.0 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/ABC-Secret-Weapon
-Above Ground Level,Cedar,11.0,5.0,0.0,3.0,21.5 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Cedar
-Above Ground Level,Cypress,12.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Cypress
-Above Ground Level,Sycamore,7.0,5.0,0.0,1.0,21.2 cm,2.2 cm,1.3 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Sycamore
-Above Ground Level,Magnolia,5.0,4.0,0.0,2.0,21.8 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Magnolia
-Above Ground Level,Baobab,4.0,1.0,1.0,3.0,21.3 cm,1.7 cm,1.3 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Above-Ground-Level-Baobab
+ABC,Bee Line,14.0,5.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/ABC-Bee-Line
+Above Ground Level,Ponderosa,2.0,4.0,-1.0,0.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Above-Ground-Level-Ponderosa
 Above Ground Level,Madrone,3.0,3.0,0.0,1.0,21.0 cm,2.2 cm,1.7 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Above-Ground-Level-Madrone
 Above Ground Level,Manzanita,3.0,3.0,0.0,2.0,21.0 cm,1.1 cm,1.6 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Manzanita
-Above Ground Level,Ponderosa,2.0,4.0,-1.0,0.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Above-Ground-Level-Ponderosa
-AquaFlight,Osprey,12.0,4.0,-1.0,2.0,21.0 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/AquaFlight-Osprey
-AquaFlight,Pelican,6.0,5.0,-3.0,1.0,21.1 cm,2.0 cm,1.2 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/AquaFlight-Pelican
+Above Ground Level,Baobab,4.0,1.0,1.0,3.0,21.3 cm,1.7 cm,1.3 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Above-Ground-Level-Baobab
+Above Ground Level,Magnolia,5.0,4.0,0.0,2.0,21.8 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Magnolia
+Above Ground Level,Sycamore,7.0,5.0,0.0,1.0,21.2 cm,2.2 cm,1.3 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Sycamore
+Above Ground Level,Cedar,11.0,5.0,0.0,3.0,21.5 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Cedar
+Above Ground Level,Cypress,12.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Cypress
 AquaFlight,Peace Frog,3.0,3.0,0.0,1.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/AquaFlight-Peace-Frog
 AquaFlight,Dragonfly,5.0,4.0,-3.0,1.0,21.0 cm,1.6 cm,1.1 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/AquaFlight-Dragonfly
+AquaFlight,Pelican,6.0,5.0,-3.0,1.0,21.1 cm,2.0 cm,1.2 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/AquaFlight-Pelican
 AquaFlight,Swift,7.0,5.0,-2.0,1.0,21.0 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/AquaFlight-Swift
+AquaFlight,Osprey,12.0,4.0,-1.0,2.0,21.0 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/AquaFlight-Osprey
 Axiom,Proxy,3.0,3.0,-1.0,0.5,21.0 cm,1.8 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Proxy
-Axiom,Insanity,9.0,5.0,-2.0,1.5,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Insanity
 Axiom,Envy,3.0,3.0,0.0,2.0,21.0 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Envy
-Axiom,Inspire,7.0,4.0,-1.0,2.0,21.1 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Inspire
-Axiom,Crave,7.0,5.0,-1.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Crave
 Axiom,Theory,4.0,4.0,-1.5,1.0,21.5 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Theory
-Axiom,Delirium,14.5,5.0,-0.5,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Delirium
 Axiom,Alias,4.0,4.0,-1.0,1.0,21.5 cm,1.9 cm,1.2 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Alias
-Axiom,Defy,11.0,4.0,0.0,3.5,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Defy
-Axiom,Vanish,11.0,5.0,-3.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Vanish
-Axiom,Excite,14.0,5.0,-2.0,2.0,21.1 cm,2.1 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Excite
-Axiom,Fireball,9.0,3.0,0.0,3.5,21.0 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Fireball
-Axiom,Clash,7.0,4.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Clash
-Axiom,Panic,13.0,4.0,-0.5,3.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Panic
-Axiom,Tantrum,14.0,5.0,-1.5,3.0,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Tantrum
-Axiom,Tenacity,13.0,5.0,-2.5,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Tenacity
-Axiom,Thrill,11.0,4.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Thrill
 Axiom,Pyro,5.0,4.0,0.0,2.5,21.5 cm,1.6 cm,1.3 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Pyro
-Axiom,Mayhem,13.0,5.0,-1.5,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Mayhem
-Axiom,Wrath,9.0,4.0,-1.0,2.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Wrath
+Axiom,Crave,7.0,5.0,-1.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Crave
+Axiom,Clash,7.0,4.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Clash
+Axiom,Inspire,7.0,4.0,-1.0,2.0,21.1 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Inspire
 Axiom,Virus,9.0,5.0,-3.5,1.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Virus
+Axiom,Insanity,9.0,5.0,-2.0,1.5,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Insanity
+Axiom,Wrath,9.0,4.0,-1.0,2.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Wrath
+Axiom,Fireball,9.0,3.0,0.0,3.5,21.0 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Fireball
+Axiom,Vanish,11.0,5.0,-3.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Vanish
+Axiom,Thrill,11.0,4.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Axiom-Thrill
+Axiom,Defy,11.0,4.0,0.0,3.5,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Defy
+Axiom,Tenacity,13.0,5.0,-2.5,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Tenacity
+Axiom,Mayhem,13.0,5.0,-1.5,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Mayhem
+Axiom,Panic,13.0,4.0,-0.5,3.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Panic
+Axiom,Excite,14.0,5.0,-2.0,2.0,21.1 cm,2.1 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Axiom-Excite
+Axiom,Tantrum,14.0,5.0,-1.5,3.0,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Axiom-Tantrum
+Axiom,Delirium,14.5,5.0,-0.5,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Axiom-Delirium
 Crosslap,Credo,3.0,2.0,0.0,3.0,21.7 cm,2.0 cm,1.6 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Crosslap-Credo
 Crosslap,Lucky,5.0,5.0,-2.0,1.0,21.7 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Crosslap-Lucky
-DGA,Titanic,2.0,2.0,0.0,2.0,21.1 cm,2.2 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Titanic
-DGA,Hurricane,12.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Hurricane
-DGA,Riptide,9.0,4.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Riptide
-DGA,Rogue,11.0,4.0,-1.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Rogue
-DGA,Sail,11.0,6.0,-3.0,1.0,21.0 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/DGA-Sail
-DGA,Tempest,13.0,5.0,-3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/DGA-Tempest
-DGA,Torrent,14.0,5.0,-1.0,2.0,21.0 cm,1.5 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Torrent
-DGA,Tsunami,10.0,3.0,0.0,4.0,21.2 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Tsunami
-DGA,Undertow,10.0,4.0,-1.0,1.0,21.2 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/DGA-Undertow
-DGA,Banzai,8.0,4.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Banzai
-DGA,Flathead Cyclone,7.0,4.0,-1.0,3.0,21.3 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Flathead-Cyclone
-DGA,Hellfire,10.0,3.0,0.0,5.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Hellfire
-DGA,Pipeline,8.0,5.0,0.0,2.0,21.4 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/DGA-Pipeline
-DGA,Aftershock,4.0,3.0,0.0,2.0,21.5 cm,2.0 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Aftershock
-DGA,Blowfly I,2.0,2.0,-1.0,2.0,21.5 cm,2.7 cm,1.1 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/DGA-Blowfly-I
-DGA,Tremor,6.0,5.0,-4.0,1.0,21.6 cm,1.7 cm,5.1 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/DGA-Tremor
-DGA,Squall,6.0,4.0,-1.0,1.0,21.5 cm,1.8 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/DGA-Squall
-DGA,Quake,5.0,3.0,0.0,3.0,21.6 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Quake
-DGA,Rift,5.0,4.0,-1.0,1.5,21.6 cm,1.8 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/DGA-Rift
-DGA,Shockwave,4.0,2.0,0.0,3.0,21.5 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Shockwave
-DGA,Blunt Gumbputt,2.0,2.0,0.0,2.0,21.7 cm,2.2 cm,1.9 cm,0.7 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Blunt-Gumbputt
-DGA,Breaker,4.0,3.0,0.0,3.0,21.0 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Breaker
 DGA,PowerDrive Gumbputt,2.0,2.0,-2.0,1.0,21.7 cm,2.2 cm,1.9 cm,0.7 cm,Beadless,Understable,https://infinitediscs.com/DGA-PowerDrive-Gumbputt
 DGA,Reef,2.0,2.0,-1.0,1.0,21.2 cm,2.1 cm,1.4 cm,0.9 cm,Beaded,Understable,https://infinitediscs.com/DGA-Reef
+DGA,Blowfly I,2.0,2.0,-1.0,2.0,21.5 cm,2.7 cm,1.1 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/DGA-Blowfly-I
 DGA,Steady,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/DGA-Steady
+DGA,Blunt Gumbputt,2.0,2.0,0.0,2.0,21.7 cm,2.2 cm,1.9 cm,0.7 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Blunt-Gumbputt
 DGA,Steady BL,2.0,4.0,0.0,2.0,21.2 cm,2.5 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/DGA-Steady-BL
+DGA,Titanic,2.0,2.0,0.0,2.0,21.1 cm,2.2 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Titanic
 DGA,Blowfly II,3.0,2.0,-1.0,1.0,21.7 cm,2.3 cm,1.7 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/DGA-Blowfly-II
-Daredevil,Big Foot,13.0,5.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Big-Foot
-Daredevil,Gray Jay,14.0,4.0,0.0,5.0,21.0 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Gray-Jay
-Daredevil,Caribou,4.0,5.0,-3.0,1.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Caribou
-Daredevil,Great Horned Owl,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.4 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Great-Horned-Owl
-Daredevil,Bighorn,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.6 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Bighorn
-Daredevil,Beaver,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.6 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Beaver
-Daredevil,Walrus,4.0,5.0,0.0,3.0,21.8 cm,1.9 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Daredevil-Walrus
-Daredevil,Pteranodon,4.0,6.0,-2.0,1.0,21.6 cm,2.3 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Pteranodon
-Daredevil,Moose,4.0,5.0,0.0,2.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Moose
-Daredevil,Grizzly,4.0,4.0,-1.0,2.0,21.9 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Daredevil-Grizzly
-Daredevil,Albatross,14.0,4.0,0.0,5.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Albatross
-Daredevil,Polar Bear,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Polar-Bear
-Daredevil,Wolverine,8.0,5.0,-2.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Wolverine
-Daredevil,Swift Fox,7.0,5.0,-3.0,1.0,21.1 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Swift-Fox
-Daredevil,Sabertooth,9.0,4.0,0.0,5.0,21.0 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Sabertooth
-Daredevil,Yeti,13.0,5.0,-3.0,1.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Yeti
-Daredevil,Sasquatch,12.0,5.0,-5.0,1.0,21.0 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Sasquatch
-Daredevil,Ogopogo,9.0,4.0,-2.0,5.0,21.1 cm,1.5 cm,1.5 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Ogopogo
-Daredevil,Merlin,14.0,4.0,-1.0,5.0,21.0 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Merlin
-Daredevil,Mammoth,9.0,4.0,-1.0,5.0,21.1 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Mammoth
-Daredevil,Buffalo,9.0,4.0,-1.0,5.0,21.2 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Buffalo
-Daredevil,Timberwolf,8.0,5.0,-1.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Timberwolf
+DGA,Aftershock,4.0,3.0,0.0,2.0,21.5 cm,2.0 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Aftershock
+DGA,Breaker,4.0,3.0,0.0,3.0,21.0 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Breaker
+DGA,Shockwave,4.0,2.0,0.0,3.0,21.5 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Shockwave
+DGA,Rift,5.0,4.0,-1.0,1.5,21.6 cm,1.8 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/DGA-Rift
+DGA,Quake,5.0,3.0,0.0,3.0,21.6 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Quake
+DGA,Tremor,6.0,5.0,-4.0,1.0,21.6 cm,1.7 cm,5.1 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/DGA-Tremor
+DGA,Squall,6.0,4.0,-1.0,1.0,21.5 cm,1.8 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/DGA-Squall
+DGA,Flathead Cyclone,7.0,4.0,-1.0,3.0,21.3 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Flathead-Cyclone
+DGA,Pipeline,8.0,5.0,0.0,2.0,21.4 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/DGA-Pipeline
+DGA,Banzai,8.0,4.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Banzai
+DGA,Riptide,9.0,4.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Riptide
+DGA,Undertow,10.0,4.0,-1.0,1.0,21.2 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/DGA-Undertow
+DGA,Tsunami,10.0,3.0,0.0,4.0,21.2 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Tsunami
+DGA,Hellfire,10.0,3.0,0.0,5.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/DGA-Hellfire
+DGA,Sail,11.0,6.0,-3.0,1.0,21.0 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/DGA-Sail
+DGA,Rogue,11.0,4.0,-1.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Rogue
+DGA,Hurricane,12.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Hurricane
+DGA,Tempest,13.0,5.0,-3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/DGA-Tempest
+DGA,Torrent,14.0,5.0,-1.0,2.0,21.0 cm,1.5 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/DGA-Torrent
 Daredevil,Woodchuck,2.0,3.0,-1.0,0.0,21.3 cm,1.7 cm,1.3 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Woodchuck
-Discmania,P3x,3.0,2.0,0.0,3.0,21.2 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Overstable,https://infinitediscs.com/Discmania-P3x
-Discmania,Tactic,4.0,2.0,0.0,3.0,21.4 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-Tactic
-Discmania,TD,10.0,6.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TD-Rush
-Discmania,P3,3.0,5.0,0.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-P3
-Discmania,Tiger Warrior,3.0,3.0,0.0,1.0,21.1 cm,1.8 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Tiger-Warrior
-Discmania,P2,2.0,3.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Discmania-P2
-Discmania,Enigma,12.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Evolution-Enigma
+Daredevil,Polar Bear,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Polar-Bear
+Daredevil,Beaver,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.6 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Beaver
+Daredevil,Bighorn,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.6 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Bighorn
+Daredevil,Great Horned Owl,2.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.4 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Great-Horned-Owl
+Daredevil,Caribou,4.0,5.0,-3.0,1.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Caribou
+Daredevil,Pteranodon,4.0,6.0,-2.0,1.0,21.6 cm,2.3 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Pteranodon
+Daredevil,Grizzly,4.0,4.0,-1.0,2.0,21.9 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Daredevil-Grizzly
+Daredevil,Moose,4.0,5.0,0.0,2.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Moose
+Daredevil,Walrus,4.0,5.0,0.0,3.0,21.8 cm,1.9 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Daredevil-Walrus
+Daredevil,Swift Fox,7.0,5.0,-3.0,1.0,21.1 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Swift-Fox
+Daredevil,Wolverine,8.0,5.0,-2.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Wolverine
+Daredevil,Timberwolf,8.0,5.0,-1.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Timberwolf
+Daredevil,Ogopogo,9.0,4.0,-2.0,5.0,21.1 cm,1.5 cm,1.5 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Ogopogo
+Daredevil,Buffalo,9.0,4.0,-1.0,5.0,21.2 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Buffalo
+Daredevil,Mammoth,9.0,4.0,-1.0,5.0,21.1 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Mammoth
+Daredevil,Sabertooth,9.0,4.0,0.0,5.0,21.0 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Sabertooth
+Daredevil,Sasquatch,12.0,5.0,-5.0,1.0,21.0 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Sasquatch
+Daredevil,Yeti,13.0,5.0,-3.0,1.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Daredevil-Yeti
+Daredevil,Big Foot,13.0,5.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Daredevil-Big-Foot
+Daredevil,Merlin,14.0,4.0,-1.0,5.0,21.0 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Merlin
+Daredevil,Albatross,14.0,4.0,0.0,5.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Albatross
+Daredevil,Gray Jay,14.0,4.0,0.0,5.0,21.0 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Gray-Jay
 Discmania,P1,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-P1
-Discmania,CD,10.0,5.0,-1.0,2.0,21.2 cm,1.3 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD-Craze
-Discmania,CD3,11.0,5.0,-1.0,2.0,21.1 cm,2.0 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD3
-Discmania,DD,11.0,5.0,0.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DD-Hysteria
-Discmania,DD2,13.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Discmania-DD2-Frenzy
-Discmania,DD3,12.0,5.0,-1.0,3.0,21.0 cm,1.8 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DD3
-Discmania,DDx,12.0,6.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DDx
-Discmania,PD,10.0,4.0,0.0,3.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-PD-Freak
-Discmania,PD2,12.0,4.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PD2-Chaos
-Discmania,PD3,11.0,3.0,0.0,5.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PD3
-Discmania,PDx,11.0,4.0,0.0,3.0,21.1 cm,1.9 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PDx
-Discmania,Sea Serpent,11.0,5.0,-2.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Sea-Serpent
 Discmania,P1X,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Discmania-P1X
-Discmania,TDx,9.0,5.0,-3.0,1.0,21.1 cm,1.5 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TDx
-Discmania,CD2,9.0,5.0,-1.0,2.0,21.1 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD2
-Discmania,Essence,8.0,6.0,-2.0,1.0,21.0 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Essence
-Discmania,TD2 Fever,10.0,5.0,-4.0,1.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TD2-Fever
-Discmania,FD2,7.0,4.0,0.0,2.0,21.2 cm,1.6 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-FD2
 Discmania,Link,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Link
+Discmania,P2,2.0,3.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Discmania-P2
+Discmania,Tiger Warrior,3.0,3.0,0.0,1.0,21.1 cm,1.8 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Tiger-Warrior
+Discmania,P3,3.0,5.0,0.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-P3
+Discmania,P3x,3.0,2.0,0.0,3.0,21.2 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Overstable,https://infinitediscs.com/Discmania-P3x
+Discmania,MD,4.0,5.0,0.0,0.0,21.8 cm,2.1 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Discmania-MD
+Discmania,MD1,4.0,4.0,0.0,2.0,21.7 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-MD1
+Discmania,MD2,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-MD2-Fiend
 Discmania,Spring Ox,4.0,3.0,0.0,2.0,21.6 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-Spring-Ox
+Discmania,Tactic,4.0,2.0,0.0,3.0,21.4 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-Tactic
+Discmania,Gremlin GM,5.0,4.0,0.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Discmania-Gremlin-GM
+Discmania,MD3,5.0,5.0,0.0,2.0,21.8 cm,1.9 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-MD3
+Discmania,MD4,5.0,4.0,0.0,3.0,21.7 cm,1.6 cm,1.4 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Discmania-MD4
 Discmania,Method,5.0,5.0,0.0,3.0,21.9 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-Method
 Discmania,MD5,5.0,3.0,0.0,4.0,21.0 cm,1.9 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-MD5
-Discmania,FD,7.0,6.0,-1.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Discmania-FD
-Discmania,MD3,5.0,5.0,0.0,2.0,21.8 cm,1.9 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-MD3
-Discmania,MD2,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-MD2-Fiend
-Discmania,MD4,5.0,4.0,0.0,3.0,21.7 cm,1.6 cm,1.4 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Discmania-MD4
-Discmania,MD,4.0,5.0,0.0,0.0,21.8 cm,2.1 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Discmania-MD
-Discmania,Gremlin GM,5.0,4.0,0.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Discmania-Gremlin-GM
-Discmania,Sun Bird,7.0,5.0,-4.0,1.0,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discmania-Sun-Bird
-Discmania,Instinct,7.0,5.0,0.0,2.0,21.2 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Instinct
 Discmania,Fox Spirit,6.0,4.0,0.0,2.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Fox-Spirit
+Discmania,Sun Bird,7.0,5.0,-4.0,1.0,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discmania-Sun-Bird
+Discmania,FD,7.0,6.0,-1.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Discmania-FD
+Discmania,FD2,7.0,4.0,0.0,2.0,21.2 cm,1.6 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-FD2
+Discmania,Instinct,7.0,5.0,0.0,2.0,21.2 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Instinct
+Discmania,Essence,8.0,6.0,-2.0,1.0,21.0 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Essence
+Discmania,TDx,9.0,5.0,-3.0,1.0,21.1 cm,1.5 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TDx
+Discmania,CD2,9.0,5.0,-1.0,2.0,21.1 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD2
 Discmania,FD3,9.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-FD3
-Discmania,MD1,4.0,4.0,0.0,2.0,21.7 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-MD1
-Discraft,Challenger SS,2.0,4.0,-1.0,2.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Challenger-SS
-Discraft,Sol,4.0,5.0,-3.0,0.0,20.0 cm,2.3 cm,1.9 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Sol
-Discraft,Stratus,5.0,5.0,-3.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Stratus
-Discraft,Wasp,5.0,5.0,0.0,3.0,21.6 cm,1.8 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Wasp
-Discraft,APX,2.0,3.0,-1.0,1.0,21.0 cm,2.3 cm,1.4 cm,0.9 cm,Beaded,Understable,https://infinitediscs.com/Discraft-APX
-Discraft,Banger GT,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.6 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Discraft-Banger-GT
-Discraft,Challenger,2.0,3.0,0.0,2.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Challenger
-Discraft,Challenger OS,3.0,5.0,0.0,2.5,21.1 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Challenger-OS
-Discraft,Fierce,3.0,4.0,-2.0,0.0,21.0 cm,2.3 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Fierce
-Discraft,Magnet,2.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,0.8 cm,0.8 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Magnet
-Discraft,Luna,3.0,3.0,0.0,3.0,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Luna
+Discmania,TD2 Fever,10.0,5.0,-4.0,1.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TD2-Fever
+Discmania,TD,10.0,6.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discmania-TD-Rush
+Discmania,CD,10.0,5.0,-1.0,2.0,21.2 cm,1.3 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD-Craze
+Discmania,PD,10.0,4.0,0.0,3.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-PD-Freak
+Discmania,Sea Serpent,11.0,5.0,-2.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Sea-Serpent
+Discmania,CD3,11.0,5.0,-1.0,2.0,21.1 cm,2.0 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-CD3
+Discmania,DD,11.0,5.0,0.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DD-Hysteria
+Discmania,PDx,11.0,4.0,0.0,3.0,21.1 cm,1.9 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PDx
+Discmania,PD3,11.0,3.0,0.0,5.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PD3
+Discmania,DDx,12.0,6.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DDx
+Discmania,Enigma,12.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Evolution-Enigma
+Discmania,DD3,12.0,5.0,-1.0,3.0,21.0 cm,1.8 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Discmania-DD3
+Discmania,PD2,12.0,4.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Discmania-PD2-Chaos
+Discmania,DD2,13.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Discmania-DD2-Frenzy
 Discraft,Putt'r,2.0,3.0,-2.0,1.0,21.0 cm,2.4 cm,1.6 cm,0.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Puttr
+Discraft,APX,2.0,3.0,-1.0,1.0,21.0 cm,2.3 cm,1.4 cm,0.9 cm,Beaded,Understable,https://infinitediscs.com/Discraft-APX
 Discraft,Rattler,2.0,3.0,-1.0,1.0,21.2 cm,2.2 cm,1.6 cm,0.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Rattler
-Discraft,Ringer,3.0,4.0,0.0,2.0,21.0 cm,1.8 cm,1.2 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Ringer
-Discraft,Ringer GT,3.0,3.0,0.0,3.0,21.1 cm,1.7 cm,1.1 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Ringer-GT
-Discraft,Roach,2.0,4.0,0.0,1.0,21.1 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Roach
-Discraft,Soft Magnet,2.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,1.4 cm,0.8 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Soft-Magnet
-Discraft,Zone,4.0,3.0,0.0,3.0,21.1 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Zone
-Discraft,Nebula,5.0,4.0,-0.5,2.0,21.3 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Nebula
+Discraft,Challenger SS,2.0,4.0,-1.0,2.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Challenger-SS
 Discraft,Focus,2.0,3.0,-1.0,2.0,21.1 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Focus
+Discraft,Magnet,2.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,0.8 cm,0.8 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Magnet
+Discraft,Soft Magnet,2.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,1.4 cm,0.8 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Soft-Magnet
+Discraft,Banger GT,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.6 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Discraft-Banger-GT
+Discraft,Roach,2.0,4.0,0.0,1.0,21.1 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Roach
+Discraft,Challenger,2.0,3.0,0.0,2.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Challenger
+Discraft,Fierce,3.0,4.0,-2.0,0.0,21.0 cm,2.3 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Fierce
+Discraft,Ringer,3.0,4.0,0.0,2.0,21.0 cm,1.8 cm,1.2 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Ringer
+Discraft,Challenger OS,3.0,5.0,0.0,2.5,21.1 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Challenger-OS
+Discraft,Luna,3.0,3.0,0.0,3.0,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Luna
+Discraft,Ringer GT,3.0,3.0,0.0,3.0,21.1 cm,1.7 cm,1.1 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Discraft-Ringer-GT
+Discraft,Sol,4.0,5.0,-3.0,0.0,20.0 cm,2.3 cm,1.9 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Sol
 Discraft,Meteor,4.0,5.0,-3.0,1.0,21.5 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Meteor
 Discraft,Comet,4.0,5.0,-2.0,1.0,21.8 cm,2.1 cm,1.3 cm,1.2 cm,Beaded,Understable,https://infinitediscs.com/Discraft-Comet
-Discraft,Impact,5.0,5.0,-2.0,2.0,21.6 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Impact
-Discraft,Mantis,8.0,4.0,-2.0,2.0,21.2 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Mantis
-Discraft,Heat,9.0,6.0,-3.0,1.0,21.1 cm,2.1 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Heat
-Discraft,Eclipse,7.0,5.0,-2.0,2.0,22.0 cm,1.6 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Eclipse
-Discraft,Cyclone,7.0,4.0,-1.0,3.0,21.3 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Cyclone
-Discraft,Anax,10.0,6.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Anax
-Discraft,Zeus,12.0,5.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Zeus
-Discraft,Wildcat,11.0,5.0,-2.0,3.0,21.3 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Wildcat
-Discraft,Thrasher,12.0,5.0,-3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Thrasher
-Discraft,Surge SS,11.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Surge-SS
-Discraft,Surge,11.0,5.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Surge
-Discraft,Spectra,12.0,5.0,-2.0,2.0,21.4 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Spectra
-Discraft,Punisher,12.0,5.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Punisher
-Discraft,Pulse,11.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.3 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Pulse
-Discraft,Nuke SS,13.0,5.0,-3.0,3.0,21.2 cm,1.5 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Nuke-SS
-Discraft,Nuke OS,13.0,4.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Nuke-OS
-Discraft,Nuke,13.0,5.0,-1.0,3.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Nuke
-Discraft,Machete,11.0,4.0,0.0,4.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Machete
-Discraft,Force,12.0,5.0,0.0,3.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Force
-Discraft,Flick,12.0,3.0,1.0,5.0,21.1 cm,1.3 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Flick
-Discraft,Flash,10.0,5.0,-2.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Flash
-Discraft,Crush,11.0,5.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Crush
-Discraft,Crank SS,13.0,5.0,-3.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Crank-SS
-Discraft,Crank,13.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Crank
-Discraft,Malta,5.0,4.0,1.0,3.0,21.3 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Malta
-Discraft,Avenger,10.0,5.0,0.0,3.0,21.2 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Avenger
-Discraft,Predator,9.0,4.0,0.0,4.0,21.2 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Predator
-Discraft,Raptor,9.0,4.0,0.0,3.0,21.3 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Raptor
-Discraft,Avenger SS,10.0,5.0,-3.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Avenger-SS
-Discraft,Stalker,7.0,5.0,-1.0,2.0,21.6 cm,1.6 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Stalker
-Discraft,Hornet,5.0,5.0,0.0,4.0,21.5 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Hornet
 Discraft,Hawk,4.0,5.0,-2.0,2.0,21.5 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Hawk
-Discraft,Glide,6.0,5.0,-3.0,2.0,21.5 cm,2.0 cm,1.3 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Glide
-Discraft,Drone,5.0,3.0,1.0,4.0,21.5 cm,2.0 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Drone
+Discraft,Zone,4.0,3.0,0.0,3.0,21.1 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Zone
+Discraft,Stratus,5.0,5.0,-3.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Stratus
 Discraft,Buzzz SS,5.0,4.0,-2.0,1.0,21.6 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Buzzz-SS
-Discraft,Buzzz OS,5.0,4.0,0.0,3.0,21.7 cm,1.7 cm,1.2 cm,1.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Buzzz-OS
-Discraft,Buzzz GT,5.0,5.0,0.0,1.0,21.7 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Buzzz-GT
+Discraft,Impact,5.0,5.0,-2.0,2.0,21.6 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Impact
 Discraft,Buzzz,5.0,4.0,-1.0,1.0,21.7 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Buzzz
+Discraft,Nebula,5.0,4.0,-0.5,2.0,21.3 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Nebula
+Discraft,Buzzz GT,5.0,5.0,0.0,1.0,21.7 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Buzzz-GT
+Discraft,Buzzz OS,5.0,4.0,0.0,3.0,21.7 cm,1.7 cm,1.2 cm,1.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Buzzz-OS
+Discraft,Wasp,5.0,5.0,0.0,3.0,21.6 cm,1.8 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Wasp
+Discraft,Hornet,5.0,5.0,0.0,4.0,21.5 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Hornet
+Discraft,Malta,5.0,4.0,1.0,3.0,21.3 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Malta
+Discraft,Drone,5.0,3.0,1.0,4.0,21.5 cm,2.0 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Drone
 Discraft,Archer,6.0,5.0,-3.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Archer
+Discraft,Glide,6.0,5.0,-3.0,2.0,21.5 cm,2.0 cm,1.3 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Glide
 Discraft,Zombee,6.0,5.0,-1.0,1.0,21.6 cm,2.1 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Zombee
+Discraft,Sting,7.0,5.0,-2.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Sting
+Discraft,Eclipse,7.0,5.0,-2.0,2.0,22.0 cm,1.6 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Eclipse
+Discraft,Stalker,7.0,5.0,-1.0,2.0,21.6 cm,1.6 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Stalker
+Discraft,Cyclone,7.0,4.0,-1.0,3.0,21.3 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Cyclone
+Discraft,Xpress,8.0,5.0,-3.0,1.0,21.1 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Xpress
+Discraft,Mantis,8.0,4.0,-2.0,2.0,21.2 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Mantis
 Discraft,XS,8.0,5.0,-2.0,3.0,21.1 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Discraft-XS
 Discraft,XL,8.0,5.0,-1.0,2.0,21.1 cm,2.1 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Discraft-XL
-Discraft,Vulture,10.0,5.0,0.0,2.0,21.4 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Vulture
-Discraft,Undertaker,9.0,5.0,-1.0,2.0,21.1 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Undertaker
 Discraft,Tracker,8.0,5.0,-1.0,3.0,21.2 cm,1.7 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Tracker
-Discraft,Xpress,8.0,5.0,-3.0,1.0,21.1 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Xpress
 Discraft,Reaper,8.0,3.0,0.0,4.0,21.4 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Reaper
 Discraft,Talon,8.0,3.0,1.0,3.0,21.0 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Talon
-Discraft,Sting,7.0,5.0,-2.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Sting
+Discraft,Heat,9.0,6.0,-3.0,1.0,21.1 cm,2.1 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Heat
+Discraft,Undertaker,9.0,5.0,-1.0,2.0,21.1 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Undertaker
+Discraft,Raptor,9.0,4.0,0.0,3.0,21.3 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Raptor
+Discraft,Predator,9.0,4.0,0.0,4.0,21.2 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Predator
+Discraft,Avenger SS,10.0,5.0,-3.0,1.0,21.4 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Avenger-SS
+Discraft,Flash,10.0,5.0,-2.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Flash
+Discraft,Vulture,10.0,5.0,0.0,2.0,21.4 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Vulture
+Discraft,Anax,10.0,6.0,0.0,3.0,21.4 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Anax
+Discraft,Avenger,10.0,5.0,0.0,3.0,21.2 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Avenger
+Discraft,Wildcat,11.0,5.0,-2.0,3.0,21.3 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Wildcat
+Discraft,Surge SS,11.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Surge-SS
+Discraft,Surge,11.0,5.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Surge
+Discraft,Pulse,11.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.3 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Pulse
+Discraft,Crush,11.0,5.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Crush
+Discraft,Machete,11.0,4.0,0.0,4.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Machete
+Discraft,Thrasher,12.0,5.0,-3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Thrasher
+Discraft,Spectra,12.0,5.0,-2.0,2.0,21.4 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Spectra
+Discraft,Zeus,12.0,5.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Zeus
+Discraft,Force,12.0,5.0,0.0,3.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Force
+Discraft,Punisher,12.0,5.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Punisher
+Discraft,Flick,12.0,3.0,1.0,5.0,21.1 cm,1.3 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Flick
+Discraft,Crank SS,13.0,5.0,-3.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Crank-SS
+Discraft,Nuke SS,13.0,5.0,-3.0,3.0,21.2 cm,1.5 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Discraft-Nuke-SS
+Discraft,Crank,13.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Discraft-Crank
+Discraft,Nuke,13.0,5.0,-1.0,3.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Discraft-Nuke
+Discraft,Nuke OS,13.0,4.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Discraft-Nuke-OS
+Disctroyer,Sparrow,3.0,3.0,0.0,2.0,21.3 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Overstable,https://infinitediscs.com/Disctroyer-Sparrow
 Disctroyer,Skylark,5.0,4.0,0.0,2.0,21.7 cm,1.9 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Disctroyer-Skylark
 Disctroyer,Starling,13.0,5.0,-2.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Disctroyer-Starling
-Disctroyer,Sparrow,3.0,3.0,0.0,2.0,21.3 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Overstable,https://infinitediscs.com/Disctroyer-Sparrow
-Dynamic Discs,Judge,2.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Dynamic-Discs-Judge
-Dynamic Discs,Marshal,3.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.6 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Marshal
-Dynamic Discs,Slammer,3.0,2.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Slammer
+Dynamic Discs,Guard,2.0,5.0,0.0,0.5,21.0 cm,2.1 cm,1.6 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Guard
 Dynamic Discs,Warden,2.0,4.0,0.0,0.5,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Warden
-Dynamic Discs,Getaway,9.0,5.0,-0.5,3.0,21.1 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Getaway
-Dynamic Discs,Felon,9.0,3.0,0.5,4.0,21.2 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Felon
-Dynamic Discs,Convict,9.0,4.0,-0.5,3.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Convict
-Dynamic Discs,Breakout,8.0,5.0,-1.0,1.5,21.0 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Breakout
-Dynamic Discs,Trespass,12.0,5.0,-1.0,3.0,21.1 cm,1.9 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Trespass
-Dynamic Discs,Sheriff,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Sheriff
-Dynamic Discs,Sergeant,11.0,4.0,0.0,2.5,21.1 cm,1.7 cm,2.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Sergeant
-Dynamic Discs,Renegade,11.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Renegade
-Dynamic Discs,Raider,13.0,5.0,-0.5,3.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Raider
-Dynamic Discs,Escape,9.0,5.0,-1.0,2.0,21.1 cm,2.0 cm,1.0 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Escape
-Dynamic Discs,Maverick,7.0,4.0,-1.5,2.0,21.2 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Maverick
-Dynamic Discs,Proof,5.0,5.0,-3.0,1.0,21.5 cm,1.5 cm,1.1 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Proof
-Dynamic Discs,Suspect,4.0,3.0,0.0,3.0,21.3 cm,1.6 cm,1.2 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Suspect
-Dynamic Discs,Vandal,9.0,5.0,-1.5,2.0,21.2 cm,1.7 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Vandal
+Dynamic Discs,Judge,2.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Dynamic-Discs-Judge
 Dynamic Discs,Gavel,3.0,5.0,-2.0,0.5,21.3 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Gavel
 Dynamic Discs,Deputy,3.0,4.0,-1.5,0.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Deputy
-Dynamic Discs,Witness,8.0,6.0,-3.0,1.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Witness
-Dynamic Discs,Freedom,14.0,5.0,-3.0,3.0,21.2 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Freedom
-Dynamic Discs,Warrant,5.0,5.0,-2.0,0.0,21.7 cm,1.8 cm,1.4 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Warrant
-Dynamic Discs,Verdict,5.0,4.0,0.0,3.5,21.7 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Verdict
-Dynamic Discs,Truth,5.0,5.0,-1.0,1.0,21.7 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Truth
-Dynamic Discs,EMac Truth,5.0,5.0,0.0,2.0,21.7 cm,1.8 cm,1.2 cm,1.5 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-EMac-Truth
-Dynamic Discs,Evidence,5.0,5.0,-1.0,0.0,21.7 cm,1.8 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Evidence
-Dynamic Discs,Fugitive,5.0,5.0,0.0,1.0,21.8 cm,2.1 cm,1.3 cm,1.4 cm,Beaded,Stable,https://infinitediscs.com/Dynamic-Discs-Fugitive
-Dynamic Discs,Justice,5.0,1.0,0.5,4.0,21.3 cm,1.7 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Justice
+Dynamic Discs,Marshal,3.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.6 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Marshal
+Dynamic Discs,Slammer,3.0,2.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Slammer
+Dynamic Discs,Suspect,4.0,3.0,0.0,3.0,21.3 cm,1.6 cm,1.2 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Suspect
 Dynamic Discs,Patrol,5.0,5.0,-3.0,1.0,21.7 cm,1.6 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Patrol
-Dynamic Discs,Guard,2.0,5.0,0.0,0.5,21.0 cm,2.1 cm,1.6 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Guard
+Dynamic Discs,Proof,5.0,5.0,-3.0,1.0,21.5 cm,1.5 cm,1.1 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Proof
+Dynamic Discs,Warrant,5.0,5.0,-2.0,0.0,21.7 cm,1.8 cm,1.4 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Warrant
+Dynamic Discs,Evidence,5.0,5.0,-1.0,0.0,21.7 cm,1.8 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Evidence
+Dynamic Discs,Truth,5.0,5.0,-1.0,1.0,21.7 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Truth
+Dynamic Discs,Fugitive,5.0,5.0,0.0,1.0,21.8 cm,2.1 cm,1.3 cm,1.4 cm,Beaded,Stable,https://infinitediscs.com/Dynamic-Discs-Fugitive
+Dynamic Discs,EMac Truth,5.0,5.0,0.0,2.0,21.7 cm,1.8 cm,1.2 cm,1.5 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-EMac-Truth
+Dynamic Discs,Verdict,5.0,4.0,0.0,3.5,21.7 cm,1.7 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Verdict
+Dynamic Discs,Justice,5.0,1.0,0.5,4.0,21.3 cm,1.7 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Justice
+Dynamic Discs,Maverick,7.0,4.0,-1.5,2.0,21.2 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Maverick
+Dynamic Discs,Witness,8.0,6.0,-3.0,1.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Witness
 Dynamic Discs,Thief,8.0,5.0,-1.5,2.0,21.2 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Thief
-Dynamic Discs,Enforcer,12.0,4.0,0.5,4.0,21.1 cm,1.8 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Enforcer
+Dynamic Discs,Breakout,8.0,5.0,-1.0,1.5,21.0 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Breakout
+Dynamic Discs,Vandal,9.0,5.0,-1.5,2.0,21.2 cm,1.7 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Vandal
+Dynamic Discs,Escape,9.0,5.0,-1.0,2.0,21.1 cm,2.0 cm,1.0 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Escape
+Dynamic Discs,Convict,9.0,4.0,-0.5,3.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Convict
+Dynamic Discs,Getaway,9.0,5.0,-0.5,3.0,21.1 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Getaway
+Dynamic Discs,Felon,9.0,3.0,0.5,4.0,21.2 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Felon
 Dynamic Discs,Criminal,10.0,3.0,1.0,4.0,21.2 cm,1.5 cm,1.5 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Criminal
+Dynamic Discs,Renegade,11.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Renegade
+Dynamic Discs,Sergeant,11.0,4.0,0.0,2.5,21.1 cm,1.7 cm,2.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Sergeant
+Dynamic Discs,Trespass,12.0,5.0,-1.0,3.0,21.1 cm,1.9 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Trespass
+Dynamic Discs,Enforcer,12.0,4.0,0.5,4.0,21.1 cm,1.8 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Enforcer
 Dynamic Discs,Captain,13.0,5.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Captain
+Dynamic Discs,Sheriff,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Sheriff
+Dynamic Discs,Raider,13.0,5.0,-0.5,3.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Raider
 Dynamic Discs,Defender,13.0,5.0,0.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Defender
-Element Discs,Plutonium,3.0,3.0,0.0,1.0,21.0 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Plutonium
+Dynamic Discs,Freedom,14.0,5.0,-3.0,3.0,21.2 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Freedom
 Element Discs,Iridium,2.0,3.0,0.0,2.0,21.0 cm,2.1 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Iridium
-Element Discs,Uranium,4.0,2.0,0.0,2.0,21.2 cm,1.5 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Element-Discs-Uranium
-Element Discs,Radium,6.0,4.0,-1.0,2.0,21.9 cm,2.0 cm,1.1 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Radium
+Element Discs,Plutonium,3.0,3.0,0.0,1.0,21.0 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Plutonium
 Element Discs,Prototype 3,4.0,3.0,0.0,2.0,21.2 cm,2.5 cm,1.9 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Element-Discs-Prototype-3
+Element Discs,Uranium,4.0,2.0,0.0,2.0,21.2 cm,1.5 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Element-Discs-Uranium
 Element Discs,Lithium,5.0,4.0,-2.0,1.0,21.9 cm,1.5 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Lithium
+Element Discs,Radium,6.0,4.0,-1.0,2.0,21.9 cm,2.0 cm,1.1 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Radium
 Element Discs,Chromium,9.0,5.0,-1.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Chromium
 Fourth Circle Discs,Dingo,5.0,5.0,0.0,3.0,21.5 cm,1.6 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Fourth-Circle-Discs-Dingo
 Fourth Circle Discs,Taipan,13.0,5.0,0.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Fourth-Circle-Discs-Taipan
-Full Turn,Traveler,9.0,4.0,0.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Traveler
-Full Turn,Cruise,13.0,4.0,-2.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Cruise
-Full Turn,Drifter,9.0,4.0,-1.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Full-Turn-Drifter
-Full Turn,Navigator,5.0,4.0,-1.0,2.0,21.6 cm,1.7 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Navigator
 Full Turn,Passport,4.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Full-Turn-Passport
+Full Turn,Navigator,5.0,4.0,-1.0,2.0,21.6 cm,1.7 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Navigator
+Full Turn,Drifter,9.0,4.0,-1.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Full-Turn-Drifter
+Full Turn,Traveler,9.0,4.0,0.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Traveler
 Full Turn,Voyage,12.0,5.0,0.0,3.0,21.1 cm,1.8 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Voyage
+Full Turn,Cruise,13.0,4.0,-2.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Cruise
 Galaxy Disc Golf,Magneton,2.0,3.0,0.0,2.0,21.1 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Galaxy-Disc-Golf-Magneton
 Galaxy Disc Golf,Orbit,5.0,4.0,0.0,3.0,21.2 cm,2.1 cm,1.3 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Galaxy-Disc-Golf-Orbit
 Galaxy Disc Golf,Shooting Star,7.0,5.0,-2.0,1.0,21.0 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Galaxy-Disc-Golf-Shooting-Star
 Galaxy Disc Golf,Meteorite,11.0,3.0,-0.5,2.0,21.1 cm,1.8 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Galaxy-Disc-Golf-Meteorite
-Gateway,Siren,13.0,5.0,-2.0,1.0,21.1 cm,1.5 cm,1.4 cm,2.3 cm,Beaded,Understable,https://infinitediscs.com/Gateway-Siren
-Gateway,Samurai,13.0,6.0,-2.0,1.0,21.1 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Samurai
-Gateway,Rage,10.0,5.0,-0.5,3.5,21.4 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Rage
-Gateway,Ninja,11.0,5.0,0.0,2.0,21.0 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Ninja
-Gateway,Journey,12.0,6.0,-2.0,1.0,21.2 cm,1.9 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Journey
-Gateway,Illusion,11.0,5.0,-1.0,3.0,21.4 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Illusion
-Gateway,Slayer,13.0,5.0,-1.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Slayer
-Gateway,Speed Demon,12.0,3.0,0.0,4.0,21.1 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Speed-Demon
-Gateway,Apache,9.0,4.0,-1.0,2.0,21.0 cm,2.0 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Apache
-Gateway,Assassin,9.0,6.0,-2.0,1.0,21.0 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Assassin
+Gateway,Magic,2.0,3.0,-1.0,0.0,21.0 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Magic
+Gateway,Warlock,2.0,3.0,0.0,1.0,21.1 cm,2.3 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Warlock
 Gateway,Wizard,2.0,3.0,0.0,2.0,21.0 cm,2.1 cm,1.8 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Wizard
 Gateway,Warspear,2.0,3.0,0.0,2.5,21.2 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Warspear
-Gateway,Warlock,2.0,3.0,0.0,1.0,21.1 cm,2.3 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Warlock
-Gateway,Voodoo,3.0,4.0,0.0,1.0,21.1 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Voodoo
-Gateway,Training Wizard,3.0,5.0,0.0,2.0,21.0 cm,2.1 cm,1.0 cm,1.8 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Training-Wizard
 Gateway,Shaman,3.0,3.0,-1.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Shaman
-Gateway,Magic,2.0,3.0,-1.0,0.0,21.0 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Magic
-Gateway,Devil Hawk,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Devil-Hawk
-Gateway,Chief OS,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Chief-OS
-Gateway,Diablo,11.0,5.0,-1.0,2.0,21.6 cm,1.3 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Diablo
-Gateway,Scout,6.0,5.0,-1.0,2.0,21.8 cm,2.1 cm,1.1 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Scout
-Gateway,Warrior,5.0,4.0,0.0,3.0,22.0 cm,1.9 cm,1.2 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Warrior
-Gateway,Prophecy,5.0,5.0,0.0,2.0,21.9 cm,1.7 cm,1.2 cm,1.5 cm,Beaded,Stable,https://infinitediscs.com/Gateway-Prophecy
-Gateway,Mystic,5.0,5.0,-2.0,0.0,21.8 cm,1.9 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Mystic
-Gateway,Karma,7.0,5.0,-1.0,2.0,21.9 cm,1.9 cm,1.1 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Karma
-Gateway,Element,5.0,5.0,-1.0,1.0,22.1 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Element
 Gateway,Chief,3.0,3.0,0.0,1.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Chief
-Gateway,Blaze,7.0,5.0,0.0,3.0,21.1 cm,1.9 cm,1.2 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Blaze
-Gateway,Spear,9.0,6.0,-2.0,1.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Spear
-Gateway,Sabre,8.0,5.0,-1.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Sabre
+Gateway,Voodoo,3.0,4.0,0.0,1.0,21.1 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Voodoo
+Gateway,Chief OS,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Chief-OS
+Gateway,Devil Hawk,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Devil-Hawk
+Gateway,Training Wizard,3.0,5.0,0.0,2.0,21.0 cm,2.1 cm,1.0 cm,1.8 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Training-Wizard
+Gateway,Mystic,5.0,5.0,-2.0,0.0,21.8 cm,1.9 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Mystic
+Gateway,Element,5.0,5.0,-1.0,1.0,22.1 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Element
+Gateway,Prophecy,5.0,5.0,0.0,2.0,21.9 cm,1.7 cm,1.2 cm,1.5 cm,Beaded,Stable,https://infinitediscs.com/Gateway-Prophecy
+Gateway,Warrior,5.0,4.0,0.0,3.0,22.0 cm,1.9 cm,1.2 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Warrior
+Gateway,Scout,6.0,5.0,-1.0,2.0,21.8 cm,2.1 cm,1.1 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Scout
+Gateway,Demon,6.0,3.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Demon
+Gateway,Karma,7.0,5.0,-1.0,2.0,21.9 cm,1.9 cm,1.1 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Karma
 Gateway,Hybrid,7.0,4.0,-0.5,3.0,21.2 cm,2.2 cm,1.3 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Hybrid
 Gateway,Blaze,7.0,5.0,0.0,3.0,21.1 cm,1.9 cm,1.2 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Blaze
-Gateway,Blade,9.0,5.0,0.0,3.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Blade
-Gateway,Spirit,12.0,4.0,0.0,4.0,21.1 cm,1.8 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Spirit
-Gateway,Apex,12.0,6.0,-1.0,2.0,21.5 cm,1.9 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Apex
-Gateway,Demon,6.0,3.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Demon
+Gateway,Blaze,7.0,5.0,0.0,3.0,21.1 cm,1.9 cm,1.2 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Blaze
+Gateway,Sabre,8.0,5.0,-1.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Sabre
+Gateway,Assassin,9.0,6.0,-2.0,1.0,21.0 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Assassin
+Gateway,Spear,9.0,6.0,-2.0,1.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Spear
 Gateway,Apache,9.0,4.0,-1.0,2.0,21.0 cm,2.0 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Apache
-Guru Disc Golf,Thor,4.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.3 cm,Beaded,Overstable,https://infinitediscs.com/Guru-Disc-Golf-Thor
+Gateway,Apache,9.0,4.0,-1.0,2.0,21.0 cm,2.0 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Apache
+Gateway,Blade,9.0,5.0,0.0,3.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Blade
+Gateway,Rage,10.0,5.0,-0.5,3.5,21.4 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Rage
+Gateway,Diablo,11.0,5.0,-1.0,2.0,21.6 cm,1.3 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Diablo
+Gateway,Illusion,11.0,5.0,-1.0,3.0,21.4 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Illusion
+Gateway,Ninja,11.0,5.0,0.0,2.0,21.0 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Gateway-Ninja
+Gateway,Journey,12.0,6.0,-2.0,1.0,21.2 cm,1.9 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Journey
+Gateway,Apex,12.0,6.0,-1.0,2.0,21.5 cm,1.9 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Apex
+Gateway,Speed Demon,12.0,3.0,0.0,4.0,21.1 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Speed-Demon
+Gateway,Spirit,12.0,4.0,0.0,4.0,21.1 cm,1.8 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Gateway-Spirit
+Gateway,Samurai,13.0,6.0,-2.0,1.0,21.1 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Samurai
+Gateway,Siren,13.0,5.0,-2.0,1.0,21.1 cm,1.5 cm,1.4 cm,2.3 cm,Beaded,Understable,https://infinitediscs.com/Gateway-Siren
+Gateway,Slayer,13.0,5.0,-1.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Slayer
 Guru Disc Golf,Mjolner,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Guru-Disc-Golf-Mjolner
+Guru Disc Golf,Thor,4.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.3 cm,Beaded,Overstable,https://infinitediscs.com/Guru-Disc-Golf-Thor
 Guru Disc Golf,Midgard,6.0,5.0,-1.0,1.0,21.1 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Guru-Disc-Golf-Midgard
-Hyzer Bomb,Tank-Panzer,2.0,2.0,0.0,3.0,21.2 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Tank-Panzer
 Hyzer Bomb,Tank,2.0,2.0,0.0,2.0,21.2 cm,2.0 cm,1.3 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Hyzer-Bomb-Tank
+Hyzer Bomb,Tank-Panzer,2.0,2.0,0.0,3.0,21.2 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Tank-Panzer
 Hyzer Bomb,Mortar,5.0,4.0,0.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Mortar
-Hyzer Bomb,Veteran,7.0,4.0,0.0,1.0,21.1 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Hyzer-Bomb-Veteran
 Hyzer Bomb,Moab,6.0,4.0,1.0,5.0,21.9 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Moab
+Hyzer Bomb,Veteran,7.0,4.0,0.0,1.0,21.1 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Hyzer-Bomb-Veteran
 Hyzer Bomb,Marksman,9.0,5.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Hyzer-Bomb-Marksman
 Hyzer Bomb,Sabot,11.0,4.0,0.0,5.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Sabot
-Infinite Discs,Tomb,3.0,4.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Tomb
 Infinite Discs,Scarab,2.0,4.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Scarab
+Infinite Discs,Myth,2.0,3.0,0.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Myth
+Infinite Discs,Tomb,3.0,4.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Tomb
 Infinite Discs,Ruin,3.0,3.0,0.0,3.0,21.2 cm,1.8 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Infinite-Discs-Ruin
 Infinite Discs,Cohort,3.5,4.0,0.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Cohort
-Infinite Discs,Ra,5.0,4.0,0.0,2.5,21.8 cm,2.0 cm,1.3 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Infinite-Discs-Ra
-Infinite Discs,Myth,2.0,3.0,0.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Myth
 Infinite Discs,Anubis,5.0,5.0,0.0,0.0,21.8 cm,2.1 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Infinite-Discs-Anubis
+Infinite Discs,Chariot,5.0,5.0,0.0,1.0,21.7 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Chariot
+Infinite Discs,Ra,5.0,4.0,0.0,2.5,21.8 cm,2.0 cm,1.3 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Infinite-Discs-Ra
+Infinite Discs,Centurion,7.0,5.0,-1.0,1.5,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Centurion
+Infinite Discs,Exodus,7.0,5.0,-0.5,2.0,21.1 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Exodus
 Infinite Discs,Sphinx,9.0,6.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Infinite-Discs-Sphinx
 Infinite Discs,Scepter,9.0,4.0,0.0,4.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Infinite-Discs-Scepter
-Infinite Discs,Exodus,7.0,5.0,-0.5,2.0,21.1 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Exodus
-Infinite Discs,Centurion,7.0,5.0,-1.0,1.5,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Centurion
-Infinite Discs,Slab,12.0,3.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Infinite-Discs-Slab
 Infinite Discs,Aztec,10.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Aztec
 Infinite Discs,Emperor,12.0,5.0,-1.0,2.5,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Infinite-Discs-Emperor
+Infinite Discs,Slab,12.0,3.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Infinite-Discs-Slab
 Infinite Discs,Pharaoh,13.0,6.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Pharaoh
-Infinite Discs,Chariot,5.0,5.0,0.0,1.0,21.7 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Chariot
-Innova,VRoc,4.0,4.0,0.0,2.0,21.8 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Innova-VRoc
-Innova,VCobra,5.0,5.0,-1.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-VCobra
-Innova,Super Stingray,4.0,5.0,-1.0,1.0,21.7 cm,1.8 cm,1.3 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Super-Stingray
-Innova,Stingray,4.0,5.0,-3.0,1.0,21.7 cm,1.8 cm,1.1 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Innova-Stingray
-Innova,Shark,4.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Shark
-Innova,Skeeter,5.0,5.0,-1.0,1.0,21.2 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Skeeter
-Innova,Shark3,5.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Shark3
-Innova,Scorpion,5.0,5.0,-1.0,2.0,22.5 cm,2.1 cm,1.2 cm,1.7 cm,Beaded,Stable,https://infinitediscs.com/Innova-Scorpion
-Innova,RocX3,5.0,4.0,0.0,3.5,21.8 cm,2.0 cm,1.4 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-RocX3
-Innova,Roc3,5.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Roc3
-Innova,Spider,5.0,3.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Spider
-Innova,Roc +,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Roc-
-Innova,Ram,6.0,4.0,1.0,4.0,21.7 cm,1.9 cm,1.3 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Ram
-Innova,Rat,4.0,2.0,0.0,3.0,21.2 cm,1.7 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Rat
-Innova,Beast,10.0,5.0,-2.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Beast
-Innova,Archon,11.0,5.0,-2.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Archon
-Innova,Ape,13.0,5.0,0.0,4.0,21.1 cm,1.5 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Ape
-Innova,Wahoo,12.0,6.0,-2.0,2.0,21.0 cm,2.0 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wahoo
-Innova,Wraith,11.0,5.0,-1.0,3.0,21.1 cm,1.4 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Wraith
-Innova,X-Caliber,12.0,5.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-X-Caliber
-Innova,Archangel,8.0,6.0,-4.0,1.0,21.1 cm,1.6 cm,1.5 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Innova-Archangel
-Innova,Banshee,7.0,3.0,0.0,3.0,21.2 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Banshee
-Innova,Cheetah,6.0,4.0,-2.0,2.0,21.1 cm,1.9 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Innova-Cheetah
-Innova,Dragon,8.0,5.0,-2.0,2.0,21.0 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Dragon
-Innova,Eagle,7.0,4.0,-1.0,3.0,21.2 cm,1.6 cm,1.2 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Eagle
-Innova,Firebird,9.0,3.0,0.0,4.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Firebird
-Innova,FL,9.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Firebird-FL
-Innova,Gargoyle,6.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Gargoyle
-Innova,Gazelle,6.0,4.0,0.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Gazelle
-Innova,Leopard,6.0,5.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Leopard
-Innova,Leopard3,7.0,5.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Leopard3
-Innova,Boss,13.0,5.0,0.0,3.0,21.1 cm,1.5 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Boss
-Innova,Colossus,14.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Colossus
-Innova,Corvette,14.0,6.0,-1.0,2.0,21.0 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Corvette
-Innova,Daedalus,13.0,6.0,-4.0,2.0,21.1 cm,1.5 cm,1.2 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Innova-Daedalus
-Innova,TeeRex,11.0,4.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-TeeRex
-Innova,TeeDevil,12.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-TeeDevil
-Innova,Starfire,10.0,5.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Starfire
-Innova,SL,10.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-SL
-Innova,Shryke,13.0,6.0,-2.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Shryke
-Innova,Orc,10.0,4.0,-1.0,3.0,21.2 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Orc
-Innova,Mystere,11.0,6.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mystere
-Innova,Monster,10.0,3.0,0.0,5.0,21.2 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Monster
-Innova,Pegasus,7.0,4.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Pegasus
-Innova,Monarch,10.0,5.0,-4.0,1.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Innova-Monarch
-Innova,Mamba,11.0,6.0,-5.0,1.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Innova-Mamba
-Innova,Krait,11.0,5.0,-1.0,2.0,21.2 cm,2.3 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Krait
-Innova,Katana,13.0,5.0,-3.0,3.0,21.2 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Innova-Katana
-Innova,Invictus,11.0,4.0,0.0,3.0,21.2 cm,1.5 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Invictus
-Innova,Groove,13.0,6.0,-2.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Groove
-Innova,Firestorm,14.0,4.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Firestorm
-Innova,Dominator,13.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Dominator
-Innova,Destroyer,12.0,5.0,-1.0,3.0,21.1 cm,1.4 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Destroyer
-Innova,Max,11.0,3.0,0.0,5.0,21.2 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Max
-Innova,Roc,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Roc
-Innova,Python,7.0,3.0,-1.0,2.0,21.7 cm,1.7 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Python
-Innova,Raven,6.0,4.0,-2.0,2.0,21.7 cm,1.9 cm,1.2 cm,1.6 cm,Beaded,Stable,https://infinitediscs.com/Innova-Raven
-Innova,Cro,5.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Cro
-Innova,Croc,5.5,2.0,0.0,5.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Croc
-Innova,Foxbat,5.0,6.0,-1.0,0.0,21.7 cm,2.2 cm,1.4 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Foxbat
-Innova,Gator,5.0,2.0,0.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-Gator
-Innova,Gator3,5.0,2.0,0.0,3.0,21.2 cm,1.8 cm,1.4 cm,1.5 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-Gator3
-Innova,Griffin,5.0,3.0,1.0,3.0,21.2 cm,2.0 cm,1.3 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Griffin
-Innova,Jaguar,5.5,6.0,-3.0,2.0,24.1 cm,1.7 cm,1.7 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Jaguar
-Innova,King Cobra,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-King-Cobra
-Innova,Kite,5.0,6.0,-3.0,1.0,21.2 cm,1.9 cm,1.3 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Kite
-Innova,Lion,5.0,4.0,0.0,2.0,21.7 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Lion
-Innova,Lycan,4.0,5.0,0.0,1.0,21.8 cm,2.1 cm,1.4 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Innova-Lycan
+Innova,Sonic,1.0,2.0,-4.0,0.0,21.6 cm,2.3 cm,1.6 cm,0.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sonic
+Innova,Birdie,1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Birdie
+Innova,Polecat,1.0,3.0,0.0,0.0,21.3 cm,2.3 cm,1.6 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Polecat
+Innova,Avatar,1.0,1.0,1.0,1.0,21.7 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Avatar
 Innova,Makani,2.0,7.0,-2.0,0.0,24.2 cm,2.7 cm,1.7 cm,0.7 cm,Beadless,Understable,https://infinitediscs.com/Innova-Makani
+Innova,Ace,2.0,3.0,-2.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Ace
+Innova,Coupe,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.3 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Innova-Coupe
+Innova,Hammer,2.0,2.0,-1.0,2.0,21.7 cm,2.1 cm,1.1 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Hammer
+Innova,Aviar Classic,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aviar-Classic
+Innova,Nova,2.0,3.0,0.0,0.0,21.3 cm,2.7 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Nova
+Innova,Zephyr,2.0,3.0,0.0,0.0,24.1 cm,2.7 cm,1.7 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Zephyr
+Innova,Aviar,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aviar
+Innova,Aviar Yeti,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Innova-Aviar-Yeti
+Innova,Firefly,2.0,3.0,0.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Firefly
+Innova,Whale,2.0,3.0,0.0,1.0,21.1 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Innova-Whale
+Innova,Aviar Driver,2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-Driver
+Innova,Aviar-X (JK),2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-X-(JK)
+Innova,KC Aviar,2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-KC-Pro
+Innova,Rhyno,2.0,1.0,0.0,3.0,21.3 cm,1.9 cm,1.3 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Rhyno
+Innova,Hawg,2.0,1.0,0.0,3.5,21.2 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Hawg
+Innova,Mirage,3.0,4.0,-3.0,0.0,21.2 cm,1.9 cm,1.2 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Innova-Mirage
+Innova,Colt,3.0,3.0,-1.0,1.0,21.2 cm,1.9 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Colt
+Innova,XD,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-XD
+Innova,XD +,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-XD-
+Innova,Aero,3.0,6.0,0.0,0.0,22.2 cm,2.5 cm,1.0 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aero
+Innova,Dart,3.0,4.0,0.0,0.0,21.2 cm,2.2 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Dart
+Innova,Bullfrog,3.0,1.0,0.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Bullfrog
+Innova,Warhog,3.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Warhog
+Innova,Aviar3,3.0,2.0,0.0,2.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Aviar3
+Innova,Classic Roc,3.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.2 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Classic-Roc
+Innova,Condor,3.0,4.0,0.0,2.0,24.1 cm,2.2 cm,1.6 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Condor
+Innova,Hydra,3.0,3.0,0.0,2.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Hydra
+Innova,Stud,3.0,3.0,0.0,2.0,21.2 cm,1.9 cm,1.3 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Innova-Stud
+Innova,AviarX3,3.0,2.0,0.0,3.0,21.3 cm,1.8 cm,1.6 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-AviarX3
+Innova,Pig,3.0,1.0,0.0,3.0,21.2 cm,2.1 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Pig
+Innova,Wolf,4.0,3.0,-4.0,1.0,21.8 cm,1.6 cm,1.1 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wolf
+Innova,Stingray,4.0,5.0,-3.0,1.0,21.7 cm,1.8 cm,1.1 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Innova-Stingray
+Innova,Wedge,4.0,3.0,-3.0,1.0,21.2 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wedge
+Innova,Wedge,4.0,3.0,-3.0,1.0,21.2 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wedge
+Innova,Cobra,4.0,5.0,-2.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Cobra
+Innova,Super Stingray,4.0,5.0,-1.0,1.0,21.7 cm,1.8 cm,1.3 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Super-Stingray
 Innova,Mako,4.0,5.0,0.0,0.0,21.7 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mako
-Innova,Mako3,5.0,4.0,0.0,0.0,21.7 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mako3
+Innova,Coyote,4.0,5.0,0.0,1.0,21.7 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Coyote
+Innova,Lycan,4.0,5.0,0.0,1.0,21.8 cm,2.1 cm,1.4 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Innova-Lycan
+Innova,Bulldog,4.0,3.0,0.0,2.0,21.1 cm,2.0 cm,1.6 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Bulldog
+Innova,King Cobra,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-King-Cobra
+Innova,Roc +,4.0,5.0,0.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Roc-
+Innova,Shark,4.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Shark
+Innova,VRoc,4.0,4.0,0.0,2.0,21.8 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Innova-VRoc
+Innova,Rancho Roc,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Rancho-Roc
+Innova,Rat,4.0,2.0,0.0,3.0,21.2 cm,1.7 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Rat
+Innova,Roc,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Roc
+Innova,Kite,5.0,6.0,-3.0,1.0,21.2 cm,1.9 cm,1.3 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Kite
 Innova,Manta,5.0,5.0,-3.0,1.0,21.8 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Manta
 Innova,Panther,5.0,4.0,-2.0,1.0,21.2 cm,1.9 cm,1.2 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Innova-Panther
-Innova,Rancho Roc,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Rancho-Roc
-Innova,Coyote,4.0,5.0,0.0,1.0,21.7 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Coyote
-Innova,Condor,3.0,4.0,0.0,2.0,24.1 cm,2.2 cm,1.6 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Condor
+Innova,Barracuda,5.0,4.0,-2.0,3.0,22.5 cm,1.7 cm,1.2 cm,1.6 cm,Beaded,Stable,https://infinitediscs.com/Innova-Barracuda
+Innova,Foxbat,5.0,6.0,-1.0,0.0,21.7 cm,2.2 cm,1.4 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Foxbat
+Innova,Wombat3,5.0,6.0,-1.0,0.0,21.8 cm,2.2 cm,1.4 cm,1.4 cm,Beaded,Understable,https://infinitediscs.com/Innova-Wombat3
+Innova,Skeeter,5.0,5.0,-1.0,1.0,21.2 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Skeeter
+Innova,Wombat,5.0,6.0,-1.0,1.0,21.8 cm,2.2 cm,1.4 cm,1.4 cm,Beaded,Understable,https://infinitediscs.com/Innova-Wombat
+Innova,Scorpion,5.0,5.0,-1.0,2.0,22.5 cm,2.1 cm,1.2 cm,1.7 cm,Beaded,Stable,https://infinitediscs.com/Innova-Scorpion
+Innova,VCobra,5.0,5.0,-1.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-VCobra
+Innova,Mako3,5.0,4.0,0.0,0.0,21.7 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mako3
+Innova,Atlas,5.0,5.0,0.0,1.0,21.8 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Atlas
+Innova,Spider,5.0,3.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Spider
+Innova,Cro,5.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Cro
+Innova,Lion,5.0,4.0,0.0,2.0,21.7 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Lion
+Innova,Shark3,5.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Shark3
+Innova,Gator,5.0,2.0,0.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-Gator
+Innova,Gator3,5.0,2.0,0.0,3.0,21.2 cm,1.8 cm,1.4 cm,1.5 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-Gator3
+Innova,Roc3,5.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Roc3
+Innova,RocX3,5.0,4.0,0.0,3.5,21.8 cm,2.0 cm,1.4 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Innova-RocX3
+Innova,Caiman,5.0,2.0,0.0,4.0,21.1 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Caiman
 Innova,Commander,5.0,3.0,0.0,4.0,21.8 cm,2.2 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Commander
-Innova,Cobra,4.0,5.0,-2.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Cobra
-Innova,Roadrunner,9.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Roadrunner
-Innova,Savant,9.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Savant
-Innova,Sidewinder,9.0,5.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sidewinder
-Innova,TeeBird,7.0,5.0,0.0,2.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Innova-TeeBird
-Innova,TeeBird +,7.0,5.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-TeeBird-
-Innova,TeeBird3,8.0,4.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-TeeBird3
-Innova,Thunderbird,9.0,5.0,0.0,2.0,21.2 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Thunderbird
-Innova,TL,7.0,5.0,0.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL
-Innova,Wedge,4.0,3.0,-3.0,1.0,21.2 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wedge
-Innova,TL3,8.0,4.0,0.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL3
-Innova,Viking,9.0,4.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Viking
+Innova,Griffin,5.0,3.0,1.0,3.0,21.2 cm,2.0 cm,1.3 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Griffin
+Innova,Jaguar,5.5,6.0,-3.0,2.0,24.1 cm,1.7 cm,1.7 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Jaguar
+Innova,Croc,5.5,2.0,0.0,5.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Croc
+Innova,Croc,5.5,2.0,0.0,5.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Croc
+Innova,Leopard,6.0,5.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Leopard
+Innova,Cheetah,6.0,4.0,-2.0,2.0,21.1 cm,1.9 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Innova-Cheetah
+Innova,Raven,6.0,4.0,-2.0,2.0,21.7 cm,1.9 cm,1.2 cm,1.6 cm,Beaded,Stable,https://infinitediscs.com/Innova-Raven
+Innova,Gargoyle,6.0,3.0,-1.0,2.0,21.2 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Gargoyle
+Innova,Gazelle,6.0,4.0,0.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Gazelle
+Innova,Ram,6.0,4.0,1.0,4.0,21.7 cm,1.9 cm,1.3 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Ram
 Innova,Viper,6.0,4.0,1.0,5.0,21.7 cm,2.0 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Viper
 Innova,Whippet,6.0,3.0,1.0,5.0,21.2 cm,1.9 cm,1.3 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Whippet
-Innova,Atlas,5.0,5.0,0.0,1.0,21.8 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Atlas
-Innova,Avatar,1.0,1.0,1.0,1.0,21.7 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Avatar
-Innova,Barracuda,5.0,4.0,-2.0,3.0,22.5 cm,1.7 cm,1.2 cm,1.6 cm,Beaded,Stable,https://infinitediscs.com/Innova-Barracuda
-Innova,Bulldog,4.0,3.0,0.0,2.0,21.1 cm,2.0 cm,1.6 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Bulldog
-Innova,Caiman,5.0,2.0,0.0,4.0,21.1 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Caiman
+Innova,Leopard3,7.0,5.0,-2.0,1.0,21.2 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Leopard3
+Innova,Python,7.0,3.0,-1.0,2.0,21.7 cm,1.7 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Python
+Innova,Eagle,7.0,4.0,-1.0,3.0,21.2 cm,1.6 cm,1.2 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Eagle
+Innova,Pegasus,7.0,4.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Pegasus
+Innova,TL,7.0,5.0,0.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL
+Innova,TeeBird,7.0,5.0,0.0,2.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Innova-TeeBird
+Innova,TeeBird +,7.0,5.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Innova-TeeBird-
+Innova,Banshee,7.0,3.0,0.0,3.0,21.2 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Banshee
+Innova,Archangel,8.0,6.0,-4.0,1.0,21.1 cm,1.6 cm,1.5 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Innova-Archangel
+Innova,Dragon,8.0,5.0,-2.0,2.0,21.0 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Dragon
+Innova,TL3,8.0,4.0,0.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL3
+Innova,TeeBird3,8.0,4.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-TeeBird3
+Innova,Roadrunner,9.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Roadrunner
+Innova,Sidewinder,9.0,5.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sidewinder
 Innova,Valkyrie,9.0,4.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Innova-Valkyrie
-Innova,Wolf,4.0,3.0,-4.0,1.0,21.8 cm,1.6 cm,1.1 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wolf
-Innova,Vulcan,13.0,5.0,-4.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Vulcan
-Innova,Ace,2.0,3.0,-2.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Ace
-Innova,Aviar,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aviar
-Innova,Aviar Classic,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aviar-Classic
-Innova,Aviar Driver,2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-Driver
+Innova,Savant,9.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Savant
+Innova,Viking,9.0,4.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Viking
+Innova,FL,9.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Firebird-FL
+Innova,Thunderbird,9.0,5.0,0.0,2.0,21.2 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Thunderbird
+Innova,Firebird,9.0,3.0,0.0,4.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Firebird
+Innova,Monarch,10.0,5.0,-4.0,1.0,21.1 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Innova-Monarch
+Innova,Beast,10.0,5.0,-2.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Beast
+Innova,SL,10.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-SL
+Innova,Starfire,10.0,5.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Starfire
+Innova,Orc,10.0,4.0,-1.0,3.0,21.2 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Orc
+Innova,Monster,10.0,3.0,0.0,5.0,21.2 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Monster
+Innova,Mamba,11.0,6.0,-5.0,1.0,21.1 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Innova-Mamba
+Innova,Archon,11.0,5.0,-2.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Archon
+Innova,Mystere,11.0,6.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mystere
+Innova,Krait,11.0,5.0,-1.0,2.0,21.2 cm,2.3 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Krait
+Innova,Wraith,11.0,5.0,-1.0,3.0,21.1 cm,1.4 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Wraith
+Innova,Invictus,11.0,4.0,0.0,3.0,21.2 cm,1.5 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Invictus
+Innova,TeeRex,11.0,4.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-TeeRex
+Innova,Max,11.0,3.0,0.0,5.0,21.2 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Max
 Innova,Tern,12.0,6.0,-2.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Innova-Tern
-Innova,Wombat3,5.0,6.0,-1.0,0.0,21.8 cm,2.2 cm,1.4 cm,1.4 cm,Beaded,Understable,https://infinitediscs.com/Innova-Wombat3
-Innova,Aviar Yeti,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Innova-Aviar-Yeti
-Innova,Aviar-X (JK),2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-X-(JK)
-Innova,Aero,3.0,6.0,0.0,0.0,22.2 cm,2.5 cm,1.0 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aero
-Innova,Wombat,5.0,6.0,-1.0,1.0,21.8 cm,2.2 cm,1.4 cm,1.4 cm,Beaded,Understable,https://infinitediscs.com/Innova-Wombat
-Innova,Aviar3,3.0,2.0,0.0,2.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Aviar3
-Innova,AviarX3,3.0,2.0,0.0,3.0,21.3 cm,1.8 cm,1.6 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-AviarX3
-Innova,Birdie,1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Birdie
-Innova,Bullfrog,3.0,1.0,0.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Bullfrog
-Innova,Classic Roc,3.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.2 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Classic-Roc
-Innova,Colt,3.0,3.0,-1.0,1.0,21.2 cm,1.9 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Colt
-Innova,Dart,3.0,4.0,0.0,0.0,21.2 cm,2.2 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Dart
-Innova,Coupe,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.3 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Innova-Coupe
-Innova,Firefly,2.0,3.0,0.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Firefly
-Innova,Hawg,2.0,1.0,0.0,3.5,21.2 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Hawg
-Innova,Zephyr,2.0,3.0,0.0,0.0,24.1 cm,2.7 cm,1.7 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Zephyr
-Innova,XD +,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-XD-
-Innova,XD,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-XD
-Innova,Whale,2.0,3.0,0.0,1.0,21.1 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Innova-Whale
-Innova,Wedge,4.0,3.0,-3.0,1.0,21.2 cm,1.7 cm,1.2 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wedge
-Innova,Warhog,3.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Warhog
-Innova,Stud,3.0,3.0,0.0,2.0,21.2 cm,1.9 cm,1.3 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Innova-Stud
-Innova,Sonic,1.0,2.0,-4.0,0.0,21.6 cm,2.3 cm,1.6 cm,0.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sonic
-Innova,Rhyno,2.0,1.0,0.0,3.0,21.3 cm,1.9 cm,1.3 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Rhyno
-Innova,Polecat,1.0,3.0,0.0,0.0,21.3 cm,2.3 cm,1.6 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Polecat
-Innova,Pig,3.0,1.0,0.0,3.0,21.2 cm,2.1 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Pig
-Innova,Nova,2.0,3.0,0.0,0.0,21.3 cm,2.7 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Nova
-Innova,Mirage,3.0,4.0,-3.0,0.0,21.2 cm,1.9 cm,1.2 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Innova-Mirage
-Innova,KC Aviar,2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-KC-Pro
-Innova,Hydra,3.0,3.0,0.0,2.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Hydra
-Innova,Hammer,2.0,2.0,-1.0,2.0,21.7 cm,2.1 cm,1.1 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Hammer
-Innova,Croc,5.5,2.0,0.0,5.0,21.1 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Croc
-Kastaplast,Rask,14.0,3.0,0.0,4.0,21.1 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Kastaplast-Rask
+Innova,Wahoo,12.0,6.0,-2.0,2.0,21.0 cm,2.0 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Wahoo
+Innova,TeeDevil,12.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-TeeDevil
+Innova,Destroyer,12.0,5.0,-1.0,3.0,21.1 cm,1.4 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Destroyer
+Innova,X-Caliber,12.0,5.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-X-Caliber
+Innova,Daedalus,13.0,6.0,-4.0,2.0,21.1 cm,1.5 cm,1.2 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Innova-Daedalus
+Innova,Vulcan,13.0,5.0,-4.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Innova-Vulcan
+Innova,Katana,13.0,5.0,-3.0,3.0,21.2 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Innova-Katana
+Innova,Groove,13.0,6.0,-2.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Groove
+Innova,Shryke,13.0,6.0,-2.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Shryke
+Innova,Dominator,13.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Dominator
+Innova,Boss,13.0,5.0,0.0,3.0,21.1 cm,1.5 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Boss
+Innova,Ape,13.0,5.0,0.0,4.0,21.1 cm,1.5 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Ape
+Innova,Colossus,14.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Colossus
+Innova,Corvette,14.0,6.0,-1.0,2.0,21.0 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Corvette
+Innova,Firestorm,14.0,4.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Firestorm
 Kastaplast,Berg,1.0,1.0,0.0,2.0,21.1 cm,2.0 cm,1.4 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Kastaplast-Berg
 Kastaplast,Reko,3.0,3.0,0.0,1.0,21.2 cm,1.8 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Kastaplast-Reko
+Kastaplast,Gote,4.0,5.0,0.0,1.0,21.9 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Gote
+Kastaplast,Kaxe Z,6.0,5.0,0.0,2.0,21.1 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Kaxe-Z
+Kastaplast,Kaxe,6.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Overstable,https://infinitediscs.com/Kastaplast-Kaxe
 Kastaplast,Falk,9.0,6.0,-2.0,1.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Kastaplast-Falk
 Kastaplast,Lots,9.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Lots
-Kastaplast,Grym,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym
-Kastaplast,Gote,4.0,5.0,0.0,1.0,21.9 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Gote
-Kastaplast,Kaxe,6.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Overstable,https://infinitediscs.com/Kastaplast-Kaxe
-Kastaplast,Kaxe Z,6.0,5.0,0.0,2.0,21.1 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Kaxe-Z
 Kastaplast,Stal,9.0,4.0,0.0,3.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Kastaplast-Stal
+Kastaplast,Grym,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym
 Kastaplast,Grym X,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym-X
+Kastaplast,Rask,14.0,3.0,0.0,4.0,21.1 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Kastaplast-Rask
+Kaufinator Discs,Kaufinator Ghost,4.0,5.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Ghost
+Kaufinator Discs,Kaufinator Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Rival
+Kaufinator Discs,Kaufinator Phenom,8.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Phenom
+Kaufinator Discs,Kaufinator Bandit,9.0,5.0,-2.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Bandit
 Kaufinator Discs,Kaufinator Nemesis,10.0,6.0,-4.0,2.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Nemesis
 Kaufinator Discs,Kaufinator Outlaw,12.0,5.0,-1.0,3.0,21.0 cm,1.6 cm,3.0 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Outlaw
-Kaufinator Discs,Kaufinator Bandit,9.0,5.0,-2.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Bandit
-Kaufinator Discs,Kaufinator Phenom,8.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Phenom
-Kaufinator Discs,Kaufinator Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Rival
-Kaufinator Discs,Kaufinator Ghost,4.0,5.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Ghost
-Latitude 64,Ballista,14.0,5.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Ballista
-Latitude 64,Dagger,2.0,5.0,0.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Latitude-64-Dagger
-Latitude 64,Ballista Pro,14.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Ballista-Pro
-Latitude 64,Caltrop,2.0,2.0,0.0,2.0,21.0 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Caltrop
-Latitude 64,Blitz,12.0,3.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Blitz
-Latitude 64,Spark,7.0,4.0,-0.5,2.0,21.2 cm,1.5 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Spark
-Latitude 64,Cutlass,13.0,5.0,0.0,3.5,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Cutlass
-Latitude 64,Vision,8.0,6.0,-1.0,2.0,21.1 cm,1.9 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Vision
-Latitude 64,Trident,6.0,4.0,-0.5,3.0,21.4 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Trident
-Latitude 64,Striker,8.0,5.0,0.0,2.0,21.4 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Striker
-Latitude 64,Saint Pro,8.0,6.0,0.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Saint-Pro
-Latitude 64,Saint,9.0,7.0,-2.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Saint
-Latitude 64,River Pro,6.0,5.0,0.0,2.0,21.4 cm,1.8 cm,1.3 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-River-Pro
-Latitude 64,River,7.0,7.0,-1.0,1.0,21.5 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-River
-Latitude 64,Primitus,9.0,5.0,0.0,2.0,21.0 cm,2.3 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Primitus
-Latitude 64,Pioneer,9.0,3.0,0.0,4.0,21.2 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Pioneer
-Latitude 64,XXX,7.0,3.0,0.0,4.0,21.5 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-XXX
-Latitude 64,Bolt,13.0,6.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Bolt
-Latitude 64,Fury,9.0,6.0,-2.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Fury
-Latitude 64,Falchion,8.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Falchion
-Latitude 64,Explorer,7.0,5.0,0.0,2.0,21.2 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Explorer
-Latitude 64,Diamond,8.0,6.0,-3.0,1.0,21.1 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Diamond
-Latitude 64,Culverin,9.0,5.0,-0.5,3.0,21.2 cm,2.0 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Culverin
-Latitude 64,Bryce,9.0,6.0,-2.0,2.0,21.2 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Bryce
-Latitude 64,Villain,12.0,4.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Villain
-Latitude 64,Stiletto,13.0,3.0,0.5,5.0,21.5 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Stiletto
-Latitude 64,Scythe,12.0,3.0,0.0,4.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Scythe
-Latitude 64,Jade,9.0,5.0,-2.0,1.0,21.0 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Jade
-Latitude 64,Sapphire,10.0,6.0,-2.0,1.5,12.0 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Sapphire
-Latitude 64,Zion,9.0,4.0,-0.5,3.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Zion
-Latitude 64,Claymore,5.0,5.0,-1.0,1.0,21.7 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Claymore
-Latitude 64,Gauntlet,2.0,4.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Latitude-64-Gauntlet
+Latitude 64,Beetle,1.0,7.0,-1.0,0.0,21.9 cm,2.2 cm,1.6 cm,0.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Beetle
 Latitude 64,Keystone,2.0,5.0,-1.0,1.0,21.1 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Keystone
+Latitude 64,Dagger,2.0,5.0,0.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Latitude-64-Dagger
+Latitude 64,Gauntlet,2.0,4.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Latitude-64-Gauntlet
 Latitude 64,Macana,2.0,5.0,0.0,1.0,21.1 cm,2.1 cm,1.4 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Latitude-64-Macana
 Latitude 64,Mercy,2.0,4.0,0.0,1.0,12.2 cm,2.1 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Mercy
-Latitude 64,Pure,3.0,3.0,-1.0,1.0,21.2 cm,1.8 cm,1.4 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Pure
-Latitude 64,Ruby,3.0,5.0,-3.0,1.0,21.5 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Ruby
 Latitude 64,Sarek,2.0,4.0,0.0,1.5,21.2 cm,2.2 cm,1.5 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Sarek
+Latitude 64,Caltrop,2.0,2.0,0.0,2.0,21.0 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Caltrop
 Latitude 64,Sinus,2.0,2.0,0.0,2.0,21.2 cm,1.9 cm,1.4 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Sinus
-Latitude 64,Spike,4.0,3.0,-1.0,1.0,21.2 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Spike
-Latitude 64,Anchor,5.0,4.0,0.0,3.0,21.7 cm,1.8 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Anchor
-Latitude 64,Beetle,1.0,7.0,-1.0,0.0,21.9 cm,2.2 cm,1.6 cm,0.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Beetle
+Latitude 64,Ruby,3.0,5.0,-3.0,1.0,21.5 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Ruby
+Latitude 64,Pure,3.0,3.0,-1.0,1.0,21.2 cm,1.8 cm,1.4 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Pure
 Latitude 64,Pearl,4.0,6.0,-4.0,0.0,21.6 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Pearl
-Latitude 64,Pain,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Pain
-Latitude 64,Medius,5.0,5.0,-1.0,2.0,21.5 cm,2.4 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Medius
-Latitude 64,Mace,5.0,5.0,0.0,2.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Mace
-Latitude 64,Gobi,6.0,5.0,-0.5,1.0,21.7 cm,1.8 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Gobi
-Latitude 64,Fuse,5.0,6.0,-1.0,0.0,21.9 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Fuse
+Latitude 64,Spike,4.0,3.0,-1.0,1.0,21.2 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Spike
 Latitude 64,Fuji,4.0,4.0,0.0,2.0,21.7 cm,1.8 cm,1.2 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Fuji
-Latitude 64,Core,6.0,5.0,-0.5,1.0,21.7 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Core
+Latitude 64,Pain,4.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Pain
+Latitude 64,Fuse,5.0,6.0,-1.0,0.0,21.9 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Fuse
+Latitude 64,Claymore,5.0,5.0,-1.0,1.0,21.7 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Claymore
+Latitude 64,Medius,5.0,5.0,-1.0,2.0,21.5 cm,2.4 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Medius
 Latitude 64,Compass,5.0,5.0,0.0,1.0,21.6 cm,2.3 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Compass
+Latitude 64,Mace,5.0,5.0,0.0,2.0,21.8 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Mace
+Latitude 64,Anchor,5.0,4.0,0.0,3.0,21.7 cm,1.8 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Anchor
+Latitude 64,Core,6.0,5.0,-0.5,1.0,21.7 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Core
+Latitude 64,Gobi,6.0,5.0,-0.5,1.0,21.7 cm,1.8 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Gobi
 Latitude 64,Trident,6.0,4.0,-0.5,3.0,21.4 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Trident
-Latitude 64,Riot,11.0,4.0,-1.0,2.0,21.2 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Riot
+Latitude 64,Trident,6.0,4.0,-0.5,3.0,21.4 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Trident
+Latitude 64,River Pro,6.0,5.0,0.0,2.0,21.4 cm,1.8 cm,1.3 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-River-Pro
 Latitude 64,Maul,7.0,7.0,-2.0,1.0,21.5 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Maul
-Latitude 64,Recoil,12.0,4.0,0.0,3.0,21.2 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Recoil
-Latitude 64,Flow,11.0,6.0,-0.5,2.0,21.1 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Flow
-Latitude 64,Gladiator,13.0,5.0,0.0,3.5,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Gladiator
-Latitude 64,Halo,13.0,5.0,-0.5,3.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Halo
-Latitude 64,Havoc,13.0,5.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Havoc
-Latitude 64,Knight,14.0,4.0,-1.5,4.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Knight
-Latitude 64,Raketen,15.0,4.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Raketen
+Latitude 64,River,7.0,7.0,-1.0,1.0,21.5 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-River
+Latitude 64,Spark,7.0,4.0,-0.5,2.0,21.2 cm,1.5 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Spark
+Latitude 64,Explorer,7.0,5.0,0.0,2.0,21.2 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Explorer
+Latitude 64,XXX,7.0,3.0,0.0,4.0,21.5 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-XXX
+Latitude 64,Diamond,8.0,6.0,-3.0,1.0,21.1 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Diamond
+Latitude 64,Falchion,8.0,5.0,-1.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Falchion
+Latitude 64,Vision,8.0,6.0,-1.0,2.0,21.1 cm,1.9 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Vision
+Latitude 64,Striker,8.0,5.0,0.0,2.0,21.4 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Striker
+Latitude 64,Saint Pro,8.0,6.0,0.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Saint-Pro
+Latitude 64,Jade,9.0,5.0,-2.0,1.0,21.0 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Jade
+Latitude 64,Bryce,9.0,6.0,-2.0,2.0,21.2 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Bryce
+Latitude 64,Fury,9.0,6.0,-2.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Fury
+Latitude 64,Saint,9.0,7.0,-2.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Saint
+Latitude 64,Culverin,9.0,5.0,-0.5,3.0,21.2 cm,2.0 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Culverin
+Latitude 64,Zion,9.0,4.0,-0.5,3.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Zion
+Latitude 64,Primitus,9.0,5.0,0.0,2.0,21.0 cm,2.3 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Primitus
+Latitude 64,Pioneer,9.0,3.0,0.0,4.0,21.2 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Pioneer
+Latitude 64,Sapphire,10.0,6.0,-2.0,1.5,12.0 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Sapphire
 Latitude 64,Musket,10.0,5.0,-0.5,2.0,21.2 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Musket
+Latitude 64,Riot,11.0,4.0,-1.0,2.0,21.2 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Riot
+Latitude 64,Flow,11.0,6.0,-0.5,2.0,21.1 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Flow
+Latitude 64,Recoil,12.0,4.0,0.0,3.0,21.2 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Recoil
+Latitude 64,Blitz,12.0,3.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Blitz
+Latitude 64,Scythe,12.0,3.0,0.0,4.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Scythe
+Latitude 64,Villain,12.0,4.0,0.0,4.0,21.1 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Villain
+Latitude 64,Bolt,13.0,6.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Bolt
+Latitude 64,Havoc,13.0,5.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Havoc
+Latitude 64,Halo,13.0,5.0,-0.5,3.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Halo
+Latitude 64,Cutlass,13.0,5.0,0.0,3.5,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Cutlass
+Latitude 64,Gladiator,13.0,5.0,0.0,3.5,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Gladiator
+Latitude 64,Stiletto,13.0,3.0,0.5,5.0,21.5 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Stiletto
+Latitude 64,Knight,14.0,4.0,-1.5,4.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Knight
+Latitude 64,Ballista,14.0,5.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Ballista
+Latitude 64,Ballista Pro,14.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Ballista-Pro
+Latitude 64,Raketen,15.0,4.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Raketen
 Latitude 64,Missilen,15.0,3.0,-0.5,4.5,21.4 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Missilen
-Legacy,Recluse,4.0,3.0,0.0,4.0,21.3 cm,1.6 cm,1.5 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Legacy-Recluse
-Legacy,Pursuit,5.0,3.0,0.0,3.0,21.3 cm,1.6 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Legacy-Pursuit
-Legacy,Phantom Warrior,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Phantom-Warrior
-Legacy,Mongoose,9.0,5.0,-3.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Mongoose
-Legacy,Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Rival
-Legacy,Valor,5.0,5.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Legacy-Valor
-Legacy,Ghost,4.0,5.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Ghost
-Legacy,Gauge,5.0,5.0,0.0,1.0,21.8 cm,2.2 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Gauge
-Legacy,Bandit,9.0,5.0,-2.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Bandit
-Legacy,Phenom,8.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Phenom
-Legacy,Clozer,2.0,3.0,0.0,2.0,21.2 cm,2.1 cm,1.4 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Clozer
-Legacy,Clutch,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Clutch
 Legacy,Hunter,2.0,4.0,0.0,0.0,21.2 cm,1.8 cm,1.4 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Hunter
+Legacy,Clutch,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Clutch
 Legacy,Prowler,2.0,3.0,0.0,1.5,21.2 cm,2.2 cm,1.4 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Legacy-Prowler
-Legacy,Enemy,9.0,3.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Enemy
-Legacy,Aftermath,13.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Aftermath
-Legacy,Cannon,14.0,5.0,-3.0,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Cannon
-Legacy,Nemesis,10.0,6.0,-4.0,2.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Nemesis
-Legacy,Outlaw,12.0,5.0,-1.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Outlaw
-Legacy,Rampage,14.0,5.0,-1.0,4.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Rampage
-Legacy,Recon,13.0,5.0,-1.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Recon
-Legacy,Vengeance,9.0,5.0,0.0,1.0,21.1 cm,1.7 cm,1.7 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Vengeance
+Legacy,Clozer,2.0,3.0,0.0,2.0,21.2 cm,2.1 cm,1.4 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Clozer
+Legacy,Ghost,4.0,5.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Ghost
+Legacy,Recluse,4.0,3.0,0.0,4.0,21.3 cm,1.6 cm,1.5 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Legacy-Recluse
+Legacy,Gauge,5.0,5.0,0.0,1.0,21.8 cm,2.2 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Gauge
+Legacy,Valor,5.0,5.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beaded,Overstable,https://infinitediscs.com/Legacy-Valor
+Legacy,Pursuit,5.0,3.0,0.0,3.0,21.3 cm,1.6 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Legacy-Pursuit
 Legacy,Patriot,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Patriot
+Legacy,Phantom Warrior,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Phantom-Warrior
+Legacy,Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Rival
+Legacy,Phenom,8.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Phenom
+Legacy,Mongoose,9.0,5.0,-3.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Mongoose
+Legacy,Bandit,9.0,5.0,-2.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Bandit
+Legacy,Vengeance,9.0,5.0,0.0,1.0,21.1 cm,1.7 cm,1.7 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Vengeance
+Legacy,Enemy,9.0,3.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Enemy
+Legacy,Nemesis,10.0,6.0,-4.0,2.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Nemesis
 Legacy,Fighter,10.0,3.0,0.0,4.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Legacy-Fighter
-MVP,Volt,8.0,5.0,-0.5,2.0,21.1 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/MVP-Volt
-MVP,Servo,7.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/MVP-Servo
-MVP,Shock,8.0,5.0,0.0,2.5,21.1 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Shock
+Legacy,Outlaw,12.0,5.0,-1.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Outlaw
+Legacy,Aftermath,13.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Aftermath
+Legacy,Recon,13.0,5.0,-1.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Recon
+Legacy,Cannon,14.0,5.0,-3.0,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Cannon
+Legacy,Rampage,14.0,5.0,-1.0,4.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Rampage
+MVP,Ohm,2.0,5.0,0.0,1.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/MVP-Ohm
+MVP,Spin,3.0,4.0,-2.0,0.0,21.0 cm,1.9 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/MVP-Spin
+MVP,Anode,3.0,3.0,0.0,0.5,21.0 cm,2.1 cm,1.4 cm,18.9 cm,Beadless,Stable,https://infinitediscs.com/MVP-Anode
+MVP,Atom,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Atom
+MVP,Ion,3.0,3.0,0.0,1.5,21.2 cm,1.9 cm,1.6 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Ion
+MVP,Particle,3.0,3.0,0.0,2.5,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Particle
+MVP,Vertex,4.0,4.0,-2.0,0.5,21.5 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Vertex
+MVP,Tangent,4.0,4.0,-0.5,0.5,21.5 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Tangent
+MVP,Tensor,4.0,4.0,0.0,2.5,21.5 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Tensor
+MVP,Entropy,4.0,3.0,0.0,3.0,21.2 cm,2.0 cm,1.4 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Entropy
+MVP,Axis,5.0,5.0,-1.0,1.0,21.8 cm,2.5 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/MVP-Axis
+MVP,Matrix,5.0,4.0,-1.0,2.0,21.5 cm,1.6 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Matrix
+MVP,Reactor,5.0,5.0,-0.5,1.5,21.4 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/MVP-Reactor
+MVP,Vector,5.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Vector
+MVP,Deflector,5.0,4.0,0.0,4.0,21.5 cm,2.0 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Deflector
 MVP,Signal,6.0,5.0,-3.0,1.0,21.1 cm,1.5 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Signal
 MVP,Relay,6.0,5.0,-2.0,1.0,21.1 cm,1.5 cm,1.2 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/MVP-Relay
+MVP,Switch,7.0,5.0,-1.5,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/MVP-Switch
+MVP,Servo,7.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/MVP-Servo
 MVP,Resistor,7.0,4.0,0.0,3.5,21.1 cm,1.4 cm,1.1 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Resistor
 MVP,Amp,8.0,5.0,-1.5,1.0,21.0 cm,1.7 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/MVP-Amp
-MVP,Orbital,11.0,5.0,-4.5,1.0,21.2 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Orbital
-MVP,Tesla,9.0,5.0,-1.0,2.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Tesla
-MVP,Teleport,14.0,5.0,-1.5,2.5,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Teleport
-MVP,Relativity,14.0,5.0,-3.0,1.5,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/MVP-Relativity
-MVP,Photon,11.0,5.0,-1.0,2.5,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Photon
-MVP,Phase,11.0,4.0,0.0,4.0,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Phase
-MVP,Switch,7.0,5.0,-1.5,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/MVP-Switch
-MVP,Wave,11.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/MVP-Wave
-MVP,Motion,9.0,4.0,0.0,4.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Motion
-MVP,Particle,3.0,3.0,0.0,2.5,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Particle
-MVP,Deflector,5.0,4.0,0.0,4.0,21.5 cm,2.0 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Deflector
-MVP,Catalyst,13.0,6.0,-2.0,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/MVP-Catalyst
-MVP,Dimension,14.0,5.0,0.0,3.0,21.0 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Dimension
-MVP,Energy,13.0,4.0,0.0,4.0,21.1 cm,2.1 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Energy
+MVP,Volt,8.0,5.0,-0.5,2.0,21.1 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/MVP-Volt
+MVP,Shock,8.0,5.0,0.0,2.5,21.1 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Shock
 MVP,Impulse,9.0,5.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/MVP-Impulse
 MVP,Inertia,9.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/MVP-Inertia
-MVP,Limit,14.0,4.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Limit
-MVP,Spin,3.0,4.0,-2.0,0.0,21.0 cm,1.9 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/MVP-Spin
+MVP,Tesla,9.0,5.0,-1.0,2.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Tesla
+MVP,Motion,9.0,4.0,0.0,4.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Motion
+MVP,Orbital,11.0,5.0,-4.5,1.0,21.2 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Orbital
+MVP,Wave,11.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/MVP-Wave
+MVP,Photon,11.0,5.0,-1.0,2.5,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Photon
+MVP,Phase,11.0,4.0,0.0,4.0,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Phase
+MVP,Catalyst,13.0,6.0,-2.0,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/MVP-Catalyst
 MVP,Octane,13.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/MVP-Octane
-MVP,Ohm,2.0,5.0,0.0,1.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/MVP-Ohm
-MVP,Ion,3.0,3.0,0.0,1.5,21.2 cm,1.9 cm,1.6 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Ion
-MVP,Entropy,4.0,3.0,0.0,3.0,21.2 cm,2.0 cm,1.4 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Entropy
-MVP,Atom,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/MVP-Atom
-MVP,Anode,3.0,3.0,0.0,0.5,21.0 cm,2.1 cm,1.4 cm,18.9 cm,Beadless,Stable,https://infinitediscs.com/MVP-Anode
-MVP,Vertex,4.0,4.0,-2.0,0.5,21.5 cm,1.9 cm,1.3 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Vertex
-MVP,Vector,5.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Vector
-MVP,Tensor,4.0,4.0,0.0,2.5,21.5 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Tensor
-MVP,Tangent,4.0,4.0,-0.5,0.5,21.5 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Tangent
-MVP,Reactor,5.0,5.0,-0.5,1.5,21.4 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/MVP-Reactor
-MVP,Matrix,5.0,4.0,-1.0,2.0,21.5 cm,1.6 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Matrix
-MVP,Axis,5.0,5.0,-1.0,1.0,21.8 cm,2.5 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/MVP-Axis
 MVP,Nitro,13.0,4.0,-0.5,3.0,21.2 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Nitro
+MVP,Energy,13.0,4.0,0.0,4.0,21.1 cm,2.1 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Energy
+MVP,Relativity,14.0,5.0,-3.0,1.5,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/MVP-Relativity
+MVP,Teleport,14.0,5.0,-1.5,2.5,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Teleport
+MVP,Dimension,14.0,5.0,0.0,3.0,21.0 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Dimension
+MVP,Limit,14.0,4.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Limit
 Millennium,Omega,2.0,3.0,-1.0,1.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Omega
-Millennium,Aquarius,10.0,5.0,-4.0,2.0,21.0 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Aquarius
+Millennium,Omega Big Bead,2.0,3.0,-1.0,1.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Millennium-Omega-Big-Bead
+Millennium,Omega SuperSoft,2.0,3.0,-1.0,1.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Omega-SuperSoft
 Millennium,Omega AP,2.0,3.0,0.0,0.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Omega-AP
 Millennium,Omega AP Big Bead,2.0,3.0,0.0,0.0,21.2 cm,2.1 cm,1.5 cm,0.9 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Omega-AP-Big-Bead
-Millennium,Omega Big Bead,2.0,3.0,-1.0,1.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Millennium-Omega-Big-Bead
 Millennium,Omega Driver,3.0,2.0,0.0,2.0,21.1 cm,2.0 cm,0.9 cm,1.5 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Omega-Driver
-Millennium,Omega SuperSoft,2.0,3.0,-1.0,1.0,21.1 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Omega-SuperSoft
-Millennium,Sentinel MF,5.0,4.0,0.0,4.0,21.7 cm,2.1 cm,1.2 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Millennium-Sentinel-MF
 Millennium,Aurora MS,4.0,5.0,-1.0,1.0,21.8 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Aurora-MS
 Millennium,Taurus,4.0,4.0,0.0,4.0,21.7 cm,2.0 cm,1.5 cm,19.0 cm,Beaded,Very Overstable,https://infinitediscs.com/Millennium-Taurus
-Millennium,Orion LF,9.0,5.0,-1.0,3.0,21.1 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-Orion-LF
-Millennium,JLS,8.0,5.0,-2.0,2.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Millennium-JLS
-Millennium,Polaris LS,8.0,5.0,-2.0,1.0,21.1 cm,1.9 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Polaris-LS
+Millennium,Sentinel MF,5.0,4.0,0.0,4.0,21.7 cm,2.1 cm,1.2 cm,1.3 cm,Beaded,Very Overstable,https://infinitediscs.com/Millennium-Sentinel-MF
+Millennium,EXP1,7.0,3.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-EXP1
 Millennium,EXP-X,7.0,3.0,1.0,4.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-EXP-X
+Millennium,Polaris LS,8.0,5.0,-2.0,1.0,21.1 cm,1.9 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Polaris-LS
+Millennium,JLS,8.0,5.0,-2.0,2.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Millennium-JLS
+Millennium,Orion LS,9.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Orion-LS
+Millennium,Polaris LF,9.0,5.0,-2.0,2.5,21.1 cm,1.9 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Polaris-LF
+Millennium,Orion LF,9.0,5.0,-1.0,3.0,21.1 cm,1.5 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-Orion-LF
 Millennium,Draco,9.0,3.0,0.0,4.0,21.2 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-Draco
+Millennium,Aquarius,10.0,5.0,-4.0,2.0,21.0 cm,1.9 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Aquarius
+Millennium,Aries,11.0,6.0,-3.0,1.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Aries
+Millennium,Astra,11.0,5.0,-2.0,2.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Astra
+Millennium,Astra-X,11.0,5.0,-2.0,3.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Astra-X
+Millennium,Falcon,13.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Falcon
 Millennium,Scorpius,13.0,4.0,-1.0,3.0,21.1 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Scorpius
 Millennium,Quasar,13.0,5.0,-1.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-Quasar
-Millennium,Polaris LF,9.0,5.0,-2.0,2.5,21.1 cm,1.9 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Polaris-LF
-Millennium,Falcon,13.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Falcon
-Millennium,Astra-X,11.0,5.0,-2.0,3.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Astra-X
-Millennium,Astra,11.0,5.0,-2.0,2.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Astra
-Millennium,Aries,11.0,6.0,-3.0,1.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Millennium-Aries
-Millennium,EXP1,7.0,3.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-EXP1
-Millennium,Orion LS,9.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Millennium-Orion-LS
 Mint Discs,Profit,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Mint-Discs-Profit
 Mint Discs,Bobcat,5.0,5.0,0.0,2.0,2.4 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Mint-Discs-Bobcat
 Mint Discs,Alpha,8.0,4.0,0.0,2.0,21.1 cm,2.1 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Alpha
 Mint Discs,Freetail,10.0,6.0,-3.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Mint-Discs-Freetail
-Nite Ize,LED Driver,12.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Nite-Ize-LED-Driver
 Nite Ize,LED Putter,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.0 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Nite-Ize-LED-Putter
 Nite Ize,LED Midrange,5.0,4.0,-1.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Nite-Ize-LED-Midrange
-Ozone Discs,Hyperion,11.0,4.0,0.0,4.0,21.0 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Ozone-Discs-Hyperion
+Nite Ize,LED Driver,12.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Nite-Ize-LED-Driver
 Ozone Discs,Andro C,6.0,4.0,-1.0,2.0,21.4 cm,1.5 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Ozone-Discs-Andro-C
-Plastic Addicts,Intervention,12.0,5.0,-1.0,4.0,21.2 cm,1.3 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Plastic-Addicts-Intervention
+Ozone Discs,Hyperion,11.0,4.0,0.0,4.0,21.0 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Ozone-Discs-Hyperion
 Plastic Addicts,Habit,3.0,5.0,-1.0,0.0,22.1 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Plastic-Addicts-Habit
-Prodigy,H2,9.0,5.0,0.0,2.0,21.3 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H2
-Prodigy,H1 V2,11.0,4.0,0.0,3.0,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-H1-V2
-Prodigy,H1,10.0,3.0,0.0,3.5,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-H1
-Prodigy,FX-2,9.0,4.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-FX-2
+Plastic Addicts,Intervention,12.0,5.0,-1.0,4.0,21.2 cm,1.3 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Plastic-Addicts-Intervention
+Prodigy,PA-4,3.0,3.0,-1.0,1.0,21.0 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-PA-4
+Prodigy,PA-2,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-PA-2
+Prodigy,PA-3,3.0,4.0,0.0,1.0,21.1 cm,1.9 cm,1.0 cm,1.4 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-PA-3
+Prodigy,P Model S,3.0,5.0,0.0,2.0,21.3 cm,1.9 cm,1.2 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-P-Model-S
+Prodigy,PA-1,3.0,3.0,0.0,2.0,21.0 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-PA-1
+Prodigy,A1,3.0,3.0,0.0,3.0,21.0 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-A1
+Prodigy,A4,4.0,4.0,-1.0,2.0,21.0 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-A4
+Prodigy,A2,4.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-A2
+Prodigy,A3,4.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-A3
+Prodigy,M5,5.0,5.0,-3.0,1.0,21.7 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-M5
+Prodigy,M4,5.0,5.0,-1.0,1.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-M4
+Prodigy,M3,5.0,5.0,-1.0,2.0,21.7 cm,1.9 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-M3
+Prodigy,M2,5.0,4.0,0.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-M2
+Prodigy,MX-3,5.0,4.0,0.0,2.0,21.7 cm,1.9 cm,1.3 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Prodigy-MX-3
+Prodigy,M1,5.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-M1
+Prodigy,M Model OS,6.0,4.0,-1.0,3.0,22.0 cm,1.9 cm,1.5 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-M-Model-OS
+Prodigy,M Model S,6.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.5 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-M-Model-S
 Prodigy,F7,7.0,5.0,-3.0,1.0,21.3 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-F7
 Prodigy,F5,7.0,5.0,-2.0,1.0,21.3 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-F5
 Prodigy,F3,7.0,5.0,-1.0,2.0,21.3 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-F3
 Prodigy,F2,7.0,5.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-F2
-Prodigy,D3 Max,12.0,6.0,-3.0,1.5,21.1 cm,1.8 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D3-Max
 Prodigy,F1,7.0,4.0,0.0,3.0,21.3 cm,1.5 cm,1.1 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-F1
-Prodigy,F Model S,10.0,5.0,1.0,3.0,21.0 cm,1.5 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-F-Model-S
-Prodigy,X5,13.0,5.0,-4.0,1.0,21.1 cm,1.9 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-X5
-Prodigy,X4,13.0,5.0,-2.5,2.0,21.2 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-X4
-Prodigy,X3,12.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-X3
-Prodigy,X2,13.0,4.0,0.0,4.0,21.1 cm,1.8 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-X2
-Prodigy,X1,13.0,3.0,0.0,5.0,21.2 cm,1.5 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-X1
-Prodigy,H2 V2,11.0,5.0,0.0,2.5,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H2-V2
-Prodigy,H3,9.0,4.0,0.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H3
-Prodigy,H3 V2,11.0,5.0,-1.0,2.0,21.3 cm,1.8 cm,1.2 cm,2.0 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-H3-V2
-Prodigy,H4,9.0,5.0,-2.0,1.5,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-H4
-Prodigy,PA-3,3.0,4.0,0.0,1.0,21.1 cm,1.9 cm,1.0 cm,1.4 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-PA-3
-Prodigy,PA-2,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-PA-2
-Prodigy,PA-1,3.0,3.0,0.0,2.0,21.0 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-PA-1
-Prodigy,P Model S,3.0,5.0,0.0,2.0,21.3 cm,1.9 cm,1.2 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-P-Model-S
-Prodigy,A4,4.0,4.0,-1.0,2.0,21.0 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-A4
-Prodigy,A3,4.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-A3
-Prodigy,A2,4.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-A2
-Prodigy,A1,3.0,3.0,0.0,3.0,21.0 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-A1
-Prodigy,D6,12.0,6.0,-4.0,1.0,21.0 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D6
-Prodigy,MX-3,5.0,4.0,0.0,2.0,21.7 cm,1.9 cm,1.3 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Prodigy-MX-3
-Prodigy,M4,5.0,5.0,-1.0,1.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-M4
-Prodigy,M3,5.0,5.0,-1.0,2.0,21.7 cm,1.9 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-M3
-Prodigy,M2,5.0,4.0,0.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-M2
-Prodigy,M1,5.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-M1
-Prodigy,M Model S,6.0,4.0,0.0,3.0,21.7 cm,2.0 cm,1.5 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-M-Model-S
-Prodigy,M Model OS,6.0,4.0,-1.0,3.0,22.0 cm,1.9 cm,1.5 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-M-Model-OS
 Prodigy,H5,9.0,5.0,-3.0,1.0,21.3 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-H5
-Prodigy,H4 V2,12.0,5.0,-2.0,1.5,21.3 cm,1.5 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-H4-V2
-Prodigy,M5,5.0,5.0,-3.0,1.0,21.7 cm,2.2 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-M5
+Prodigy,H4,9.0,5.0,-2.0,1.5,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-H4
+Prodigy,FX-2,9.0,4.0,-1.0,3.0,21.1 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-FX-2
+Prodigy,H2,9.0,5.0,0.0,2.0,21.3 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H2
+Prodigy,H3,9.0,4.0,0.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H3
+Prodigy,H1,10.0,3.0,0.0,3.5,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-H1
+Prodigy,F Model S,10.0,5.0,1.0,3.0,21.0 cm,1.5 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-F-Model-S
+Prodigy,H3 V2,11.0,5.0,-1.0,2.0,21.3 cm,1.8 cm,1.2 cm,2.0 cm,Beaded,Stable,https://infinitediscs.com/Prodigy-H3-V2
+Prodigy,H2 V2,11.0,5.0,0.0,2.5,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-H2-V2
+Prodigy,H1 V2,11.0,4.0,0.0,3.0,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-H1-V2
+Prodigy,D6,12.0,6.0,-4.0,1.0,21.0 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D6
 Prodigy,D5,12.0,6.0,-4.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D5
-Prodigy,D2 Max,12.0,6.0,-1.0,3.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-D2-Max
+Prodigy,D3 Max,12.0,6.0,-3.0,1.5,21.1 cm,1.8 cm,1.2 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D3-Max
 Prodigy,D4,12.0,6.0,-3.0,2.0,21.0 cm,1.9 cm,1.2 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D4
+Prodigy,H4 V2,12.0,5.0,-2.0,1.5,21.3 cm,1.5 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-H4-V2
 Prodigy,D3,12.0,6.0,-2.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-D3
-Prodigy,PA-4,3.0,3.0,-1.0,1.0,21.0 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-PA-4
+Prodigy,X3,12.0,5.0,-1.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-X3
 Prodigy,D2,12.0,6.0,-1.0,3.0,21.0 cm,1.9 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-D2
-Prodigy,D1 Max,12.0,5.0,0.0,3.0,21.0 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-D1-Max
+Prodigy,D2 Max,12.0,6.0,-1.0,3.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-D2-Max
 Prodigy,D1,12.0,5.0,0.0,3.0,21.0 cm,1.9 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-D1
+Prodigy,D1 Max,12.0,5.0,0.0,3.0,21.0 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-D1-Max
+Prodigy,X5,13.0,5.0,-4.0,1.0,21.1 cm,1.9 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-X5
 Prodigy,D Model US,13.0,6.0,-3.0,1.0,21.0 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D-Model-US
+Prodigy,X4,13.0,5.0,-2.5,2.0,21.2 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-X4
 Prodigy,D Model S,13.0,6.0,0.0,2.0,21.0 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-D-Model-S
 Prodigy,D Model OS,13.0,5.0,0.0,4.0,21.0 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-D-Model-OS
-Prodiscus,Legenda,13.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Legenda
+Prodigy,X2,13.0,4.0,0.0,4.0,21.1 cm,1.8 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-X2
+Prodigy,X1,13.0,3.0,0.0,5.0,21.2 cm,1.5 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Prodigy-X1
+Prodiscus,Sparta,3.0,3.0,0.0,0.5,21.3 cm,2.0 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Prodiscus-Sparta
+Prodiscus,Jokeri,4.0,3.0,0.0,2.0,21.1 cm,1.8 cm,1.5 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Jokeri
+Prodiscus,STARi,5.0,4.0,-2.0,1.0,21.6 cm,1.9 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Prodiscus-STARi
+Prodiscus,Midari,5.0,4.0,-1.0,2.0,21.6 cm,1.8 cm,1.5 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodiscus-Midari
+Prodiscus,Laseri,7.0,3.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Laseri
+Prodiscus,Respecti,8.0,4.0,0.0,2.0,21.0 cm,1.8 cm,1.3 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Respecti
+Prodiscus,Flipperi,9.0,3.0,-3.0,0.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Prodiscus-Flipperi
+Prodiscus,Rocket,9.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.3 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Rocket
+Prodiscus,Titan,10.0,4.0,0.0,3.0,21.2 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Titan
 Prodiscus,Razeri,12.0,5.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Razeri
 Prodiscus,Slaidi,12.0,5.0,0.0,3.0,21.1 cm,2.0 cm,1.2 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Slaidi
-Prodiscus,Titan,10.0,4.0,0.0,3.0,21.2 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Titan
-Prodiscus,Flipperi,9.0,3.0,-3.0,0.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Prodiscus-Flipperi
-Prodiscus,Sparta,3.0,3.0,0.0,0.5,21.3 cm,2.0 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Prodiscus-Sparta
-Prodiscus,Respecti,8.0,4.0,0.0,2.0,21.0 cm,1.8 cm,1.3 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Respecti
-Prodiscus,Rocket,9.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.3 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Rocket
 Prodiscus,Fasti,13.0,4.0,-2.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Prodiscus-Fasti
-Prodiscus,STARi,5.0,4.0,-2.0,1.0,21.6 cm,1.9 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Prodiscus-STARi
-Prodiscus,Laseri,7.0,3.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Laseri
-Prodiscus,Midari,5.0,4.0,-1.0,2.0,21.6 cm,1.8 cm,1.5 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Prodiscus-Midari
-Prodiscus,Jokeri,4.0,3.0,0.0,2.0,21.1 cm,1.8 cm,1.5 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Jokeri
-RPM Discs,Taniwha,10.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Taniwha
-RPM Discs,Huia,7.0,5.0,0.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Huia
-RPM Discs,Kahu OS,13.0,5.0,0.0,3.0,21.0 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/RPM-Discs-Kahu-OS
-RPM Discs,Kahu XG,13.0,5.0,-1.5,3.0,21.0 cm,1.5 cm,3.0 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Kahu-XG
-RPM Discs,Kiwi,10.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Kiwi
-RPM Discs,Kahu,13.0,5.0,-1.5,3.0,21.0 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/RPM-Discs-Kahu
-RPM Discs,Ruru,3.0,3.0,0.0,1.0,21.0 cm,2.3 cm,1.6 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/RPM-Discs-Ruru
+Prodiscus,Legenda,13.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Prodiscus-Legenda
+RPM Discs,Tui,3.0,4.0,-1.0,0.0,21.1 cm,1.8 cm,1.4 cm,0.9 cm,Beadless,Understable,https://infinitediscs.com/RPM-Discs-Tui
 RPM Discs,TeMoko,3.0,4.0,0.0,0.0,23.7 cm,2.9 cm,2.3 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-TeMoko
+RPM Discs,Ruru,3.0,3.0,0.0,1.0,21.0 cm,2.3 cm,1.6 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/RPM-Discs-Ruru
 RPM Discs,Piwakawaka,4.0,5.0,0.0,0.0,21.8 cm,2.0 cm,1.2 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Piwakawaka
 RPM Discs,Kea,5.0,5.0,0.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/RPM-Discs-Kea
-RPM Discs,Tui,3.0,4.0,-1.0,0.0,21.1 cm,1.8 cm,1.4 cm,0.9 cm,Beadless,Understable,https://infinitediscs.com/RPM-Discs-Tui
+RPM Discs,Huia,7.0,5.0,0.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Huia
+RPM Discs,Taniwha,10.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Taniwha
+RPM Discs,Kiwi,10.0,5.0,-1.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Kiwi
 RPM Discs,Kotare,12.0,5.0,0.0,3.0,21.2 cm,1.5 cm,1.5 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/RPM-Discs-Kotare
+RPM Discs,Kahu,13.0,5.0,-1.5,3.0,21.0 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/RPM-Discs-Kahu
+RPM Discs,Kahu XG,13.0,5.0,-1.5,3.0,21.0 cm,1.5 cm,3.0 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Kahu-XG
+RPM Discs,Kahu OS,13.0,5.0,0.0,3.0,21.0 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/RPM-Discs-Kahu-OS
 Reptilian Disc Golf,Serpent,2.0,2.0,0.0,0.0,21.0 cm,2.2 cm,1.0 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Serpent
 Reptilian Disc Golf,Scale,2.0,1.0,0.0,3.0,21.0 cm,2.2 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Scale
 Reptilian Disc Golf,Stego,3.0,1.0,1.0,4.0,21.3 cm,1.8 cm,1.2 cm,1.0 cm,Beaded,Very Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Stego
 Reptilian Disc Golf,Gila,5.0,4.0,0.0,3.0,21.0 cm,1.6 cm,1.2 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Gila
-Reptilian Disc Golf,Velociraptor,9.0,4.0,0.0,2.5,21.0 cm,2.0 cm,1.6 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Velociraptor
-Reptilian Disc Golf,Tyrant,7.0,3.0,0.0,2.5,21.2 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Tyrant
 Reptilian Disc Golf,Ptero,7.0,5.0,-1.0,1.0,21.2 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Reptilian-Disc-Golf-Ptero
-Salient,Napalm,11.0,5.0,-2.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Salient-Napalm
-Salient,Prometheus,14.0,4.0,-1.0,1.0,22.6 cm,1.6 cm,1.2 cm,2.6 cm,Beadless,Stable,https://infinitediscs.com/Salient-Prometheus
+Reptilian Disc Golf,Tyrant,7.0,3.0,0.0,2.5,21.2 cm,1.4 cm,1.1 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Tyrant
+Reptilian Disc Golf,Velociraptor,9.0,4.0,0.0,2.5,21.0 cm,2.0 cm,1.6 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Reptilian-Disc-Golf-Velociraptor
 Salient,Touch,2.0,3.0,0.0,1.0,21.3 cm,2.0 cm,1.4 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Salient-Touch
 Salient,Vaccine,3.0,3.0,0.0,2.0,21.0 cm,1.5 cm,1.0 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Salient-Vaccine
 Salient,Antidote,5.0,5.0,0.0,1.0,21.7 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Salient-Antidote
-Salient,Backdraft,12.0,5.0,-1.0,2.0,21.0 cm,2.0 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Salient-Backdraft
-Salient,Suture,9.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Salient-Suture
 Salient,Flatline,6.0,5.0,-0.5,1.0,21.1 cm,2.0 cm,1.2 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Salient-Flatline
-Salient,Reign,13.0,5.0,0.0,2.0,21.0 cm,1.7 cm,1.4 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Salient-Reign
 Salient,Vein,8.0,4.0,0.0,2.0,21.1 cm,1.9 cm,1.3 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Salient-Vein
+Salient,Suture,9.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Salient-Suture
+Salient,Napalm,11.0,5.0,-2.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Salient-Napalm
+Salient,Backdraft,12.0,5.0,-1.0,2.0,21.0 cm,2.0 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Salient-Backdraft
+Salient,Reign,13.0,5.0,0.0,2.0,21.0 cm,1.7 cm,1.4 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Salient-Reign
+Salient,Prometheus,14.0,4.0,-1.0,1.0,22.6 cm,1.6 cm,1.2 cm,2.6 cm,Beadless,Stable,https://infinitediscs.com/Salient-Prometheus
+Skyquest,Chainzilla,2.0,3.0,-1.0,1.0,21.2 cm,2.2 cm,1.7 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Skyquest-Chainzilla
 Skyquest,Lucky 13,10.0,5.0,-3.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Skyquest-Lucky-13
 Skyquest,Medusa,11.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Skyquest-Medusa
-Skyquest,Chainzilla,2.0,3.0,-1.0,1.0,21.2 cm,2.2 cm,1.7 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Skyquest-Chainzilla
-Storm Disc Golf,Jet Stream,12.0,5.0,-1.0,3.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Jet-Stream
-Storm Disc Golf,Maelstrom,11.0,5.0,-1.0,3.0,21.4 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Maelstrom
-Storm Disc Golf,Abyss,8.0,4.0,0.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Storm-Disc-Golf-Abyss
-Storm Disc Golf,Eye,5.0,5.0,-1.0,1.0,21.9 cm,1.8 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Storm-Disc-Golf-Eye
-Storm Disc Golf,Crater,3.0,2.0,0.0,3.0,21.1 cm,1.8 cm,1.3 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Crater
 Storm Disc Golf,Radar,2.0,5.0,0.0,0.5,21.1 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Storm-Disc-Golf-Radar
+Storm Disc Golf,Crater,3.0,2.0,0.0,3.0,21.1 cm,1.8 cm,1.3 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Crater
+Storm Disc Golf,Eye,5.0,5.0,-1.0,1.0,21.9 cm,1.8 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Storm-Disc-Golf-Eye
+Storm Disc Golf,Abyss,8.0,4.0,0.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Storm-Disc-Golf-Abyss
+Storm Disc Golf,Maelstrom,11.0,5.0,-1.0,3.0,21.4 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Maelstrom
+Storm Disc Golf,Jet Stream,12.0,5.0,-1.0,3.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Storm-Disc-Golf-Jet-Stream
 Streamline,Pilot,2.0,5.0,-1.0,1.0,21.2 cm,1.8 cm,1.3 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Streamline-Pilot
-Streamline,Lift,9.0,5.0,-2.0,1.5,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Lift
-Streamline,Drift,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Drift
-Streamline,Trace,11.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.0 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Streamline-Trace
 Streamline,Stabilizer,3.0,4.0,0.0,3.0,21.2 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Streamline-Stabilizer
-Streamline,Flare,9.0,4.0,0.0,3.5,21.2 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Streamline-Flare
 Streamline,Runway,5.0,4.0,0.0,3.5,21.5 cm,1.7 cm,1.4 cm,1.4 cm,Beaded,Very Overstable,https://infinitediscs.com/Streamline-Runway
+Streamline,Drift,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Drift
+Streamline,Lift,9.0,5.0,-2.0,1.5,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Lift
+Streamline,Flare,9.0,4.0,0.0,3.5,21.2 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Streamline-Flare
+Streamline,Trace,11.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.0 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Streamline-Trace
 Thought Space Athletics,Mantra,9.0,6.0,-2.0,1.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Thought-Space-Athletics-Mantra
-Viking Discs,Nordic Warrior,4.0,4.0,0.0,2.0,21.5 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Nordic-Warrior
+Viking Discs,Rune,2.0,4.0,0.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Viking-Discs-Rune
 Viking Discs,Knife,3.0,3.0,0.0,2.0,21.1 cm,1.9 cm,1.8 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Knife
-Viking Discs,Loki,4.0,2.0,0.0,4.0,21.4 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Viking-Discs-Loki
 Viking Discs,Axe,4.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Axe
+Viking Discs,Nordic Warrior,4.0,4.0,0.0,2.0,21.5 cm,2.0 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Nordic-Warrior
+Viking Discs,Loki,4.0,2.0,0.0,4.0,21.4 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Viking-Discs-Loki
+Viking Discs,Cosmos,7.0,5.0,0.0,1.0,21.0 cm,1.6 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Cosmos
 Viking Discs,Barbarian,7.0,5.0,0.0,2.0,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Barbarian
+Viking Discs,Berserker,10.0,5.0,-3.0,2.0,21.2 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Viking-Discs-Berserker
+Viking Discs,Ragnarok,11.0,5.0,-1.0,2.0,21.2 cm,2.1 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Ragnarok
 Viking Discs,Valhalla,12.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Valhalla
 Viking Discs,Thunder God Thor,14.0,5.0,0.0,2.0,21.0 cm,1.7 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Viking-Discs-Thunder-God-Thor
-Viking Discs,Ragnarok,11.0,5.0,-1.0,2.0,21.2 cm,2.1 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Ragnarok
-Viking Discs,Berserker,10.0,5.0,-3.0,2.0,21.2 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Viking-Discs-Berserker
-Viking Discs,Rune,2.0,4.0,0.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Viking-Discs-Rune
-Viking Discs,Cosmos,7.0,5.0,0.0,1.0,21.0 cm,1.6 cm,1.1 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Cosmos
-Westside,Sorcerer,13.0,5.0,-0.5,3.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Westside-Sorcerer
-Westside,Sword,12.0,5.0,-0.5,2.0,21.2 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Westside-Sword
-Westside,War Horse,13.0,4.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-War-Horse
-Westside,World,14.0,4.0,-0.5,3.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-World
-Westside,Sampo,10.0,4.0,-1.0,2.0,21.2 cm,1.9 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Sampo
-Westside,Warship,6.0,5.0,0.0,1.0,21.7 cm,2.1 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Westside-Warship
-Westside,Hatchet,9.0,6.0,-2.0,1.0,21.3 cm,2.0 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Westside-Hatchet
-Westside,Shield,3.0,3.0,0.0,1.0,21.1 cm,2.5 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Westside-Shield
-Westside,Maiden,3.0,4.0,0.0,1.0,21.2 cm,1.8 cm,1.0 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Westside-Maiden
-Westside,Harp,4.0,3.0,0.0,3.0,21.2 cm,1.6 cm,1.4 cm,1.1 cm,Beaded,Very Overstable,https://infinitediscs.com/Westside-Harp
+Westside,Swan 1 Reborn,3.0,3.0,-2.5,0.0,21.1 cm,1.9 cm,1.3 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Westside-Swan-1-Reborn
+Westside,Swan,3.0,3.0,-1.0,0.0,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Westside-Swan
 Westside,Crown,3.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Westside-Crown
-Westside,Queen,14.0,5.0,-3.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Westside-Queen
+Westside,Maiden,3.0,4.0,0.0,1.0,21.2 cm,1.8 cm,1.0 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Westside-Maiden
+Westside,Shield,3.0,3.0,0.0,1.0,21.1 cm,2.5 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Westside-Shield
+Westside,Gatekeeper,4.0,5.0,0.0,2.0,21.7 cm,1.8 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Gatekeeper
+Westside,Harp,4.0,3.0,0.0,3.0,21.2 cm,1.6 cm,1.4 cm,1.1 cm,Beaded,Very Overstable,https://infinitediscs.com/Westside-Harp
+Westside,Anvil,4.0,2.0,0.0,4.0,21.3 cm,1.8 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Anvil
 Westside,Tursas,5.0,5.0,-2.0,1.0,21.7 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Westside-Tursas
 Westside,Sling,5.0,5.0,0.0,1.0,21.8 cm,1.8 cm,1.2 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Westside-Sling
 Westside,Pine,5.0,4.0,0.0,2.0,21.7 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Westside-Pine
-Westside,Gatekeeper,4.0,5.0,0.0,2.0,21.7 cm,1.8 cm,1.3 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Gatekeeper
 Westside,Bard,5.0,4.0,0.0,3.0,21.7 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Bard
-Westside,Anvil,4.0,2.0,0.0,4.0,21.3 cm,1.8 cm,1.2 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Anvil
+Westside,Warship,6.0,5.0,0.0,1.0,21.7 cm,2.1 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Westside-Warship
 Westside,Underworld,7.0,6.0,-3.0,1.0,21.3 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Westside-Underworld
-Westside,Stag,8.0,6.0,-1.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Stag
 Westside,Seer,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Westside-Seer
+Westside,Stag,8.0,6.0,-1.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Stag
+Westside,Hatchet,9.0,6.0,-2.0,1.0,21.3 cm,2.0 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Westside-Hatchet
 Westside,Longbowman,9.0,4.0,0.0,3.0,21.1 cm,1.9 cm,1.0 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Longbowman
 Westside,Ahti,9.0,3.0,0.0,4.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Ahti
 Westside,Northman,10.0,5.0,-1.0,2.0,21.5 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Westside-Northman
-Westside,Swan 1 Reborn,3.0,3.0,-2.5,0.0,21.1 cm,1.9 cm,1.3 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Westside-Swan-1-Reborn
-Westside,Giant,13.0,4.0,0.0,3.5,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Giant
+Westside,Sampo,10.0,4.0,-1.0,2.0,21.2 cm,1.9 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Sampo
 Westside,Fortress,10.0,4.0,0.0,3.0,21.2 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Fortress
-Westside,Destiny,14.0,6.0,-2.0,3.0,21.1 cm,1.8 cm,1.0 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Westside-Destiny
-Westside,Catapult,14.0,4.0,-0.5,3.0,21.1 cm,1.6 cm,1.0 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Catapult
 Westside,Boatman,11.0,5.0,0.0,2.0,21.4 cm,1.9 cm,1.3 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Boatman
-Westside,Swan,3.0,3.0,-1.0,0.0,21.1 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Westside-Swan
+Westside,Sword,12.0,5.0,-0.5,2.0,21.2 cm,1.8 cm,1.2 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Westside-Sword
+Westside,Sorcerer,13.0,5.0,-0.5,3.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Westside-Sorcerer
+Westside,Giant,13.0,4.0,0.0,3.5,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-Giant
+Westside,War Horse,13.0,4.0,0.0,4.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-War-Horse
+Westside,Queen,14.0,5.0,-3.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Understable,https://infinitediscs.com/Westside-Queen
+Westside,Destiny,14.0,6.0,-2.0,3.0,21.1 cm,1.8 cm,1.0 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Westside-Destiny
 Westside,King,14.0,5.0,-1.5,3.0,21.1 cm,1.9 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Westside-King
-Yikun,DA'E,13.0,5.0,0.0,2.0,21.0 cm,1.7 cm,1.4 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Yikun-DAE
-Yikun,Jun,11.0,5.0,-1.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Jun
-Yikun,Lu,14.0,5.0,-1.0,3.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Lu
-Yikun,Twin Swords,12.0,5.0,0.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Twin-Swords
-Yikun,Wei,10.0,5.0,-5.0,1.5,21.1 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Wei
-Yikun,Gou,8.0,5.0,-4.0,1.0,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Gou
-Yikun,Hu,9.0,5.0,-2.0,2.0,21.2 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Hu
-Yikun,Crossbow,4.0,2.0,0.5,4.0,21.3 cm,1.6 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Yikun-Crossbow
-Yikun,View,6.0,4.0,-1.0,2.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Yikun-View
-Yikun,Kui,5.0,5.0,0.0,2.5,21.1 cm,1.8 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Kui
-Yikun,Tomahawk,5.0,6.0,-3.0,0.0,21.6 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Tomahawk
-Yikun,Wings,3.0,3.0,0.0,2.0,21.0 cm,1.5 cm,1.0 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Yikun-Wings
-Yikun,Yao,4.0,4.0,0.0,2.0,21.6 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Yao
+Westside,Catapult,14.0,4.0,-0.5,3.0,21.1 cm,1.6 cm,1.0 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Catapult
+Westside,World,14.0,4.0,-0.5,3.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-World
+Yikun,Talon (Claws),1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Talon-(Claws)
+Yikun,Meteor Hammer,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Meteor-Hammer
 Yikun,Gui,2.0,3.0,0.0,2.0,21.1 cm,1.8 cm,1.5 cm,0.9 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Gui
 Yikun,Hammer (Chui),2.0,3.0,0.0,3.0,21.1 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Hammer-(Chui)
-Yikun,Talon (Claws),1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Talon-(Claws)
+Yikun,Wings,3.0,3.0,0.0,2.0,21.0 cm,1.5 cm,1.0 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Yikun-Wings
+Yikun,Yao,4.0,4.0,0.0,2.0,21.6 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Yao
+Yikun,Crossbow,4.0,2.0,0.5,4.0,21.3 cm,1.6 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Yikun-Crossbow
+Yikun,Tomahawk,5.0,6.0,-3.0,0.0,21.6 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Tomahawk
+Yikun,Kui,5.0,5.0,0.0,2.5,21.1 cm,1.8 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Kui
 Yikun,Jiao,6.0,5.0,-5.0,0.5,21.2 cm,1.6 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Jiao
-Yikun,Meteor Hammer,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Meteor-Hammer
+Yikun,View,6.0,4.0,-1.0,2.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Yikun-View
+Yikun,Gou,8.0,5.0,-4.0,1.0,21.3 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Gou
+Yikun,Hu,9.0,5.0,-2.0,2.0,21.2 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Hu
+Yikun,Wei,10.0,5.0,-5.0,1.5,21.1 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Wei
+Yikun,Jun,11.0,5.0,-1.0,2.0,21.0 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Jun
+Yikun,Twin Swords,12.0,5.0,0.0,2.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Twin-Swords
+Yikun,DA'E,13.0,5.0,0.0,2.0,21.0 cm,1.7 cm,1.4 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Yikun-DAE
+Yikun,Lu,14.0,5.0,-1.0,3.0,21.2 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Lu
