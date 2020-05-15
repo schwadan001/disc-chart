@@ -41,62 +41,57 @@ disc_attrs = {
     "diameter": {
         "id": "ContentPlaceHolder1_lblDiameter",
         "type": "li",
-        "f": lambda x: x.text.strip("Diameter:").strip()
+        "f": lambda x: x.text.replace("Diameter:", "").strip()
     },
     "height": {
         "id": "ContentPlaceHolder1_lblHeight",
         "type": "li",
-        "f": lambda x: x.text.strip("Height:").strip()
+        "f": lambda x: x.text.replace("Height:", "").strip()
     },
     "rim_depth": {
         "id": "ContentPlaceHolder1_lblRimDepth",
         "type": "li",
-        "f": lambda x: x.text.strip("Rim Depth:").strip()
+        "f": lambda x: x.text.replace("Rim Depth:", "").strip()
     },
     "rim_width": {
         "id": "ContentPlaceHolder1_lblRimWidth",
         "type": "li",
-        "f": lambda x: x.text.strip("Rim Width:").strip()
+        "f": lambda x: x.text.replace("Rim Width:", "").strip()
     },
     "max_weight": {
         "id": "ContentPlaceHolder1_lblMaxWeight",
         "type": "li",
-        "f": lambda x: x.text.strip("Max Weight:").strip()
+        "f": lambda x: x.text.replace("Max Weight:", "").strip()
     },
     "speed": {
         "id": "ContentPlaceHolder1_lblSpeed",
         "type": "li",
-        "f": lambda x: float(x.text.strip("Speed:").strip())
+        "f": lambda x: float(x.text.replace("Speed:", "").strip())
     },
     "glide": {
         "id": "ContentPlaceHolder1_lblGlide",
         "type": "li",
-        "f": lambda x: float(x.text.strip("Glide:").strip())
+        "f": lambda x: float(x.text.replace("Glide:", "").strip())
     },
     "turn": {
         "id": "ContentPlaceHolder1_lblTurn",
         "type": "li",
-        "f": lambda x: float(x.text.strip("Turn:").strip())
+        "f": lambda x: float(x.text.replace("Turn:", "").strip())
     },
     "fade": {
         "id": "ContentPlaceHolder1_lblFade",
         "type": "li",
-        "f": lambda x: float(x.text.strip("Fade:").strip())
+        "f": lambda x: float(x.text.replace("Fade:", "").strip())
     },
     "stability": {
         "id": "ContentPlaceHolder1_lblStability",
         "type": "li",
-        "f": lambda x: x.text.strip("Stability:").strip()
+        "f": lambda x: x.text.replace("Stability:", "").strip()
     },
     "bead": {
         "id": "ContentPlaceHolder1_lblBeadless",
         "type": "li",
         "f": lambda x: x.text
-    },
-    "img": {
-        "id": "ContentPlaceHolder1_lnkDiscImage",
-        "type": "a",
-        "f": lambda x: x["href"]
     }
 }
 
@@ -167,9 +162,9 @@ df = df[[
     "bead",
     "stability",
     "price",
-    "link",
-    "img"
+    "link"
 ]]
+
 df.to_csv(output_file, index=False)
 
 input("\nData load complete\n")
