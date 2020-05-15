@@ -31,12 +31,7 @@ disc_attrs = {
     "name": {
         "id": "ContentPlaceHolder1_lblDiscName",
         "type": "h1",
-        "f": lambda x: x.text
-    },
-    "price": {
-        "id": "ContentPlaceHolder1_lblOurPrice",
-        "type": "td",
-        "f": lambda x: x.text
+        "f": lambda x: x.text.strip()
     },
     "diameter": {
         "id": "ContentPlaceHolder1_lblDiameter",
@@ -57,11 +52,6 @@ disc_attrs = {
         "id": "ContentPlaceHolder1_lblRimWidth",
         "type": "li",
         "f": lambda x: x.text.replace("Rim Width:", "").strip()
-    },
-    "max_weight": {
-        "id": "ContentPlaceHolder1_lblMaxWeight",
-        "type": "li",
-        "f": lambda x: x.text.replace("Max Weight:", "").strip()
     },
     "speed": {
         "id": "ContentPlaceHolder1_lblSpeed",
@@ -91,7 +81,7 @@ disc_attrs = {
     "bead": {
         "id": "ContentPlaceHolder1_lblBeadless",
         "type": "li",
-        "f": lambda x: x.text
+        "f": lambda x: x.text.strip()
     }
 }
 
@@ -158,10 +148,8 @@ df = df[[
     "height",
     "rim_depth",
     "rim_width",
-    "max_weight",
     "bead",
     "stability",
-    "price",
     "link"
 ]]
 
