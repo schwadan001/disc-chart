@@ -26,6 +26,10 @@
     text-shadow: -1px -1px 0 darkgrey, -1px -1px 0 darkgrey, -1px -1px 0 darkgrey, -1px -1px 0 darkgrey;
 }
 
+.col-sm-12 {
+    overflow: auto;
+}
+
 .logo {
     border-radius: 50%;
     height: 100px;
