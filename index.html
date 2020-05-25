@@ -1,15 +1,20 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <title>Frisbee Dan</title>
-    <meta name="description" content="Frisbee Dan">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+    <meta name="description" content="Frisbee Dan">
+
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="common.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="index.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149846952-5"></script>
@@ -20,89 +25,60 @@
 
         gtag('config', 'UA-149846952-5');
     </script>
-    
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+        .col-sm-12 {
+            overflow: auto;
+        }
+    </style>
+
 </head>
 
 <body>
     <!-- Banner -->
     <div class="banner">
         <img class="banner" alt="Site Banner" src="banner.webp">
+        <h1 class="banner-text">Frisbee Dan</h1>
     </div>
-
-    <!-- Navbar -->
-    <nav class="navbar navbar-dark bg-dark navbar-expand-md justify-content-center">
-        <a id="title" class="navbar-brand d-flex mr-auto" href="index.html">
-            FrisbeeDan
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="collapsingNavbar">
-            <ul class="navbar-nav w-10 justify-content-center">
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="products.html">Products</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="disc-compare.html">Disc Comparison</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
 
     <!-- Page Header -->
     <div id="info">
-        Hi! I'm Frisbee Dan. Welcome to my personal website!
+        A side-by-side comparison of disc attributes, using data from Infinite Discs.
+        Please be patient, as this may take a while to load.
     </div>
 
-    <!-- Content -->
-    <div class="flex-vert">
-        <div class="flex-item">
-            <h3>Disc Golf Tournament Coverage</h3>
-        </div>
-        <div class="flex-horiz">
-            <div class="flex-item"><a href="https://www.youtube.com/user/JomezProductions" target="blank">
-                    <img src="https://yt3.ggpht.com/a/AATXAJzyzyUKxqYKrWrWNtnm4j9rHIy3qEeF-z596w=s288-c-k-c0xffffffff-no-rj-mo"
-                        class="logo"></a>
-            </div>
-            <div class="flex-item"><a href="https://www.youtube.com/channel/UC96v9uB8ZKe1TFdYzBOGnpw" target="blank">
-                    <img src="https://yt3.ggpht.com/a/AATXAJy9qO9SJtRUFHdpsck_bcjaHV5XPtRtw5jFfQ=s288-c-k-c0xffffffff-no-rj-mo"
-                        class="logo"></a>
-            </div>
-            <div class="flex-item"><a href="https://www.youtube.com/user/CentralCoastDiscGolf" target="blank">
-                    <img src="https://yt3.ggpht.com/a/AATXAJwI9iCHDPXwGw_hwZdeOIzbXdJPZdqj2iAlfw=s288-c-k-c0xffffffff-no-rj-mo"
-                        class="logo"> </a>
-            </div>
-        </div>
 
-        <div class="break"></div>
-        <div class="flex-item">
-            <h3>Disc Golf News & Media</h3>
-        </div>
-        <div class="flex-horiz">
-            <div class="flex-item"><a href="https://discgolf.ultiworld.com/" target="blank">
-                    <img src="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2016/04/Ultiworld-Disc-Golf-Logo-Outline-200x200.png"
-                        class="logo"></a>
-            </div>
-            <div class="flex-item"><a href="https://www.youtube.com/channel/UCOEnnpuLfjhC3_i_eAnj6gQ" target="blank">
-                    <img src="https://yt3.ggpht.com/a/AATXAJz3VcjZHEl-_rR-xBKmFrvpNVsonPStkir0bg=s288-c-k-c0xffffffff-no-rj-mo"
-                        class="logo"></a>
-            </div>
-            <div class="flex-item"><a href="https://www.dgpt.com/news/blog/" target="blank">
-                    <img src="https://www.dgpt.com/wp-content/uploads/2020/01/disc_golf_pro_tour-logo.svg" class="logo">
-                </a>
-            </div>
-            <div class="flex-item"><a href="https://www.pdga.com/news" target="blank">
-                    <img src="https://yt3.ggpht.com/a-/AAuE7mCQXbAo4fWvfNCgQyOBFvxtn1cy1MwkgNP90A=s900-mo-c-c0xffffffff-rj-k-no"
-                        class="logo"> </a>
-            </div>
-        </div>
+    <div class="container-fluid">
+        <div id="table-container"></div>
+    </div>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.csv.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="js/csv_to_html_table.js"></script>
 
+    <script type="text/javascript">
+        function format_link(link) {
+            return (link) ? "<a href='" + link + "' target='_blank'>Link</a>" : "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "discs.csv",
+            element: "table-container",
+            allow_download: true,
+            csv_options: { separator: ",", delimiter: '"' },
+            datatables_options: { "paging": true },
+            custom_formatting: [[12, format_link]]
+        });
+    </script>
 </body>
 
 </html>

@@ -16,6 +16,16 @@
     height: 50px;
 }
 
+.banner-text {
+    color: white;
+    text-align: left;
+    font-size: xx-large;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    text-shadow: -1px -1px 0 darkgrey, -1px -1px 0 darkgrey, -1px -1px 0 darkgrey, -1px -1px 0 darkgrey;
+}
+
 .logo {
     border-radius: 50%;
     height: 100px;
