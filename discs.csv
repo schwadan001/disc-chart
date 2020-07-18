@@ -357,6 +357,7 @@ Innova,XD +,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https:
 Innova,Aero,3.0,6.0,0.0,0.0,22.2 cm,2.5 cm,1.0 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Aero
 Innova,Dart,3.0,4.0,0.0,0.0,21.2 cm,2.2 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Dart
 Innova,Bullfrog,3.0,1.0,0.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Bullfrog
+Innova,Invader,3.0,2.0,0.0,1.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Innova-Invader
 Innova,Warhog,3.0,3.0,0.0,1.0,21.2 cm,2.2 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Warhog
 Innova,Aviar3,3.0,2.0,0.0,2.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Aviar3
 Innova,Classic Roc,3.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.2 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Classic-Roc
@@ -426,7 +427,7 @@ Innova,TeeBird +,7.0,5.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Overstabl
 Innova,Banshee,7.0,3.0,0.0,3.0,21.2 cm,1.5 cm,1.2 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Banshee
 Innova,Archangel,8.0,6.0,-4.0,1.0,21.1 cm,1.6 cm,1.5 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Innova-Archangel
 Innova,Dragon,8.0,5.0,-2.0,2.0,21.0 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Dragon
-Innova,TL3,8.0,4.0,0.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL3
+Innova,TL3,8.0,4.0,-1.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Innova-TL3
 Innova,TeeBird3,8.0,4.0,0.0,2.0,21.2 cm,1.5 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-TeeBird3
 Innova,Roadrunner,9.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Roadrunner
 Innova,Sidewinder,9.0,5.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sidewinder
@@ -474,8 +475,8 @@ Kastaplast,Kaxe,6.0,4.0,0.0,3.0,21.0 cm,1.9 cm,1.3 cm,1.5 cm,Beadless,Overstable
 Kastaplast,Falk,9.0,6.0,-2.0,1.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Kastaplast-Falk
 Kastaplast,Lots,9.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Lots
 Kastaplast,Stal,9.0,4.0,0.0,3.0,21.1 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Very Overstable,https://infinitediscs.com/Kastaplast-Stal
+Kastaplast,Grym X,12.5,5.0,0.0,3.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym-X
 Kastaplast,Grym,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym
-Kastaplast,Grym X,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Kastaplast-Grym-X
 Kastaplast,Rask,14.0,3.0,0.0,4.0,21.1 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Kastaplast-Rask
 Kaufinator Discs,Kaufinator Ghost,4.0,5.0,0.0,3.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Ghost
 Kaufinator Discs,Kaufinator Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Rival
@@ -561,9 +562,9 @@ Legacy,Rival,7.0,5.0,0.0,2.0,21.3 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Overstable,ht
 Legacy,Phenom,8.0,5.0,-1.0,2.0,21.2 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Phenom
 Legacy,Mongoose,9.0,5.0,-3.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Mongoose
 Legacy,Bandit,9.0,5.0,-2.0,1.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Bandit
-Legacy,Vengeance,9.0,5.0,0.0,1.0,21.1 cm,1.7 cm,1.7 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Vengeance
 Legacy,Enemy,9.0,3.0,0.0,4.0,21.1 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Enemy
 Legacy,Nemesis,10.0,6.0,-4.0,2.0,21.3 cm,1.5 cm,1.1 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Nemesis
+Legacy,Vengeance,10.0,5.0,0.0,2.0,21.1 cm,1.7 cm,1.7 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Vengeance
 Legacy,Fighter,10.0,3.0,0.0,4.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Legacy-Fighter
 Legacy,Outlaw,12.0,5.0,-1.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Outlaw
 Legacy,Aftermath,13.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Aftermath
@@ -752,7 +753,6 @@ Streamline,Drift,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Understa
 Streamline,Lift,9.0,5.0,-2.0,1.5,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Lift
 Streamline,Flare,9.0,4.0,0.0,3.5,21.2 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Streamline-Flare
 Streamline,Trace,11.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.0 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Streamline-Trace
-Thought Space Athletics,Mantra,9.0,6.0,-2.0,1.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Thought-Space-Athletics-Mantra
 Viking Discs,Rune,2.0,4.0,0.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Viking-Discs-Rune
 Viking Discs,Knife,3.0,3.0,0.0,2.0,21.1 cm,1.9 cm,1.8 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Knife
 Viking Discs,Axe,4.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Axe
