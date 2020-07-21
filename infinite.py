@@ -8,7 +8,7 @@ import re
 from urllib.request import urlopen
 
 url = "https://infinitediscs.com"
-output_file = "discs.csv"
+output_file = "docs/discs.csv"
 
 disc_attrs = {
     "name": {
