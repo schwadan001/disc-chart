@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import calendar
 from datetime import datetime
 from functools import reduce
 from itertools import chain
@@ -8,7 +9,8 @@ import re
 from urllib.request import urlopen
 
 url = "https://infinitediscs.com"
-output_file = "docs/discs.csv"
+disc_data_file = "docs/discs.csv"
+html_file = "docs/index.html"
 
 disc_attrs = {
     "name": {
@@ -162,9 +164,26 @@ if __name__ == "__main__":
         "link"
     ]]
 
-    df.to_csv(output_file, index=False)
+    df.to_csv(disc_data_file, index=False)
 
     print("\nData load complete. Took {} minute(s)".format(
         int((datetime.now() - start_time).seconds / 60)
     ))
+
+    # Update the HTML template's last_updated timestamp
+    print("\nUpdating last-updated timestamp on webpage")
+    
+    time_trigger = """<span id="last-update">"""
+    time_close = "</span"
+    with open(html_file) as f:
+        html = f.read()
+    
+    start_idx = html.find(time_trigger)
+    end_idx = html[start_idx:].find(time_close) + start_idx + len(time_close)
+
+    with open(html_file, "w") as f:
+        date_str = datetime.now().strftime('%B %d, %Y')
+        new_html = html[:start_idx] + time_trigger + date_str + time_close + html[end_idx:]
+        f.write(new_html)
+
     input()
