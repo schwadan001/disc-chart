@@ -5,7 +5,6 @@ from functools import reduce
 from itertools import chain
 from multiprocessing import Pool
 import pandas as pd
-import re
 from urllib.request import urlopen
 
 url = "https://infinitediscs.com"
@@ -171,7 +170,7 @@ if __name__ == "__main__":
     ))
 
     # Update the HTML template's last_updated timestamp
-    print("\nUpdating last-updated timestamp on webpage")
+    print("\nUpdating last-updated timestamp on webpage...")
     
     time_trigger = """<span id="last-update">"""
     time_close = "</span"
@@ -186,4 +185,5 @@ if __name__ == "__main__":
         new_html = html[:start_idx] + time_trigger + date_str + time_close + html[end_idx:]
         f.write(new_html)
 
+    print("\nData load complete.")
     input()
