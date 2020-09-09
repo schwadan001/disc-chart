@@ -333,7 +333,6 @@ Infinite Discs,Pharaoh,13.0,6.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,S
 Innova,Sonic,1.0,2.0,-4.0,0.0,21.6 cm,2.3 cm,1.6 cm,0.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sonic
 Innova,Birdie,1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Birdie
 Innova,Polecat,1.0,3.0,0.0,0.0,21.3 cm,2.3 cm,1.6 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Polecat
-Innova,Avatar,1.0,1.0,1.0,1.0,21.7 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Avatar
 Innova,Makani,2.0,7.0,-2.0,0.0,24.2 cm,2.7 cm,1.7 cm,0.7 cm,Beadless,Understable,https://infinitediscs.com/Innova-Makani
 Innova,Ace,2.0,3.0,-2.0,1.0,21.1 cm,1.6 cm,1.2 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Ace
 Innova,Coupe,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.3 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Innova-Coupe
@@ -396,6 +395,7 @@ Innova,VCobra,5.0,5.0,-1.0,2.0,21.7 cm,2.0 cm,1.1 cm,1.3 cm,Beadless,Stable,http
 Innova,Mako3,5.0,4.0,0.0,0.0,21.7 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Innova-Mako3
 Innova,Atlas,5.0,5.0,0.0,1.0,21.8 cm,1.7 cm,1.4 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Innova-Atlas
 Innova,Spider,5.0,3.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Innova-Spider
+Innova,Avatar,5.0,4.0,0.0,2.0,21.7 cm,1.8 cm,1.4 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Innova-Avatar
 Innova,Cro,5.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Cro
 Innova,Lion,5.0,4.0,0.0,2.0,21.7 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Lion
 Innova,Shark3,5.0,4.0,0.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.2 cm,Beadless,Overstable,https://infinitediscs.com/Innova-Shark3
@@ -596,8 +596,8 @@ MVP,Volt,8.0,5.0,-0.5,2.0,21.1 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Stable,https://i
 MVP,Shock,8.0,5.0,0.0,2.5,21.1 cm,1.6 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Shock
 MVP,Impulse,9.0,5.0,-3.0,1.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/MVP-Impulse
 MVP,Inertia,9.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/MVP-Inertia
-MVP,Tesla,9.0,5.0,-1.0,2.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Tesla
 MVP,Motion,9.0,4.0,0.0,4.0,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Very Overstable,https://infinitediscs.com/MVP-Motion
+MVP,Tesla,10.0,4.0,-0.5,2.5,21.0 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Tesla
 MVP,Orbital,11.0,5.0,-4.5,1.0,21.2 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/MVP-Orbital
 MVP,Wave,11.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/MVP-Wave
 MVP,Photon,11.0,5.0,-1.0,2.5,21.1 cm,1.4 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/MVP-Photon
@@ -634,8 +634,10 @@ Millennium,Astra-X,11.0,5.0,-2.0,3.0,21.1 cm,1.5 cm,1.2 cm,2.2 cm,Beadless,Stabl
 Millennium,Falcon,13.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Falcon
 Millennium,Scorpius,13.0,4.0,-1.0,3.0,21.1 cm,1.7 cm,1.2 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Millennium-Scorpius
 Millennium,Quasar,13.0,5.0,-1.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Millennium-Quasar
+Mint Discs,Bullet,2.0,3.0,0.0,1.0,21.2 cm,1.8 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Bullet
 Mint Discs,Profit,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Mint-Discs-Profit
 Mint Discs,Bobcat,5.0,5.0,0.0,2.0,2.4 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Mint-Discs-Bobcat
+Mint Discs,Mustang,5.0,5.0,0.0,2.0,21.5 cm,1.6 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Mustang
 Mint Discs,Alpha,8.0,4.0,0.0,2.0,21.1 cm,2.1 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Alpha
 Mint Discs,Freetail,10.0,6.0,-3.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Mint-Discs-Freetail
 Ozone Discs,Andro C,6.0,4.0,-1.0,2.0,21.4 cm,1.5 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Ozone-Discs-Andro-C
