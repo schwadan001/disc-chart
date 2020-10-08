@@ -89,11 +89,11 @@ Daredevil,Big Foot,13.0,5.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Stabl
 Daredevil,Merlin,14.0,4.0,-1.0,5.0,21.0 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Merlin
 Daredevil,Albatross,14.0,4.0,0.0,5.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Albatross
 Daredevil,Gray Jay,14.0,4.0,0.0,5.0,21.0 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Gray-Jay
-Dino Discs,Stegosaurus,4.0,5.0,-1.0,2.0,21.8 cm,2.0 cm,1.4 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Dino-Discs-Stegosaurus
-Dino Discs,Brachiosaurus,6.0,5.0,-3.0,2.0,21.9 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Brachiosaurus
-Dino Discs,Pterodactylus,10.0,5.0,-3.0,2.0,21.1 cm,2.0 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Pterodactylus
-Dino Discs,Triceratops,14.0,5.0,-3.0,2.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Triceratops
-Dino Discs,Tyrannosaurus Rex,14.0,5.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Tyrannosaurus-Rex
+Dino Discs,Triceratops,3.0,3.0,-3.0,1.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Triceratops
+Dino Discs,Stegosaurus,4.0,5.0,-4.0,2.0,21.8 cm,2.0 cm,1.4 cm,1.2 cm,Beaded,Understable,https://infinitediscs.com/Dino-Discs-Stegosaurus
+Dino Discs,Brachiosaurus,6.0,5.0,-5.0,1.0,21.9 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Brachiosaurus
+Dino Discs,Pterodactylus,10.0,5.0,-6.0,2.0,21.1 cm,2.0 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Pterodactylus
+Dino Discs,Tyrannosaurus Rex,14.0,5.0,-7.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Tyrannosaurus-Rex
 Disc Golf UK,The Baron,4.0,3.0,0.0,2.5,21.2 cm,2.0 cm,1.1 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Disc-Golf-UK-The-Baron
 Disc Golf UK,The Duchess,5.0,4.0,-2.0,2.0,21.3 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Disc-Golf-UK-The-Duchess
 Disc Golf UK,The Count,7.0,4.0,-1.0,3.0,21.5 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Disc-Golf-UK-The-Count
@@ -260,6 +260,7 @@ Element Discs,Lithium,5.0,4.0,-2.0,1.0,21.9 cm,1.5 cm,1.3 cm,1.5 cm,Beadless,Sta
 Element Discs,Radium,6.0,4.0,-1.0,2.0,21.9 cm,2.0 cm,1.1 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Radium
 Element Discs,Chromium,9.0,5.0,-1.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Element-Discs-Chromium
 Fourth Circle Discs,Dingo,5.0,5.0,0.0,3.0,21.5 cm,1.6 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Fourth-Circle-Discs-Dingo
+Fourth Circle Discs,Firehawk,8.0,5.0,-2.0,1.0,21.3 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Fourth-Circle-Discs-Firehawk
 Fourth Circle Discs,Taipan,13.0,5.0,0.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Fourth-Circle-Discs-Taipan
 Full Turn,Passport,4.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Full-Turn-Passport
 Full Turn,Navigator,5.0,4.0,-1.0,2.0,21.6 cm,1.7 cm,1.5 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Full-Turn-Navigator
@@ -355,6 +356,7 @@ Innova,Aviar-X (JK),2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstab
 Innova,KC Aviar,2.0,3.0,0.0,2.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beaded,Overstable,https://infinitediscs.com/Innova-Aviar-KC-Pro
 Innova,Rhyno,2.0,1.0,0.0,3.0,21.3 cm,1.9 cm,1.3 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Rhyno
 Innova,Hawg,2.0,1.0,0.0,3.5,21.2 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-Hawg
+Innova,RhynoX,2.0,1.0,0.0,4.0,21.2 cm,2.0 cm,1.3 cm,1.0 cm,Beadless,Very Overstable,https://infinitediscs.com/Innova-RhynoX
 Innova,Mirage,3.0,4.0,-3.0,0.0,21.2 cm,1.9 cm,1.2 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Innova-Mirage
 Innova,Colt,3.0,3.0,-1.0,1.0,21.2 cm,1.9 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-Colt
 Innova,XD,3.0,4.0,-1.0,1.0,21.2 cm,2.1 cm,1.1 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Innova-XD
@@ -767,6 +769,7 @@ Streamline,Drift,7.0,5.0,-2.0,1.0,21.2 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Understa
 Streamline,Lift,9.0,5.0,-2.0,1.5,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Streamline-Lift
 Streamline,Flare,9.0,4.0,0.0,3.5,21.2 cm,1.8 cm,1.2 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Streamline-Flare
 Streamline,Trace,11.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.0 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Streamline-Trace
+Thought Space Athletics,Mantra,9.0,6.0,-2.0,1.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Thought-Space-Athletics-Mantra
 Viking Discs,Rune,2.0,4.0,0.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Viking-Discs-Rune
 Viking Discs,Knife,3.0,3.0,0.0,2.0,21.1 cm,1.9 cm,1.8 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Knife
 Viking Discs,Axe,4.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Axe
@@ -811,7 +814,7 @@ Westside,King,14.0,5.0,-1.5,3.0,21.1 cm,1.9 cm,1.1 cm,2.3 cm,Beadless,Overstable
 Westside,Catapult,14.0,4.0,-0.5,3.0,21.1 cm,1.6 cm,1.0 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Catapult
 Westside,World,14.0,4.0,-0.5,3.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-World
 XCom,Bennu,3.0,5.0,-1.0,0.0,21.0 cm,2.2 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/XCom-Bennu
-XCom,Criffon,5.0,4.0,-2.5,0.0,21.6 cm,1.9 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/XCom-Criffon
+XCom,Griffon,5.0,4.0,-2.5,0.0,21.6 cm,1.9 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/XCom-Griffon
 XCom,Eden,5.0,4.0,0.0,2.0,21.3 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/XCom-Eden
 XCom,Helios,6.0,5.0,-3.0,1.0,21.0 cm,1.6 cm,1.1 cm,1.6 cm,Beadless,Understable,https://infinitediscs.com/XCom-Helios
 XCom,Zion Driver,10.0,4.0,-1.0,2.0,21.4 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Very Overstable,https://infinitediscs.com/XCom-Zion-Driver
