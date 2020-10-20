@@ -333,6 +333,7 @@ Infinite Discs,Emperor,12.0,5.0,-1.0,2.5,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,O
 Infinite Discs,Slab,12.0,3.0,0.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Infinite-Discs-Slab
 Infinite Discs,Pharaoh,13.0,6.0,-1.0,2.0,21.1 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Pharaoh
 Innova,Sonic,1.0,2.0,-4.0,0.0,21.6 cm,2.3 cm,1.6 cm,0.6 cm,Beadless,Understable,https://infinitediscs.com/Innova-Sonic
+Innova,Animal,1.0,1.0,0.0,0.0,21.2 cm,2.1 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Innova-Animal
 Innova,Birdie,1.0,2.0,0.0,0.0,21.1 cm,2.3 cm,1.9 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Birdie
 Innova,Polecat,1.0,3.0,0.0,0.0,21.3 cm,2.3 cm,1.6 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/Innova-Polecat
 Innova,Makani,2.0,7.0,-2.0,0.0,24.2 cm,2.7 cm,1.7 cm,0.7 cm,Beadless,Understable,https://infinitediscs.com/Innova-Makani
@@ -644,6 +645,7 @@ Mint Discs,Bobcat,5.0,5.0,0.0,2.0,2.4 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstabl
 Mint Discs,Mustang,5.0,5.0,0.0,2.0,21.5 cm,1.6 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Mustang
 Mint Discs,Alpha,8.0,4.0,0.0,2.0,21.1 cm,2.1 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Alpha
 Mint Discs,Freetail,10.0,6.0,-3.0,2.0,21.1 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Mint-Discs-Freetail
+Mint Discs,Longhorn,11.0,4.0,-1.0,3.0,21.3 cm,1.5 cm,1.2 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Mint-Discs-Longhorn
 Nite Ize,LED Putter,2.0,3.0,-1.0,1.0,21.2 cm,2.0 cm,1.0 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Nite-Ize-LED-Putter
 Nite Ize,LED Midrange,5.0,4.0,-1.0,2.0,21.7 cm,2.0 cm,1.3 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Nite-Ize-LED-Midrange
 Nite Ize,LED Driver,12.0,5.0,-4.0,1.0,21.1 cm,1.4 cm,1.2 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Nite-Ize-LED-Driver
@@ -651,6 +653,9 @@ Ozone Discs,Andro C,6.0,4.0,-1.0,2.0,21.4 cm,1.5 cm,1.3 cm,1.5 cm,Beadless,Stabl
 Ozone Discs,Hyperion,11.0,4.0,0.0,4.0,21.0 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Ozone-Discs-Hyperion
 Plastic Addicts,Habit,3.0,5.0,-1.0,0.0,22.1 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Plastic-Addicts-Habit
 Plastic Addicts,Intervention,12.0,5.0,-1.0,4.0,21.2 cm,1.3 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Plastic-Addicts-Intervention
+Prodigy,D Model US+,1.0,1.0,0.0,0.0,21.0 cm,1.8 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D-Model-US-Plus
+Prodigy,D Model US++,1.0,1.0,0.0,0.0,21.0 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-D-Model-US-Plus-Plus
+Prodigy,F Model OS+,1.0,1.0,0.0,0.0,21.2 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-F-Model-OS-Plus
 Prodigy,P Model US,3.0,5.0,-1.0,1.0,21.3 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Prodigy-P-Model-US
 Prodigy,PA-4,3.0,3.0,-1.0,1.0,21.0 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Prodigy-PA-4
 Prodigy,PA-2,3.0,3.0,0.0,1.0,21.1 cm,1.9 cm,1.4 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Prodigy-PA-2
@@ -767,6 +772,8 @@ Streamline,Trace,11.0,5.0,-1.0,2.0,21.1 cm,1.5 cm,1.0 cm,2.1 cm,Beadless,Stable,
 Thought Space Athletics,Pathfinder,5.0,5.0,0.0,1.0,21.5 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Thought-Space-Athletics-Pathfinder
 Thought Space Athletics,Mantra,9.0,6.0,-2.0,1.0,21.2 cm,1.7 cm,1.2 cm,2.0 cm,Beadless,Understable,https://infinitediscs.com/Thought-Space-Athletics-Mantra
 Thought Space Athletics,Animus,10.5,4.5,-0.5,2.5,21.2 cm,1.6 cm,1.2 cm,2.1 cm,Beadless,Overstable,https://infinitediscs.com/Thought-Space-Athletics-Animus
+Viking Discs,Fenrir,1.0,1.0,0.0,0.0,21.3 cm,1.8 cm,1.1 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Fenrir
+Viking Discs,Odin,1.0,1.0,0.0,0.0,21.3 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Odin
 Viking Discs,Rune,2.0,4.0,0.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.1 cm,Beaded,Understable,https://infinitediscs.com/Viking-Discs-Rune
 Viking Discs,Knife,3.0,3.0,0.0,2.0,21.1 cm,1.9 cm,1.8 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Knife
 Viking Discs,Axe,4.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Viking-Discs-Axe
