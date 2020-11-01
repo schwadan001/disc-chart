@@ -186,4 +186,3 @@ if __name__ == "__main__":
         f.write(new_html)
 
     print("\nData load complete.")
-    input()
