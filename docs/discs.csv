@@ -1,16 +1,11 @@
 manufacturer,name,speed,glide,turn,fade,diameter,height,rim_depth,rim_width,bead,stability,link
-ABC,Money Putter,2.0,3.0,0.0,2.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/ABC-Money-Putter
-ABC,Mission,4.0,5.0,-1.0,2.0,21.8 cm,2.0 cm,1.4 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/ABC-Mission
-ABC,Flying Squirrel,6.0,5.0,-3.0,2.0,21.9 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/ABC-Flying-Squirrel
-ABC,Gamma Ray,9.0,4.0,-2.0,2.0,21.0 cm,2.0 cm,1.3 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/ABC-Gamma-Ray
-ABC,Secret Weapon,10.0,5.0,-3.0,2.0,21.1 cm,2.0 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/ABC-Secret-Weapon
-ABC,Bee Line,14.0,5.0,-3.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/ABC-Bee-Line
 Above Ground Level,Ponderosa,2.0,4.0,-1.0,0.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Above-Ground-Level-Ponderosa
 Above Ground Level,Madrone,3.0,3.0,0.0,1.0,21.0 cm,2.2 cm,1.7 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Above-Ground-Level-Madrone
 Above Ground Level,Manzanita,3.0,3.0,0.0,2.0,21.0 cm,1.1 cm,1.6 cm,1.1 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Manzanita
 Above Ground Level,Baobab,4.0,1.0,1.0,3.0,21.3 cm,1.7 cm,1.3 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Above-Ground-Level-Baobab
 Above Ground Level,Magnolia,5.0,4.0,0.0,2.0,21.8 cm,2.0 cm,1.2 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Magnolia
 Above Ground Level,Sycamore,7.0,5.0,0.0,1.0,21.2 cm,2.2 cm,1.3 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Sycamore
+Above Ground Level,Locust,9.0,4.0,-1.0,3.0,21.2 cm,1.6 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Locust
 Above Ground Level,Cedar,11.0,5.0,0.0,3.0,21.5 cm,1.7 cm,1.1 cm,2.2 cm,Beadless,Overstable,https://infinitediscs.com/Above-Ground-Level-Cedar
 Above Ground Level,Cypress,12.0,5.0,-2.0,2.0,21.2 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,Stable,https://infinitediscs.com/Above-Ground-Level-Cypress
 AquaFlight,Peace Frog,3.0,3.0,0.0,1.0,21.0 cm,2.2 cm,1.6 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/AquaFlight-Peace-Frog
@@ -89,15 +84,10 @@ Daredevil,Big Foot,13.0,5.0,-2.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Stabl
 Daredevil,Merlin,14.0,4.0,-1.0,5.0,21.0 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Merlin
 Daredevil,Albatross,14.0,4.0,0.0,5.0,21.2 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Albatross
 Daredevil,Gray Jay,14.0,4.0,0.0,5.0,21.0 cm,1.4 cm,1.1 cm,2.3 cm,Beadless,Very Overstable,https://infinitediscs.com/Daredevil-Gray-Jay
-Dino Discs,Triceratops,3.0,3.0,-3.0,1.0,21.0 cm,2.2 cm,1.0 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Triceratops
-Dino Discs,Stegosaurus,4.0,5.0,-4.0,2.0,21.8 cm,2.0 cm,1.4 cm,1.2 cm,Beaded,Understable,https://infinitediscs.com/Dino-Discs-Stegosaurus
-Dino Discs,Brachiosaurus,6.0,5.0,-5.0,1.0,21.9 cm,2.0 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Brachiosaurus
-Dino Discs,Pterodactylus,10.0,5.0,-6.0,2.0,21.1 cm,2.0 cm,1.1 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Pterodactylus
-Dino Discs,Tyrannosaurus Rex,14.0,5.0,-7.0,2.0,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Dino-Discs-Tyrannosaurus-Rex
 Disc Golf UK,The Baron,4.0,3.0,0.0,2.5,21.2 cm,2.0 cm,1.1 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Disc-Golf-UK-The-Baron
 Disc Golf UK,The Duchess,5.0,4.0,-2.0,2.0,21.3 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Disc-Golf-UK-The-Duchess
+Disc Golf UK,The Duke,6.0,4.0,0.0,3.5,21.5 cm,1.9 cm,1.4 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Disc-Golf-UK-The-Duke
 Disc Golf UK,The Count,7.0,4.0,-1.0,3.0,21.5 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,Very Overstable,https://infinitediscs.com/Disc-Golf-UK-The-Count
-Disc Golf UK,The Duke,14.0,5.0,-3.0,2.0,21.5 cm,1.9 cm,1.4 cm,1.7 cm,Beadless,Understable,https://infinitediscs.com/Disc-Golf-UK-The-Duke
 Discmania,P1,2.0,3.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Discmania-P1
 Discmania,Link,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Discmania-Link
 Discmania,P1X,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Discmania-P1X
@@ -223,6 +213,7 @@ Dynamic Discs,Gavel,3.0,5.0,-2.0,0.5,21.3 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Under
 Dynamic Discs,Deputy,3.0,4.0,-1.5,0.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Deputy
 Dynamic Discs,Marshal,3.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.6 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Dynamic-Discs-Marshal
 Dynamic Discs,Slammer,3.0,2.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,1.1 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Slammer
+Dynamic Discs,Bounty,4.0,5.0,-1.5,0.5,21.9 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Bounty
 Dynamic Discs,Suspect,4.0,3.0,0.0,3.0,21.3 cm,1.6 cm,1.2 cm,1.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Dynamic-Discs-Suspect
 Dynamic Discs,Patrol,5.0,5.0,-3.0,1.0,21.7 cm,1.6 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Patrol
 Dynamic Discs,Proof,5.0,5.0,-3.0,1.0,21.5 cm,1.5 cm,1.1 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Proof
@@ -321,6 +312,7 @@ Hyzer Bomb,Marksman,9.0,5.0,-1.0,2.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,Stabl
 Hyzer Bomb,Sabot,11.0,4.0,0.0,5.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,Very Overstable,https://infinitediscs.com/Hyzer-Bomb-Sabot
 Infinite Discs,Scarab,2.0,4.0,0.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Scarab
 Infinite Discs,Myth,2.0,3.0,0.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Myth
+Infinite Discs,Alpaca,3.0,3.0,0.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Alpaca
 Infinite Discs,Tomb,3.0,4.0,0.0,1.0,21.2 cm,1.7 cm,1.4 cm,1.1 cm,Beaded,Stable,https://infinitediscs.com/Infinite-Discs-Tomb
 Infinite Discs,Ruin,3.0,3.0,0.0,3.0,21.2 cm,1.8 cm,1.4 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Infinite-Discs-Ruin
 Infinite Discs,Cohort,3.5,4.0,0.0,1.0,21.1 cm,1.8 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Infinite-Discs-Cohort
@@ -533,6 +525,7 @@ Latitude 64,Saint Pro,8.0,6.0,0.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Very
 Latitude 64,Jade,9.0,5.0,-2.0,1.0,21.0 cm,1.8 cm,1.1 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Jade
 Latitude 64,Bryce,9.0,6.0,-2.0,2.0,21.2 cm,1.7 cm,1.3 cm,1.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Bryce
 Latitude 64,Fury,9.0,6.0,-2.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.2 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-Fury
+Latitude 64,SPZ3,9.0,6.0,-2.0,2.0,21.1 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Understable,https://infinitediscs.com/Latitude-64-SPZ3
 Latitude 64,Saint,9.0,7.0,-2.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.9 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Saint
 Latitude 64,Culverin,9.0,5.0,-0.5,3.0,21.2 cm,2.0 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Culverin
 Latitude 64,Zion,9.0,4.0,-0.5,3.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Zion
@@ -557,6 +550,9 @@ Latitude 64,Ballista,14.0,5.0,-1.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Ove
 Latitude 64,Ballista Pro,14.0,4.0,0.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Latitude-64-Ballista-Pro
 Latitude 64,Raketen,15.0,4.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Stable,https://infinitediscs.com/Latitude-64-Raketen
 Latitude 64,Missilen,15.0,3.0,-0.5,4.5,21.4 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Latitude-64-Missilen
+Launch Disc Golf,Lander,3.0,4.0,-0.5,2.0,21.0 cm,1.8 cm,1.4 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Launch-Disc-Golf-Lander
+Launch Disc Golf,Code,5.5,4.0,-0.5,2.0,21.2 cm,1.6 cm,1.2 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Launch-Disc-Golf-Code
+Launch Disc Golf,Cipher,8.0,4.0,-1.0,2.0,21.6 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Launch-Disc-Golf-Cipher
 Legacy,Hunter,2.0,4.0,0.0,0.0,21.2 cm,1.8 cm,1.4 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Hunter
 Legacy,Clutch,2.0,3.0,0.0,1.0,21.2 cm,2.0 cm,1.4 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Legacy-Clutch
 Legacy,Prowler,2.0,3.0,0.0,1.5,21.2 cm,2.2 cm,1.4 cm,0.9 cm,Beaded,Stable,https://infinitediscs.com/Legacy-Prowler
