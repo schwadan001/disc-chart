@@ -258,7 +258,6 @@ Dynamic Discs,Sheriff,13.0,5.0,-1.0,2.0,21.2 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,St
 Dynamic Discs,Raider,13.0,5.0,-0.5,3.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Raider
 Dynamic Discs,Defender,13.0,5.0,0.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Dynamic-Discs-Defender
 Dynamic Discs,Freedom,14.0,5.0,-3.0,3.0,21.2 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,Understable,https://infinitediscs.com/Dynamic-Discs-Freedom
-EV-7,Penrose,2.0,4.0,0.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,Overstable,https://infinitediscs.com/EV-7-Penrose
 Elevation Disc Golf,Interceptor,5.0,4.0,0.0,3.0,21.1 cm,1.5 cm,1.1 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Elevation-Disc-Golf-Interceptor
 Fourth Circle Discs,Dingo,5.0,5.0,0.0,3.0,21.5 cm,1.6 cm,1.3 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Fourth-Circle-Discs-Dingo
 Fourth Circle Discs,Firehawk,8.0,5.0,-2.0,1.0,21.3 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/Fourth-Circle-Discs-Firehawk
@@ -283,7 +282,7 @@ Gateway,Chief,3.0,3.0,0.0,1.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beaded,Overstable,htt
 Gateway,Chief OS,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Chief-OS
 Gateway,Devil Hawk,3.0,3.0,0.0,2.0,21.1 cm,1.7 cm,1.3 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/Gateway-Devil-Hawk
 Gateway,Training Wizard,3.0,5.0,0.0,2.0,21.0 cm,2.1 cm,1.0 cm,1.8 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Training-Wizard
-Gateway,Mystic,5.0,5.0,-2.0,0.0,21.8 cm,1.9 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Mystic
+Gateway,Mystic,5.0,5.0,-3.0,0.0,21.8 cm,1.9 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Mystic
 Gateway,Element,5.0,5.0,-1.0,1.0,22.1 cm,1.7 cm,1.3 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Gateway-Element
 Gateway,Prophecy,5.0,5.0,0.0,2.0,21.9 cm,1.7 cm,1.2 cm,1.5 cm,Beaded,Stable,https://infinitediscs.com/Gateway-Prophecy
 Gateway,Warrior,5.0,4.0,0.0,3.0,22.0 cm,1.9 cm,1.2 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/Gateway-Warrior
@@ -592,11 +591,37 @@ Legacy,Aftermath,13.0,5.0,-2.0,3.0,21.1 cm,1.7 cm,1.1 cm,2.5 cm,Beadless,Stable,
 Legacy,Recon,13.0,5.0,-1.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Recon
 Legacy,Cannon,14.0,5.0,-3.0,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Understable,https://infinitediscs.com/Legacy-Cannon
 Legacy,Rampage,14.0,5.0,-1.0,4.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,Overstable,https://infinitediscs.com/Legacy-Rampage
+Lightning Discs,Upshot,1.0,3.0,-2.0,0.0,21.6 cm,2.2 cm,1.4 cm,0.7 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-Upshot
+Lightning Discs,#2 Putter,1.0,2.0,-2.0,1.0,21.8 cm,2.6 cm,1.6 cm,1.0 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No2-Putter
+Lightning Discs,#2 Upshot,2.0,3.0,-1.0,1.0,21.4 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No2-Upshot
+Lightning Discs,Rubber Putter,2.0,3.0,-1.0,1.0,21.6 cm,2.5 cm,1.3 cm,1.3 cm,Beaded,Stable,https://infinitediscs.com/Lightning-Discs-Rubber-Putter
+Lightning Discs,#3 Hookshot,4.0,5.0,-1.0,2.0,21.9 cm,2.1 cm,1.2 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No3-Hookshot
+Lightning Discs,#3 Hyzer,4.0,4.0,0.0,4.0,2.2 cm,2.1 cm,1.2 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Lightning-Discs-No3-Hyzer
+Lightning Discs,#2 Hookshot,5.0,5.0,-1.0,3.0,21.5 cm,2.1 cm,1.1 cm,1.3 cm,Beadless,Overstable,https://infinitediscs.com/Lightning-Discs-No2-Hookshot
+Lightning Discs,#2 Hyzer,5.0,5.0,1.0,4.0,21.1 cm,2.0 cm,1.2 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Lightning-Discs-No2-Hyzer
+Lightning Discs,#2 Slice,6.0,5.0,-3.0,1.0,21.6 cm,2.0 cm,1.1 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No2-Slice
+Lightning Discs,#3 Slice,6.0,5.0,-3.0,1.0,21.6 cm,2.0 cm,1.1 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No3-Slice
+Lightning Discs,#2 Roller,6.0,6.0,-2.0,2.0,21.7 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No2-Roller
+Lightning Discs,#3 Driver,6.0,5.0,-2.0,3.0,22.5 cm,2.0 cm,1.2 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Lightning-Discs-No3-Driver
+Lightning Discs,#1 Hookshot,6.0,4.0,0.0,3.0,22.2 cm,1.7 cm,1.5 cm,1.5 cm,Beadless,Very Overstable,https://infinitediscs.com/Lightning-Discs-No1-Hookshot
+Lightning Discs,#1 Slice,7.0,4.0,-3.0,2.0,22.6 cm,1.8 cm,1.2 cm,1.4 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No1-Slice
+Lightning Discs,#1 Roller,7.0,3.0,-2.0,1.0,21.7 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Lightning-Discs-No1-Roller
+Lightning Discs,#1 Driver,7.0,4.0,-2.0,2.0,21.4 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No1-Driver
+Lightning Discs,#3 Flyer,7.0,4.0,-2.0,2.0,21.2 cm,2.0 cm,1.3 cm,1.5 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No3-Flyer
+Lightning Discs,#4 Driver,7.0,4.0,-1.0,2.0,21.2 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No4-Driver
+Lightning Discs,#1 Hyzer,7.0,3.0,0.0,4.0,21.7 cm,1.8 cm,1.3 cm,1.8 cm,Beadless,Very Overstable,https://infinitediscs.com/Lightning-Discs-No1-Hyzer
+Lightning Discs,#1 Flyer,8.0,5.0,-2.0,2.0,21.4 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No1-Flyer
+Lightning Discs,#2 Driver,8.0,5.0,-2.0,2.0,21.4 cm,2.0 cm,1.3 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No2-Driver
+Lightning Discs,#2 Flyer,8.0,5.0,-1.0,2.0,21.3 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-No2-Flyer
+Lightning Discs,#1 Helix,8.0,4.0,-1.0,3.0,21.5 cm,1.6 cm,1.3 cm,1.6 cm,Beadless,Overstable,https://infinitediscs.com/Lightning-Discs-No1-Helix
+Lightning Discs,#2 Helix,8.0,5.0,-1.0,3.0,21.2 cm,1.7 cm,1.4 cm,1.7 cm,Beadless,Overstable,https://infinitediscs.com/Lightning-Discs-No2-Helix
+Lightning Discs,MX-1,9.0,4.0,-2.0,3.0,21.3 cm,1.7 cm,1.1 cm,2.1 cm,Beadless,Stable,https://infinitediscs.com/Lightning-Discs-MX-1
 Lone Star Disc,Penny Putter,3.0,3.0,0.0,2.0,21.0 cm,1.9 cm,1.5 cm,1.1 cm,Beadless,Stable,https://infinitediscs.com/Lone-Star-Disc-Penny-Putter
 Lone Star Disc,Harpoon,4.0,3.0,0.0,2.0,21.5 cm,1.7 cm,1.2 cm,1.2 cm,Beadless,Stable,https://infinitediscs.com/Lone-Star-Disc-Harpoon
 Lone Star Disc,Middy,5.0,5.0,0.0,3.0,21.4 cm,1.6 cm,1.2 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Lone-Star-Disc-Middy
 Lone Star Disc,Mockingbird,7.0,5.0,-2.0,1.0,21.0 cm,2.0 cm,1.2 cm,1.8 cm,Beadless,Understable,https://infinitediscs.com/Lone-Star-Disc-Mockingbird
 Lone Star Disc,Mad Cat,9.0,5.0,0.0,2.0,21.2 cm,1.8 cm,1.2 cm,1.9 cm,Beadless,Overstable,https://infinitediscs.com/Lone-Star-Disc-Mad-Cat
+Lone Star Disc,Bowie,13.0,5.0,0.0,4.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Lone-Star-Disc-Bowie
 MVP,Ohm,2.0,5.0,0.0,1.0,21.2 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,Stable,https://infinitediscs.com/MVP-Ohm
 MVP,Spin,3.0,4.0,-2.0,0.0,21.0 cm,1.9 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/MVP-Spin
 MVP,Anode,3.0,3.0,0.0,0.5,21.0 cm,2.1 cm,1.4 cm,18.9 cm,Beadless,Stable,https://infinitediscs.com/MVP-Anode
@@ -751,6 +776,7 @@ RPM Discs,Tui,3.0,4.0,-1.0,0.0,21.1 cm,1.8 cm,1.4 cm,0.9 cm,Beadless,Understable
 RPM Discs,TeMoko,3.0,4.0,0.0,0.0,23.7 cm,2.9 cm,2.3 cm,0.7 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-TeMoko
 RPM Discs,Ruru,3.0,3.0,0.0,1.0,21.0 cm,2.3 cm,1.6 cm,1.0 cm,Beaded,Stable,https://infinitediscs.com/RPM-Discs-Ruru
 RPM Discs,Piwakawaka,4.0,5.0,0.0,0.0,21.8 cm,2.0 cm,1.2 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Piwakawaka
+RPM Discs,Kotuku,5.0,5.0,0.0,2.0,21.7 cm,1.7 cm,1.4 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/RPM-Discs-Kotuku
 RPM Discs,Kea,5.0,5.0,0.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.4 cm,Beaded,Overstable,https://infinitediscs.com/RPM-Discs-Kea
 RPM Discs,Huia,7.0,5.0,0.0,2.0,21.2 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Huia
 RPM Discs,Taniwha,10.0,5.0,-2.0,2.0,21.1 cm,1.4 cm,1.2 cm,2.0 cm,Beadless,Stable,https://infinitediscs.com/RPM-Discs-Taniwha
@@ -831,6 +857,9 @@ Westside,Destiny,14.0,6.0,-2.0,3.0,21.1 cm,1.8 cm,1.0 cm,2.4 cm,Beadless,Underst
 Westside,King,14.0,5.0,-1.5,3.0,21.1 cm,1.9 cm,1.1 cm,2.3 cm,Beadless,Overstable,https://infinitediscs.com/Westside-King
 Westside,Catapult,14.0,4.0,-0.5,3.0,21.1 cm,1.6 cm,1.0 cm,2.4 cm,Beadless,Overstable,https://infinitediscs.com/Westside-Catapult
 Westside,World,14.0,4.0,-0.5,3.0,21.2 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,Very Overstable,https://infinitediscs.com/Westside-World
+Wild Discs,Hummingbird,2.0,4.0,0.0,1.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,Stable,https://infinitediscs.com/Wild-Discs-Hummingbird
+Wild Discs,Addax,5.0,5.0,0.0,2.0,21.7 cm,1.7 cm,1.3 cm,1.5 cm,Beaded,Stable,https://infinitediscs.com/Wild-Discs-Addax
+Wild Discs,Orca,12.0,5.0,-1.5,2.0,21.2 cm,1.4 cm,1.1 cm,2.3 cm,Beaded,Overstable,https://infinitediscs.com/Wild-Discs-Orca
 XCom,Bennu,3.0,5.0,-1.0,0.0,21.0 cm,2.2 cm,1.5 cm,1.1 cm,Beadless,Understable,https://infinitediscs.com/XCom-Bennu
 XCom,Griffon,5.0,4.0,-2.5,0.0,21.6 cm,1.9 cm,1.4 cm,1.3 cm,Beadless,Understable,https://infinitediscs.com/XCom-Griffon
 XCom,Eden,5.0,4.0,0.0,2.0,21.3 cm,2.0 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/XCom-Eden
@@ -843,7 +872,7 @@ Yikun,Hammer (Chui),2.0,3.0,0.0,3.0,21.1 cm,1.7 cm,1.4 cm,1.3 cm,Beadless,Overst
 Yikun,Wings,3.0,3.0,0.0,2.0,21.0 cm,1.5 cm,1.0 cm,1.2 cm,Beaded,Stable,https://infinitediscs.com/Yikun-Wings
 Yikun,Yao,4.0,4.0,0.0,2.0,21.6 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Yao
 Yikun,Crossbow,4.0,2.0,0.5,4.0,21.3 cm,1.6 cm,1.3 cm,1.6 cm,Beadless,Very Overstable,https://infinitediscs.com/Yikun-Crossbow
-Yikun,Tomahawk,5.0,6.0,-3.0,0.0,21.6 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Tomahawk
+Yikun,Tomahawk,5.0,6.0,0.0,0.0,21.6 cm,1.9 cm,1.3 cm,1.3 cm,Beadless,Stable,https://infinitediscs.com/Yikun-Tomahawk
 Yikun,Kui,5.0,5.0,0.0,2.5,21.1 cm,1.8 cm,1.5 cm,1.0 cm,Beadless,Overstable,https://infinitediscs.com/Yikun-Kui
 Yikun,Jiao,6.0,5.0,-2.0,1.5,21.2 cm,1.6 cm,1.1 cm,1.5 cm,Beadless,Understable,https://infinitediscs.com/Yikun-Jiao
 Yikun,View,7.0,6.0,-0.5,1.0,21.0 cm,1.5 cm,1.1 cm,1.6 cm,Beadless,Stable,https://infinitediscs.com/Yikun-View
