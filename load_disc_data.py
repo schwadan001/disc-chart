@@ -146,7 +146,7 @@ if __name__ == "__main__":
     # collect into pandas dataframe & perform calculations
     df = pd.DataFrame(discs)
 
-    df["stability"] = df["fade"] - df["turn"]
+    df["stability"] = df["fade"] + df["turn"]
 
     df = df[[
         "manufacturer",
