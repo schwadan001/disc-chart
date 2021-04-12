@@ -57,7 +57,7 @@ disc_attrs = {
         "type": "li",
         "f": lambda x: float(x.text.replace("Fade:", "").strip())
     },
-    "stability": {
+    "stability_desc": {
         "id": "ContentPlaceHolder1_lblStability",
         "type": "li",
         "f": lambda x: x.text.replace("Stability:", "").strip()
@@ -125,7 +125,7 @@ def get_disc_info(disc):
 
 if __name__ == "__main__":
     start_time = datetime.now()
-    
+
     html = urlopen(url).read()
     soup = BeautifulSoup(html, features="html.parser")
 
@@ -143,10 +143,11 @@ if __name__ == "__main__":
     print("\nResearching discs...")
     discs = pool.map(get_disc_info, mfg_discs)
 
-    # write disc info to csv file
-    df = pd.DataFrame(discs).sort_values(
-        by=["manufacturer", "speed", "turn", "fade", "name"]
-    )
+    # collect into pandas dataframe & perform calculations
+    df = pd.DataFrame(discs)
+
+    df["stability"] = df["fade"] - df["turn"]
+
     df = df[[
         "manufacturer",
         "name",
@@ -154,14 +155,16 @@ if __name__ == "__main__":
         "glide",
         "turn",
         "fade",
+        "stability",
         "diameter",
         "height",
         "rim_depth",
         "rim_width",
         "bead",
-        "stability",
         "link"
-    ]]
+    ]].sort_values(
+        by=["manufacturer", "speed", "stability", "name"]
+    )
 
     df.to_csv(disc_data_file, index=False)
 
@@ -171,18 +174,19 @@ if __name__ == "__main__":
 
     # Update the HTML template's last_updated timestamp
     print("\nUpdating last-updated timestamp on webpage...")
-    
+
     time_trigger = """<span id="last-update">"""
     time_close = "</span"
     with open(html_file) as f:
         html = f.read()
-    
+
     start_idx = html.find(time_trigger)
     end_idx = html[start_idx:].find(time_close) + start_idx + len(time_close)
 
     with open(html_file, "w") as f:
         date_str = datetime.now().strftime('%B %d, %Y')
-        new_html = html[:start_idx] + time_trigger + date_str + time_close + html[end_idx:]
+        new_html = html[:start_idx] + time_trigger + \
+            date_str + time_close + html[end_idx:]
         f.write(new_html)
 
     print("\nData load complete.")
