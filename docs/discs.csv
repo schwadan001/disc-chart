@@ -42,7 +42,7 @@ DGA,Reef,2.0,2.0,-1.0,1.0,0.0,21.2 cm,2.1 cm,1.4 cm,0.9 cm,Beaded,https://infini
 DGA,Blowfly I,2.0,2.0,-1.0,2.0,1.0,21.5 cm,2.7 cm,1.1 cm,1.5 cm,Beadless,https://infinitediscs.com/DGA-Blowfly-I
 DGA,Steady,2.0,3.0,0.0,1.0,1.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,https://infinitediscs.com/DGA-Steady
 DGA,Blunt Gumbputt,2.0,2.0,0.0,2.0,2.0,21.7 cm,2.2 cm,1.9 cm,0.7 cm,Beadless,https://infinitediscs.com/DGA-Blunt-Gumbputt
-DGA,Steady BL,2.0,4.0,0.0,2.0,2.0,21.2 cm,2.5 cm,1.5 cm,1.1 cm,Beadless,https://infinitediscs.com/DGA-Steady-BL
+DGA,Steady BL,2.0,4.0,0.0,2.0,2.0,21.2 cm,2.4 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/DGA-Steady-BL
 DGA,Titanic,2.0,2.0,0.0,2.0,2.0,21.1 cm,2.2 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/DGA-Titanic
 DGA,Blowfly II,3.0,2.0,-1.0,1.0,0.0,21.7 cm,2.3 cm,1.7 cm,1.4 cm,Beadless,https://infinitediscs.com/DGA-Blowfly-II
 DGA,Aftershock,4.0,3.0,0.0,2.0,2.0,21.5 cm,2.0 cm,1.2 cm,1.3 cm,Beadless,https://infinitediscs.com/DGA-Aftershock
@@ -63,6 +63,7 @@ DGA,Sail,11.0,6.0,-3.0,1.0,-2.0,21.0 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,https://in
 DGA,Rogue,11.0,4.0,-1.0,2.0,1.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/DGA-Rogue
 DGA,Hurricane,12.0,5.0,-1.0,2.0,1.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/DGA-Hurricane
 DGA,Tempest,13.0,5.0,-3.0,2.0,-1.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/DGA-Tempest
+DGA,Hypercane,13.0,4.0,0.0,4.0,4.0,21.2 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/DGA-Hypercane
 DGA,Torrent,14.0,5.0,-1.0,2.0,1.0,21.0 cm,1.5 cm,1.2 cm,2.4 cm,Beadless,https://infinitediscs.com/DGA-Torrent
 Daredevil,Woodchuck,2.0,3.0,-1.0,0.0,-1.0,21.3 cm,1.7 cm,1.3 cm,1.7 cm,Beadless,https://infinitediscs.com/Daredevil-Woodchuck
 Daredevil,Polar Bear,2.0,3.0,-1.0,1.0,0.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Daredevil-Polar-Bear
@@ -101,17 +102,15 @@ Disc Golf UK,The Baron,4.0,3.0,0.0,2.5,2.5,21.2 cm,2.0 cm,1.1 cm,1.6 cm,Beadless
 Disc Golf UK,The Duchess,5.0,4.0,-2.0,2.0,0.0,21.3 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,https://infinitediscs.com/Disc-Golf-UK-The-Duchess
 Disc Golf UK,The Duke,6.0,4.0,0.0,3.5,3.5,21.5 cm,1.9 cm,1.4 cm,1.7 cm,Beadless,https://infinitediscs.com/Disc-Golf-UK-The-Duke
 Disc Golf UK,The Count,7.0,4.0,-1.0,3.0,2.0,21.5 cm,1.7 cm,1.1 cm,1.7 cm,Beadless,https://infinitediscs.com/Disc-Golf-UK-The-Count
-Discmania,Astronaut,1.0,1.0,0.0,0.0,0.0,21.2 cm,1.8 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Discmania-Astronaut
 Discmania,Logic,1.0,1.0,0.0,0.0,0.0,21.2 cm,1.9 cm,1.3 cm,1.1 cm,Beadless,https://infinitediscs.com/Discmania-Logic
 Discmania,Mutant,1.0,1.0,0.0,0.0,0.0,21.7 cm,1.8 cm,1.2 cm,1.3 cm,Beadless,https://infinitediscs.com/Discmania-Mutant
 Discmania,Razor Claw Tactic,1.0,1.0,0.0,0.0,0.0,21.3 cm,2.0 cm,1.4 cm,1.1 cm,Beadless,https://infinitediscs.com/Discmania-Razor-Claw-Tactic
-Discmania,Rockstar,1.0,1.0,0.0,0.0,0.0,21.3 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,https://infinitediscs.com/Discmania-Rockstar
-Discmania,Shogun,1.0,1.0,0.0,0.0,0.0,21.2 cm,2.4 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Discmania-Shogun
 Discmania,Splice,1.0,1.0,0.0,0.0,0.0,21.2 cm,1.5 cm,1.1 cm,1.9 cm,Beadless,https://infinitediscs.com/Discmania-Splice
 Discmania,P1,2.0,3.0,0.0,0.0,0.0,21.2 cm,2.0 cm,1.5 cm,0.9 cm,Beadless,https://infinitediscs.com/Discmania-P1
 Discmania,Link,2.0,3.0,0.0,1.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.1 cm,Beaded,https://infinitediscs.com/Discmania-Link
 Discmania,P1X,2.0,3.0,0.0,1.0,1.0,21.2 cm,2.0 cm,1.4 cm,1.0 cm,Beaded,https://infinitediscs.com/Discmania-P1X
 Discmania,P2,2.0,3.0,0.0,1.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Discmania-P2
+Discmania,Shogun,2.0,4.0,0.0,2.0,2.0,21.2 cm,2.4 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Discmania-Shogun
 Discmania,Sensei,3.0,3.0,0.0,1.0,1.0,21.1 cm,1.8 cm,1.5 cm,0.9 cm,Beadless,https://infinitediscs.com/Discmania-Sensei
 Discmania,P3,3.0,5.0,0.0,3.0,3.0,21.2 cm,2.0 cm,1.2 cm,1.0 cm,Beadless,https://infinitediscs.com/Discmania-P3
 Discmania,P3x,3.0,2.0,0.0,3.0,3.0,21.2 cm,1.9 cm,1.6 cm,1.1 cm,Beaded,https://infinitediscs.com/Discmania-P3x
@@ -132,6 +131,7 @@ Discmania,FD,7.0,6.0,-1.0,1.0,0.0,21.2 cm,1.8 cm,1.1 cm,1.8 cm,Beadless,https://
 Discmania,FD2,7.0,4.0,0.0,2.0,2.0,21.2 cm,1.6 cm,1.1 cm,1.8 cm,Beadless,https://infinitediscs.com/Discmania-FD2
 Discmania,Instinct,7.0,5.0,0.0,2.0,2.0,21.2 cm,1.8 cm,1.1 cm,1.7 cm,Beadless,https://infinitediscs.com/Discmania-Instinct
 Discmania,Essence,8.0,6.0,-2.0,1.0,-1.0,21.0 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,https://infinitediscs.com/Discmania-Essence
+Discmania,Rockstar,8.0,5.0,-2.0,1.0,-1.0,21.3 cm,1.7 cm,1.2 cm,1.9 cm,Beadless,https://infinitediscs.com/Discmania-Rockstar
 Discmania,TDx,9.0,5.0,-3.0,1.0,-2.0,21.1 cm,1.5 cm,1.2 cm,2.0 cm,Beadless,https://infinitediscs.com/Discmania-TDx
 Discmania,CD2,9.0,5.0,-1.0,2.0,1.0,21.1 cm,1.9 cm,1.1 cm,1.9 cm,Beadless,https://infinitediscs.com/Discmania-CD2
 Discmania,FD3,9.0,4.0,0.0,3.0,3.0,21.2 cm,1.7 cm,1.1 cm,2.0 cm,Beadless,https://infinitediscs.com/Discmania-FD3
@@ -145,6 +145,7 @@ Discmania,CD3,11.0,5.0,-1.0,2.0,1.0,21.1 cm,2.0 cm,1.2 cm,2.1 cm,Beadless,https:
 Discmania,DD,11.0,5.0,0.0,2.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/Discmania-DD-Hysteria
 Discmania,PDx,11.0,4.0,0.0,3.0,3.0,21.1 cm,1.9 cm,1.2 cm,2.1 cm,Beadless,https://infinitediscs.com/Discmania-PDx
 Discmania,PD3,11.0,3.0,0.0,5.0,5.0,21.2 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Discmania-PD3
+Discmania,Astronaut,12.0,6.0,-4.0,1.0,-3.0,21.2 cm,1.8 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Discmania-Astronaut
 Discmania,DDx,12.0,6.0,-1.0,2.0,1.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Discmania-DDx
 Discmania,Enigma,12.0,5.0,-1.0,2.0,1.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Discmania-Evolution-Enigma
 Discmania,DD3,12.0,5.0,-1.0,3.0,2.0,21.0 cm,1.8 cm,1.2 cm,2.4 cm,Beadless,https://infinitediscs.com/Discmania-DD3
@@ -219,6 +220,7 @@ Discraft,Spectra,12.0,5.0,-2.0,2.0,0.0,21.4 cm,1.9 cm,1.2 cm,2.2 cm,Beadless,htt
 Discraft,Zeus,12.0,5.0,-1.0,3.0,2.0,21.1 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Discraft-Zeus
 Discraft,Force,12.0,5.0,0.0,3.0,3.0,21.1 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Discraft-Force
 Discraft,Punisher,12.0,5.0,0.0,3.0,3.0,21.1 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,https://infinitediscs.com/Discraft-Punisher
+Discraft,Venom,12.0,4.0,0.0,4.0,4.0,21.0 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/Discraft-Venom
 Discraft,Flick,12.0,3.0,1.0,5.0,6.0,21.1 cm,1.3 cm,1.1 cm,2.1 cm,Beadless,https://infinitediscs.com/Discraft-Flick
 Discraft,Crank SS,13.0,5.0,-3.0,2.0,-1.0,21.1 cm,1.5 cm,1.1 cm,2.4 cm,Beadless,https://infinitediscs.com/Discraft-Crank-SS
 Discraft,Crank,13.0,5.0,-2.0,2.0,0.0,21.2 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Discraft-Crank
@@ -275,9 +277,9 @@ Dynamic Discs,Defender,13.0,5.0,0.0,3.0,3.0,21.0 cm,1.6 cm,1.1 cm,2.3 cm,Beadles
 Dynamic Discs,Freedom,14.0,5.0,-3.0,3.0,0.0,21.2 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,https://infinitediscs.com/Dynamic-Discs-Freedom
 EV-7,Penrose,2.0,4.0,0.0,2.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,https://infinitediscs.com/EV-7-Penrose
 Elevation Disc Golf,Interceptor,5.0,4.0,0.0,3.0,3.0,21.1 cm,1.5 cm,1.1 cm,1.4 cm,Beadless,https://infinitediscs.com/Elevation-Disc-Golf-Interceptor
-Fourth Circle Discs,Huntsman,1.0,1.0,0.0,0.0,0.0,21.3 cm,2.4 cm,1.6 cm,1.1 cm,Beadless,https://infinitediscs.com/Fourth-Circle-Discs-Huntsman
+Fourth Circle Discs,Huntsman,2.0,3.0,0.0,2.5,2.5,21.3 cm,2.4 cm,1.6 cm,1.1 cm,Beaded,https://infinitediscs.com/Fourth-Circle-Discs-Huntsman
 Fourth Circle Discs,Dingo,5.0,5.0,0.0,3.0,3.0,21.5 cm,1.6 cm,1.3 cm,1.3 cm,Beadless,https://infinitediscs.com/Fourth-Circle-Discs-Dingo
-Fourth Circle Discs,Firehawk,8.0,5.0,-2.0,1.0,-1.0,21.3 cm,1.9 cm,1.2 cm,1.8 cm,Beadless,https://infinitediscs.com/Fourth-Circle-Discs-Firehawk
+Fourth Circle Discs,Firehawk,8.0,5.0,-2.0,1.0,-1.0,21.2 cm,1.8 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Fourth-Circle-Discs-Firehawk
 Fourth Circle Discs,Taipan,13.0,5.0,0.0,3.0,3.0,21.1 cm,1.6 cm,1.1 cm,2.4 cm,Beadless,https://infinitediscs.com/Fourth-Circle-Discs-Taipan
 Full Turn,Expedition,1.0,1.0,0.0,0.0,0.0,21.0 cm,1.7 cm,1.2 cm,2.1 cm,Beadless,https://infinitediscs.com/Full-Turn-Expedition
 Full Turn,Passport,4.0,4.0,-1.0,1.0,0.0,21.2 cm,2.1 cm,1.6 cm,1.0 cm,Beadless,https://infinitediscs.com/Full-Turn-Passport
@@ -330,13 +332,6 @@ Gateway,Slayer,13.0,5.0,-1.0,2.0,1.0,21.0 cm,1.7 cm,1.2 cm,2.3 cm,Beadless,https
 Guru Disc Golf,Mjolner,2.0,3.0,0.0,1.0,1.0,21.2 cm,2.0 cm,1.5 cm,1.0 cm,Beaded,https://infinitediscs.com/Guru-Disc-Golf-Mjolner
 Guru Disc Golf,Thor,4.0,4.0,0.0,2.0,2.0,21.7 cm,2.1 cm,1.3 cm,1.3 cm,Beaded,https://infinitediscs.com/Guru-Disc-Golf-Thor
 Guru Disc Golf,Midgard,6.0,5.0,-1.0,1.0,0.0,21.1 cm,1.7 cm,1.1 cm,1.8 cm,Beadless,https://infinitediscs.com/Guru-Disc-Golf-Midgard
-Hyzer Bomb,Tank,2.0,2.0,0.0,2.0,2.0,21.2 cm,2.0 cm,1.3 cm,0.9 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Tank
-Hyzer Bomb,Tank-Panzer,2.0,2.0,0.0,3.0,3.0,21.2 cm,2.1 cm,1.4 cm,1.2 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Tank-Panzer
-Hyzer Bomb,Mortar,5.0,4.0,0.0,3.0,3.0,21.2 cm,1.9 cm,1.4 cm,1.4 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Mortar
-Hyzer Bomb,Moab,6.0,4.0,1.0,5.0,6.0,21.9 cm,1.7 cm,1.2 cm,1.8 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Moab
-Hyzer Bomb,Veteran,7.0,4.0,0.0,1.0,1.0,21.1 cm,1.8 cm,1.2 cm,1.8 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Veteran
-Hyzer Bomb,Marksman,9.0,5.0,-1.0,2.0,1.0,21.2 cm,1.4 cm,1.1 cm,1.9 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Marksman
-Hyzer Bomb,Sabot,11.0,4.0,0.0,5.0,5.0,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/Hyzer-Bomb-Sabot
 Infinite Discs,Scarab,2.0,4.0,0.0,1.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,https://infinitediscs.com/Infinite-Discs-Scarab
 Infinite Discs,Myth,2.0,3.0,0.0,2.0,2.0,21.1 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,https://infinitediscs.com/Infinite-Discs-Myth
 Infinite Discs,Alpaca,3.0,3.0,0.0,1.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Infinite-Discs-Alpaca
@@ -521,7 +516,6 @@ Kaufinator Discs,Kaufinator Aftermath,13.0,5.0,-2.0,3.0,1.0,21.1 cm,1.7 cm,1.1 c
 Kaufinator Discs,Kaufinator Cannon,14.0,5.0,-3.0,3.0,0.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Cannon
 Kaufinator Discs,Kaufinator Rampage,14.0,5.0,-1.0,4.0,3.0,21.1 cm,1.8 cm,1.2 cm,2.5 cm,Beadless,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Rampage
 Latitude 64,Beetle,1.0,7.0,-1.0,0.0,-1.0,21.9 cm,2.2 cm,1.6 cm,0.8 cm,Beadless,https://infinitediscs.com/Latitude-64-Beetle
-Latitude 64,Rive,1.0,1.0,0.0,0.0,0.0,1.0 cm,1.0 cm,1.0 cm,1.0 cm,Beadless,https://infinitediscs.com/Latitude-64-Rive
 Latitude 64,Keystone,2.0,5.0,-1.0,1.0,0.0,21.1 cm,1.9 cm,1.5 cm,1.0 cm,Beadless,https://infinitediscs.com/Latitude-64-Keystone
 Latitude 64,Dagger,2.0,5.0,0.0,1.0,1.0,21.1 cm,2.1 cm,1.5 cm,1.0 cm,Beaded,https://infinitediscs.com/Latitude-64-Dagger
 Latitude 64,Gauntlet,2.0,4.0,0.0,1.0,1.0,21.2 cm,2.1 cm,1.5 cm,1.1 cm,Beaded,https://infinitediscs.com/Latitude-64-Gauntlet
@@ -579,6 +573,7 @@ Latitude 64,Havoc,13.0,5.0,-1.0,3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,ht
 Latitude 64,Halo,13.0,5.0,-0.5,3.0,2.5,21.1 cm,1.4 cm,1.1 cm,2.4 cm,Beadless,https://infinitediscs.com/Latitude-64-Halo
 Latitude 64,Cutlass,13.0,5.0,0.0,3.5,3.5,21.1 cm,1.7 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/Latitude-64-Cutlass
 Latitude 64,Gladiator,13.0,5.0,0.0,3.5,3.5,21.1 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Latitude-64-Gladiator
+Latitude 64,Rive,13.0,5.0,0.0,3.5,3.5,21.1 cm,1.8 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Latitude-64-Rive
 Latitude 64,Stiletto,13.0,3.0,0.5,5.0,5.5,21.5 cm,1.5 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Latitude-64-Stiletto
 Latitude 64,Ballista,14.0,5.0,-1.0,3.0,2.0,21.1 cm,1.7 cm,1.1 cm,2.4 cm,Beadless,https://infinitediscs.com/Latitude-64-Ballista
 Latitude 64,Knight,14.0,4.0,-1.5,4.0,2.5,21.1 cm,1.6 cm,1.1 cm,2.5 cm,Beadless,https://infinitediscs.com/Latitude-64-Knight
@@ -762,6 +757,7 @@ Prodigy,F Model OS,10.0,5.0,2.0,4.0,6.0,21.3 cm,1.5 cm,1.1 cm,2.1 cm,Beadless,ht
 Prodigy,H3 V2,11.0,5.0,-1.0,2.0,1.0,21.3 cm,1.8 cm,1.2 cm,2.0 cm,Beaded,https://infinitediscs.com/Prodigy-H3-V2
 Prodigy,H2 V2,11.0,5.0,0.0,2.5,2.5,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,https://infinitediscs.com/Prodigy-H2-V2
 Prodigy,H1 V2,11.0,4.0,0.0,3.0,3.0,21.4 cm,1.6 cm,1.2 cm,2.0 cm,Beadless,https://infinitediscs.com/Prodigy-H1-V2
+Prodigy,D Model US,12.0,6.0,-4.0,1.0,-3.0,21.2 cm,1.8 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Prodigy-D-Model-Us
 Prodigy,D4 Max,12.0,6.0,-4.0,1.0,-3.0,21.0 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,https://infinitediscs.com/Prodigy-D4-Max
 Prodigy,D6,12.0,6.0,-4.0,1.0,-3.0,21.0 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,https://infinitediscs.com/Prodigy-D6
 Prodigy,D5,12.0,6.0,-4.0,2.0,-2.0,21.1 cm,1.6 cm,1.2 cm,2.4 cm,Beadless,https://infinitediscs.com/Prodigy-D5
@@ -774,7 +770,6 @@ Prodigy,D2 Max,12.0,6.0,-1.0,3.0,2.0,21.1 cm,1.9 cm,1.2 cm,2.4 cm,Beadless,https
 Prodigy,D1,12.0,5.0,0.0,3.0,3.0,21.0 cm,1.9 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Prodigy-D1
 Prodigy,D1 Max,12.0,5.0,0.0,3.0,3.0,21.0 cm,1.6 cm,1.2 cm,2.3 cm,Beadless,https://infinitediscs.com/Prodigy-D1-Max
 Prodigy,X5,13.0,5.0,-4.0,1.0,-3.0,21.1 cm,1.9 cm,1.1 cm,2.2 cm,Beadless,https://infinitediscs.com/Prodigy-X5
-Prodigy,D Model US,13.0,6.0,-3.0,1.0,-2.0,21.0 cm,1.6 cm,1.1 cm,2.2 cm,Beadless,https://infinitediscs.com/Prodigy-D-Model-US
 Prodigy,X4,13.0,5.0,-2.5,2.0,-0.5,21.2 cm,1.7 cm,1.1 cm,2.3 cm,Beadless,https://infinitediscs.com/Prodigy-X4
 Prodigy,D Model S,13.0,6.0,0.0,2.0,2.0,21.0 cm,1.6 cm,1.2 cm,2.2 cm,Beadless,https://infinitediscs.com/Prodigy-D-Model-S
 Prodigy,D Model OS,13.0,5.0,0.0,4.0,4.0,21.0 cm,1.5 cm,1.1 cm,2.2 cm,Beadless,https://infinitediscs.com/Prodigy-D-Model-OS
