@@ -129,7 +129,7 @@ if __name__ == "__main__":
     html = urlopen(url).read()
     soup = BeautifulSoup(html, features="html.parser")
 
-    pool = Pool(processes=4)
+    pool = Pool(processes=2)
 
     menu = soup.find("div", {"id": "main-menu"})
     menu_items = [li for li in flatten_li(menu.findAll("li")) if li != None]
